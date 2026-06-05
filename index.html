@@ -1,237 +1,214 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Noticias internacionales Actualizadas</title>
-<meta name="description" content="Portal de noticias recientes actualizado automáticamente con estilo profesional">
-
-<!-- Google Ads -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125166334282472"
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125166334282472"
      crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PulsoMX - Las últimas noticias de México actualizadas al instante. Política, deportes, economía y más.">
+    <meta name="keywords" content="noticias mexico, ultimas noticias, noticias hoy, mexico noticias">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="PulsoMX">
+    <meta property="og:title" content="PulsoMX | Últimas Noticias de México">
+    <meta property="og:description" content="Las noticias más importantes de México, actualizadas automáticamente.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://daniel00998888.github.io/PulsoMX/">
+    <title>PulsoMX | Últimas Noticias de México</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --rojo:#c0152a; --rojo-oscuro:#8b0f1e; --amarillo:#f5b800; --gris:#f4f4f2; --texto:#1a1a2e; --texto-suave:#6b7280; }
+        *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+        html { -webkit-text-size-adjust:100%; text-size-adjust:100%; }
+        body { font-family:'Source Sans 3',sans-serif; background:var(--gris); color:var(--texto); min-width:320px; overflow-x:hidden; }
+        img { max-width:100%; height:auto; display:block; }
 
-<style>
-/* ===== Estilos Globales ===== */
-body {
-  font-family: 'Roboto', Arial, sans-serif;
-  margin:0;
-  padding:0;
-  background:#f5f5f5;
-  color:#333;
-}
-a { text-decoration:none; color:inherit; }
-header {
-  background: linear-gradient(90deg,#ff416c,#ff4b2b);
-  color:white;
-  padding:25px 20px;
-  text-align:center;
-  position: sticky;
-  top:0;
-  z-index: 1000;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-}
-header h1 { margin:0; font-size:2rem; letter-spacing:1px; }
+        /* HEADER */
+        header { background:var(--rojo); position:sticky; top:0; z-index:100; box-shadow:0 2px 12px rgba(0,0,0,0.3); }
+        .header-inner { max-width:1200px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; padding:10px 16px; gap:12px; }
+        .logo { font-family:'Playfair Display',serif; font-size:clamp(1.2rem,4vw,1.8rem); font-weight:900; color:white; text-decoration:none; letter-spacing:-1px; white-space:nowrap; flex-shrink:0; }
+        .logo span { color:var(--amarillo); }
+        .header-nav { display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+        .header-nav a { color:rgba(255,255,255,0.85); text-decoration:none; font-size:clamp(0.7rem,2vw,0.85rem); font-weight:600; text-transform:uppercase; transition:color 0.2s; white-space:nowrap; }
+        .header-nav a:hover { color:var(--amarillo); }
+        .btn-clima-header { background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); color:white!important; padding:5px 12px; border-radius:20px; display:flex; align-items:center; gap:6px; cursor:pointer; transition:background 0.2s!important; }
+        .btn-clima-header:hover { background:rgba(255,255,255,0.25)!important; color:white!important; }
+        @media (max-width:480px) { .header-nav .hide-xs { display:none; } }
 
-/* ===== Main ===== */
-main {
-  max-width:1200px;
-  margin:20px auto;
-  padding:0 20px;
-}
+        /* BREAKING BAR */
+        .breaking-bar { background:var(--amarillo); color:var(--texto); padding:5px 0; overflow:hidden; }
+        .breaking-inner { max-width:1200px; margin:0 auto; padding:0 16px; display:flex; gap:10px; align-items:center; overflow:hidden; }
+        .breaking-label { font-weight:900; font-size:0.7rem; text-transform:uppercase; letter-spacing:1px; white-space:nowrap; color:var(--rojo); flex-shrink:0; }
+        .breaking-text { font-size:0.8rem; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; }
 
-/* ===== Carrusel ===== */
-.carousel {
-  position: relative;
-  overflow: hidden;
-  border-radius: 12px;
-  margin-bottom: 30px;
-  background: #fff4f0;
-  height: 100px;
-  display:flex;
-  align-items:center;
-}
-.carousel-track {
-  display: flex;
-  transition: transform 0.6s ease-in-out;
-}
-.carousel-item {
-  min-width: 100%;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  font-size:1.2rem;
-  font-weight:bold;
-  cursor:pointer;
-  text-align:center;
-  padding:0 15px;
-}
-.carousel-item:hover { background:#ffd1c1; color:#000; }
+        /* AD */
+        .ad-top { text-align:center; padding:8px; background:#f0f0f0; border-bottom:1px solid #e0e0e0; overflow:hidden; min-height:10px; }
 
-/* ===== Noticias detalladas ===== */
-.news-detail {
-  background:white;
-  padding:20px;
-  margin-bottom:20px;
-  border-radius:10px;
-  box-shadow:0 6px 12px rgba(0,0,0,0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-.news-detail:hover {
-  transform: translateY(-5px);
-  box-shadow:0 10px 20px rgba(0,0,0,0.15);
-}
-.news-detail h2 { margin-top:0; color:#ff4b2b; font-size:1.5rem; }
-.news-detail p { font-size:1rem; line-height:1.6; }
-.news-detail a { color:#ff416c; font-weight:bold; }
-.news-detail a:hover { text-decoration:underline; }
+        /* MAIN LAYOUT */
+        .main-wrapper { max-width:1200px; margin:20px auto; padding:0 16px; display:grid; grid-template-columns:1fr 300px; gap:24px; }
+        @media (max-width:960px) { .main-wrapper { grid-template-columns:1fr; } .sidebar { display:none; } }
 
-/* ===== Google Ads ===== */
-.ads-container {
-  margin:20px 0;
-  text-align:center;
-}
+        /* SECTION TITLE */
+        .section-title { font-family:'Playfair Display',serif; font-size:clamp(1rem,3vw,1.3rem); font-weight:900; border-left:4px solid var(--rojo); padding-left:12px; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.5px; }
 
-/* ===== Footer ===== */
-footer {
-  background:#ff4b2b;
-  color:white;
-  text-align:center;
-  padding:25px 20px;
-  margin-top:40px;
-  font-size:0.9rem;
-}
+        /* HERO CARD */
+        .hero-card { background:white; border-radius:12px; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,0.07); margin-bottom:20px; text-decoration:none; color:inherit; display:block; transition:transform 0.2s,box-shadow 0.2s; }
+        .hero-card:hover { transform:translateY(-3px); box-shadow:0 8px 24px rgba(0,0,0,0.12); }
+        .hero-card img { width:100%; height:clamp(180px,35vw,340px); object-fit:cover; }
+        .hero-card-body { padding:clamp(14px,3vw,24px); }
+        .hero-card .tag { background:var(--rojo); color:white; font-size:0.7rem; font-weight:700; letter-spacing:1px; text-transform:uppercase; padding:3px 10px; border-radius:4px; display:inline-block; margin-bottom:10px; }
+        .hero-card h2 { font-family:'Playfair Display',serif; font-size:clamp(1.1rem,3.5vw,1.7rem); font-weight:900; line-height:1.25; margin-bottom:8px; color:var(--texto); }
+        .hero-card p { color:var(--texto-suave); font-size:clamp(0.82rem,2vw,0.95rem); line-height:1.6; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
 
-/* ===== Responsive ===== */
-@media(max-width:768px){
-  .carousel { height:80px; }
-  .carousel-item { font-size:1rem; }
-  .news-detail h2 { font-size:1.2rem; }
-}
-</style>
+        /* NEWS GRID */
+        .news-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:14px; }
+        @media (max-width:500px) { .news-grid { grid-template-columns:1fr; } }
+        .news-card { background:white; border-radius:10px; overflow:hidden; box-shadow:0 1px 6px rgba(0,0,0,0.06); text-decoration:none; color:inherit; display:block; transition:transform 0.2s,box-shadow 0.2s; }
+        .news-card:hover { transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,0.1); }
+        .news-card img { width:100%; height:clamp(130px,20vw,170px); object-fit:cover; }
+        .news-card-body { padding:clamp(10px,2vw,14px); }
+        .news-card .fecha { font-size:0.68rem; color:var(--rojo); font-weight:700; text-transform:uppercase; letter-spacing:0.5px; }
+        .news-card h3 { font-family:'Playfair Display',serif; font-size:clamp(0.85rem,2.2vw,1rem); font-weight:700; line-height:1.35; margin-top:4px; color:var(--texto); display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+
+        /* AD EN GRID */
+        .ad-in-grid { background:#f0f0f0; border-radius:10px; display:flex; align-items:center; justify-content:center; min-height:60px; text-align:center; overflow:hidden; }
+
+        /* SIDEBAR */
+        .sidebar-widget { background:white; border-radius:10px; padding:16px; margin-bottom:18px; box-shadow:0 1px 6px rgba(0,0,0,0.06); }
+        .sidebar-title { font-family:'Playfair Display',serif; font-size:0.95rem; font-weight:900; border-bottom:2px solid var(--rojo); padding-bottom:8px; margin-bottom:12px; text-transform:uppercase; }
+        .sidebar-news-item { display:flex; gap:10px; align-items:flex-start; padding:8px 0; border-bottom:1px solid #f0f0f0; text-decoration:none; color:inherit; }
+        .sidebar-news-item:last-child { border-bottom:none; padding-bottom:0; }
+        .sidebar-news-item img { width:68px; height:52px; object-fit:cover; border-radius:6px; flex-shrink:0; }
+        .sidebar-news-item h4 { font-size:0.78rem; font-weight:700; line-height:1.35; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+        .sidebar-news-item span { font-size:0.63rem; color:var(--rojo); font-weight:700; display:block; margin-bottom:2px; }
+        .ad-sidebar { text-align:center; overflow:hidden; margin-bottom:18px; min-height:50px; }
+
+        /* FOOTER */
+        footer { background:var(--texto); color:rgba(255,255,255,0.7); margin-top:40px; padding:24px 16px; text-align:center; font-size:clamp(0.72rem,2vw,0.8rem); }
+        footer a { color:var(--amarillo); text-decoration:none; }
+        footer a:hover { text-decoration:underline; }
+        .footer-links { display:flex; justify-content:center; gap:14px; margin-bottom:10px; flex-wrap:wrap; }
+
+        /* SKELETON */
+        .skeleton { background:linear-gradient(90deg,#e0e0e0 25%,#ebebeb 50%,#e0e0e0 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; border-radius:8px; }
+        @keyframes shimmer { 0% { background-position:200% 0; } 100% { background-position:-200% 0; } }
+    </style>
 </head>
 <body>
 
-<header>
-  <h1>🌎 Noticias Internacionales</h1>
-</header>
+    <header>
+        <div class="header-inner">
+            <a href="index.html" class="logo">⚡ PULSO<span>MX</span></a>
+            <nav class="header-nav">
+                <a href="index.html"><i class="fa-solid fa-house"></i> <span class="hide-xs">Inicio</span></a>
+                <a href="privacidad.html" class="hide-xs">Privacidad</a>
+                <a href="terminos.html" class="hide-xs">Términos</a>
+                <a href="contacto.html" class="hide-xs">Contacto</a>
+                <a href="clima.html" class="btn-clima-header">
+                    <i class="fa-solid fa-cloud-sun"></i> <span>Clima</span>
+                </a>
+            </nav>
+        </div>
+    </header>
 
-<main>
-  <!-- Carrusel de titulares -->
-  <div class="carousel">
-    <div class="carousel-track" id="carousel-track"></div>
-  </div>
+    <div class="breaking-bar">
+        <div class="breaking-inner">
+            <span class="breaking-label">🔴 Ahora</span>
+            <span class="breaking-text" id="breaking-text">Cargando titulares...</span>
+        </div>
+    </div>
 
-  <!-- Noticias detalladas -->
-  <div id="news-container"></div>
+    <div class="ad-top"></div>
 
-  <!-- Bloque de Google Ads -->
-  <div class="ads-container">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-2125166334282472"
-         data-ad-slot="3333333333"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
+    <div class="main-wrapper">
+        <main>
+            <p class="section-title">Titulares de Hoy</p>
+            <div id="hero-container">
+                <div class="hero-card">
+                    <div class="skeleton" style="height:clamp(180px,35vw,340px);"></div>
+                    <div class="hero-card-body">
+                        <div class="skeleton" style="height:18px;width:70px;margin-bottom:10px;"></div>
+                        <div class="skeleton" style="height:32px;margin-bottom:8px;"></div>
+                        <div class="skeleton" style="height:14px;"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="news-grid" class="news-grid"></div>
+        </main>
+
+        <aside class="sidebar">
+            <div class="sidebar-widget">
+                <p class="sidebar-title">Lo más leído</p>
+                <div id="sidebar-list"></div>
+            </div>
+            <div class="ad-sidebar"></div>
+        </aside>
+    </div>
+
+    <footer>
+        <div class="footer-links">
+            <a href="index.html">Inicio</a>
+            <a href="privacidad.html">Política de Privacidad</a>
+            <a href="terminos.html">Términos de Uso</a>
+            <a href="contacto.html">Contacto</a>
+            <a href="acerca.html">Acerca de</a>
+        </div>
+        <p>© 2025 PulsoMX — Noticias de México actualizadas automáticamente.</p>
+        <p style="margin-top:5px;font-size:0.72rem;opacity:0.6;">Las noticias son recopiladas de fuentes públicas. PulsoMX no se responsabiliza por el contenido de terceros.</p>
+    </footer>
+
     <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-  </div>
-</main>
+        /* ══ NOTICIAS ══ */
+        fetch("data/noticias.json")
+            .then(res => res.json())
+            .then(data => {
+                const noticias = [...data].reverse();
+                if (noticias.length > 0) document.getElementById('breaking-text').innerText = noticias[0].titulo;
 
-<footer>
-  <p>© 2025 Noticias Profesionales. Todos los derechos reservados.</p>
-</footer>
+                const hero = noticias[0];
+                document.getElementById('hero-container').innerHTML = `
+                    <a href="noticia.html?id=${hero.id}" class="hero-card">
+                        <img src="${hero.imagen}" alt="${hero.titulo}" loading="lazy">
+                        <div class="hero-card-body">
+                            <span class="tag">Destacado</span>
+                            <h2>${hero.titulo}</h2>
+                            <p>${limpiarHTML(hero.resumen)}</p>
+                        </div>
+                    </a>`;
 
-<script>
-// RSS Feed Público (BBC Mundo)
-const RSS_URL = "https://feeds.bbci.co.uk/mundo/rss.xml";
-
-// Obtener noticias usando API pública para convertir RSS a JSON
-async function fetchNews() {
-    try {
-        const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_URL)}`);
-        const data = await response.json();
-        return data.items.slice(0,30); // máximo 30 noticias
-    } catch(e){
-        console.error("Error al obtener noticias:", e);
-        return [];
-    }
-}
-
-// Crear carrusel y noticias detalladas
-async function initNews() {
-    const newsItems = await fetchNews();
-    if(newsItems.length === 0){
-        document.getElementById("news-container").innerHTML = "<p>No se pudieron cargar las noticias. Intente más tarde.</p>";
-        return;
-    }
-
-    const carouselTrack = document.getElementById("carousel-track");
-    const newsContainer = document.getElementById("news-container");
-
-    newsItems.forEach((item, index) => {
-        // Carrusel
-        const cItem = document.createElement("div");
-        cItem.className = "carousel-item";
-        cItem.textContent = item.title;
-        cItem.dataset.target = `news${index}`;
-        carouselTrack.appendChild(cItem);
-
-        // Noticias detalladas
-        const nItem = document.createElement("div");
-        nItem.className = "news-detail";
-        nItem.id = `news${index}`;
-        nItem.innerHTML = `<h2>${item.title}</h2><p>${item.description}<br><a href="${item.link}" target="_blank">Leer más</a></p>`;
-        newsContainer.appendChild(nItem);
-    });
-
-    // Carrusel automático
-    const items = Array.from(carouselTrack.children);
-    let idx = 0;
-    setInterval(() => {
-        idx = (idx + 1) % items.length;
-        carouselTrack.style.transform = `translateX(-${idx * 100}%)`;
-    }, 4000);
-
-    // Click en carrusel lleva a noticia detallada
-    items.forEach(item => {
-        item.addEventListener('click', () => {
-            const target = document.getElementById(item.dataset.target);
-            target.scrollIntoView({behavior: 'smooth'});
-        });
-    });
-
-    // Actualización automática cada 30 min
-    setInterval(async () => {
-        const newNews = await fetchNews();
-        if(newNews.length > 0) {
-            carouselTrack.innerHTML = "";
-            newsContainer.innerHTML = "";
-            newNews.forEach((item, index) => {
-                const cItem = document.createElement("div");
-                cItem.className = "carousel-item";
-                cItem.textContent = item.title;
-                cItem.dataset.target = `news${index}`;
-                carouselTrack.appendChild(cItem);
-
-                const nItem = document.createElement("div");
-                nItem.className = "news-detail";
-                nItem.id = `news${index}`;
-                nItem.innerHTML = `<h2>${item.title}</h2><p>${item.description}<br><a href="${item.link}" target="_blank">Leer más</a></p>`;
-                newsContainer.appendChild(nItem);
-
-                cItem.addEventListener('click', () => {
-                    const target = document.getElementById(cItem.dataset.target);
-                    target.scrollIntoView({behavior:'smooth'});
+                const grid = document.getElementById('news-grid');
+                grid.innerHTML = '';
+                noticias.slice(1).forEach((n, i) => {
+                    if (i > 0 && i % 4 === 0) grid.innerHTML += `<div class="ad-in-grid"></div>`;
+                    grid.innerHTML += `
+                        <a href="noticia.html?id=${n.id}" class="news-card">
+                            <img src="${n.imagen}" alt="${n.titulo}" loading="lazy">
+                            <div class="news-card-body">
+                                <span class="fecha">${n.fecha}</span>
+                                <h3>${n.titulo}</h3>
+                            </div>
+                        </a>`;
                 });
+
+                const sidebar = document.getElementById('sidebar-list');
+                noticias.slice(0, 5).forEach(n => {
+                    sidebar.innerHTML += `
+                        <a href="noticia.html?id=${n.id}" class="sidebar-news-item">
+                            <img src="${n.imagen}" alt="${n.titulo}" loading="lazy">
+                            <div><span>${n.fecha}</span><h4>${n.titulo}</h4></div>
+                        </a>`;
+                });
+            })
+            .catch(() => {
+                document.getElementById('news-grid').innerHTML = `<p style="color:#999;padding:20px;grid-column:1/-1;text-align:center;">Esperando la primera actualización automática...</p>`;
             });
+
+        function limpiarHTML(html) {
+            const div = document.createElement('div');
+            div.innerHTML = html;
+            return div.textContent || div.innerText || '';
         }
-    }, 1800000); // cada 30 minutos
-}
-
-// Inicializar
-initNews();
-</script>
-
+    </script>
 </body>
 </html>
