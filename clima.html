@@ -1,1 +1,296 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125166334282472"
+     crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="PulsoMX">
+    <title>Pronóstico del Clima Detallado | PulsoMX</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root { --rojo: #c0152a; --rojo-oscuro: #8b0f1e; --amarillo: #f5b800; --gris: #f4f4f2; --texto: #1a1a2e; --texto-suave: #6b7280; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Source Sans 3', sans-serif; background: var(--gris); color: var(--texto); min-width: 320px; overflow-x: hidden; }
+        
+        /* HEADER */
+        header { background: var(--rojo); position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 12px rgba(0,0,0,0.3); }
+        .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; gap: 12px; }
+        .logo { font-family: 'Playfair Display', serif; font-size: clamp(1.2rem, 4vw, 1.8rem); font-weight: 900; color: white; text-decoration: none; white-space: nowrap; }
+        .logo span { color: var(--amarillo); }
+        .header-nav { display: flex; gap: 12px; flex-wrap: wrap; }
+        .header-nav a { color: rgba(255,255,255,0.85); text-decoration: none; font-size: clamp(0.7rem, 2vw, 0.85rem); font-weight: 600; text-transform: uppercase; white-space: nowrap; }
+        .header-nav a:hover { color: var(--amarillo); }
 
+        /* PUBLICIDAD BANNER RESPONSIVO */
+        .ad-container { text-align: center; padding: 10px 16px; background: #e9e9e6; border-bottom: 1px solid #dcdcd9; overflow: hidden; }
+        .ad-728 { display: block; }
+        .ad-320 { display: none; }
+        @media (max-width: 767px) { .ad-728 { display: none; } .ad-320 { display: block; } }
+
+        /* CONTENEDOR PRINCIPAL */
+        .weather-wrapper { max-width: 800px; margin: 30px auto; padding: 0 16px; }
+        
+        .weather-card { background: white; border-radius: 16px; padding: clamp(20px, 5vw, 35px); box-shadow: 0 4px 20px rgba(0,0,0,0.08); text-align: center; margin-bottom: 24px; }
+        .location-title { font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 5vw, 2.5rem); font-weight: 900; color: var(--texto); margin-bottom: 5px; }
+        .weather-date { font-size: 0.95rem; color: var(--texto-suave); font-weight: 600; margin-bottom: 20px; text-transform: capitalize; }
+        
+        /* PANTALLA PRINCIPAL EN VIVO */
+        .main-weather-row { display: flex; align-items: center; justify-content: center; gap: 25px; margin-bottom: 25px; flex-wrap: wrap; }
+        .main-weather-row i { font-size: clamp(3.5rem, 10vw, 5rem); color: var(--rojo); }
+        .current-temp-box h1 { font-size: clamp(3.5rem, 10vw, 5.5rem); font-family: 'Playfair Display', serif; line-height: 1; color: var(--texto); }
+        .current-temp-box p { font-size: 1.1rem; font-weight: 700; color: var(--rojo); text-transform: capitalize; margin-top: 5px; }
+
+        .temp-high-low { font-size: 1.05rem; color: var(--texto-suave); margin-bottom: 25px; }
+        .temp-high-low span { color: var(--texto); font-weight: 700; }
+
+        /* REJILLA DE DETALLES EXTENDIDOS */
+        .weather-details-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-top: 20px; }
+        .detail-item { background: var(--gris); padding: 14px; border-radius: 10px; display: flex; align-items: center; gap: 12px; text-align: left; }
+        .detail-item i { font-size: 1.3rem; color: var(--rojo); width: 24px; text-align: center; }
+        .detail-info p { font-size: 0.75rem; color: var(--texto-suave); font-weight: 600; text-transform: uppercase; }
+        .detail-info h4 { font-size: 1.05rem; font-weight: 700; color: var(--texto); }
+
+        /* PRONÓSTICO DE 7 DÍAS */
+        .forecast-section { background: white; border-radius: 16px; padding: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+        .forecast-title { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 900; text-align: left; margin-bottom: 16px; border-left: 4px solid var(--rojo); padding-left: 12px; text-transform: uppercase; }
+        .forecast-list { display: flex; flex-direction: column; }
+        .forecast-row { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #eee; font-size: 0.95rem; }
+        .forecast-row:last-child { border-bottom: none; }
+        .forecast-day-name { font-weight: 700; min-width: 100px; text-align: left; text-transform: capitalize; }
+        .forecast-cond { display: flex; align-items: center; gap: 10px; color: var(--texto-suave); font-weight: 600; }
+        .forecast-cond i { color: var(--rojo); width: 20px; text-align: center; }
+        .forecast-rain { font-size: 0.8rem; color: #1d72b8; font-weight: 700; }
+        .forecast-temps { text-align: right; font-weight: 600; color: var(--texto-suave); min-width: 80px; }
+        .forecast-temps span { color: var(--texto); font-weight: 700; margin-left: 6px; }
+
+        /* FOOTER */
+        footer { background: var(--texto); color: rgba(255,255,255,0.7); margin-top: 50px; padding: 24px 16px; text-align: center; font-size: 0.8rem; }
+        footer a { color: var(--amarillo); text-decoration: none; }
+
+        #weather-loader { text-align: center; padding: 80px 16px; color: var(--texto-suave); }
+    </style>
+
+    <script src="https://alarmpenguinmelt.com/c9/7f/52/c97f52ee91d1bd3652fce5a2f49b61c5.js"></script>
+</head>
+<body>
+
+    <header>
+        <div class="header-inner">
+            <a href="index.html" class="logo">⚡ PULSO<span>MX</span></a>
+            <nav class="header-nav">
+                <a href="index.html"><i class="fa-solid fa-arrow-left"></i> Volver al Inicio</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="ad-container">
+        <div class="ad-728">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="728" height="90" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'7f7f7c1f4dcc288bb79ea8e84f8e3cfa','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://alarmpenguinmelt.com/7f7f7c1f4dcc288bb79ea8e84f8e3cfa/invoke.js'></script></body></html>"></iframe>
+        </div>
+        <div class="ad-320">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="320" height="50" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'d4763e5f8fb679f246c0f6db1eebe973','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://alarmpenguinmelt.com/d4763e5f8fb679f246c0f6db1eebe973/invoke.js'></script></body></html>"></iframe>
+        </div>
+    </div>
+
+    <div id="weather-loader">
+        <i class="fa-solid fa-cloud-sun fa-spin" style="color:var(--rojo);font-size:3rem;margin-bottom:15px;"></i>
+        <p style="font-weight:600;">Detectando tu ubicación por IP y cargando reporte detallado...</p>
+    </div>
+
+    <div id="weather-content" class="weather-wrapper" style="display: none;">
+        
+        <div class="weather-card">
+            <h1 id="loc-name" class="location-title">Tu Ciudad</h1>
+            <div id="loc-date" class="weather-date"></div>
+            
+            <div class="main-weather-row">
+                <i id="main-icon" class="fa-solid fa-cloud"></i>
+                <div class="current-temp-box">
+                    <h1 id="current-temp">--°C</h1>
+                    <p id="current-desc">--</p>
+                </div>
+            </div>
+
+            <div class="temp-high-low">
+                Sensación térmica: <span id="apparent-temp">--°C</span> | Mín: <span id="today-min">--°</span> - Máx: <span id="today-max">--°</span>
+            </div>
+
+            <div class="weather-details-grid">
+                <div class="detail-item">
+                    <i class="fa-solid fa-droplet"></i>
+                    <div class="detail-info"><p>Humedad</p><h4 id="det-humidity">--%</h4></div>
+                </div>
+                <div class="detail-item">
+                    <i class="fa-solid fa-cloud-showers-heavy"></i>
+                    <div class="detail-info"><p>Prob. Lluvia</p><h4 id="det-pop">--%</h4></div>
+                </div>
+                <div class="detail-item">
+                    <i class="fa-solid fa-wind"></i>
+                    <div class="detail-info"><p>Viento</p><h4 id="det-wind">-- km/h</h4></div>
+                </div>
+                <div class="detail-item">
+                    <i class="fa-solid fa-umbrella"></i>
+                    <div class="detail-info"><p>Precipitación</p><h4 id="det-precip">-- mm</h4></div>
+                </div>
+                <div class="detail-item">
+                    <i class="fa-solid fa-sun"></i>
+                    <div class="detail-info"><p>Índice UV</p><h4 id="det-uv">--</h4></div>
+                </div>
+                <div class="detail-item">
+                    <i class="fa-solid fa-gauge"></i>
+                    <div class="detail-info"><p>Presión</p><h4 id="det-pressure">-- hPa</h4></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ad-container" style="background:transparent;border:none;margin-bottom:24px;padding:0;">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="100%" height="250" frameborder="0" scrolling="no" srcdoc="<html><body><script async='async' data-cfasync='false' src='https://alarmpenguinmelt.com/7378a712ef2e1acc90b8893efa12f6e6/invoke.js'></script><div id='container-7378a712ef2e1acc90b8893efa12f6e6'></div></body></html>"></iframe>
+        </div>
+
+        <div class="forecast-section">
+            <h2 class="forecast-title">Pronóstico para los próximos días</h2>
+            <div id="forecast-list" class="forecast-list">
+                </div>
+        </div>
+
+    </div>
+
+    <div class="ad-container" style="margin-top:30px;">
+        <div class="ad-728">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="728" height="90" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'7f7f7c1f4dcc288bb79ea8e84f8e3cfa','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://alarmpenguinmelt.com/7f7f7c1f4dcc288bb79ea8e84f8e3cfa/invoke.js'></script></body></html>"></iframe>
+        </div>
+        <div class="ad-320">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="320" height="50" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'d4763e5f8fb679f246c0f6db1eebe973','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://alarmpenguinmelt.com/d4763e5f8fb679f246c0f6db1eebe973/invoke.js'></script></body></html>"></iframe>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 PulsoMX — Reporte meteorológico automatizado mediante IP-API y Open-Meteo.</p>
+    </footer>
+
+    <script>
+        // Mapeo completo de WMO Códigos de Clima a Icono y Descripción en Español
+        function parseWMO(code) {
+            const map = {
+                0: { icon: 'fa-sun', desc: 'Despejado cielo limpio' },
+                1: { icon: 'fa-cloud-sun', desc: 'Principalmente despejado' },
+                2: { icon: 'fa-cloud-sun', desc: 'Parcialmente nublado' },
+                3: { icon: 'fa-cloud', desc: 'Nublado completo' },
+                45: { icon: 'fa-smog', desc: 'Niebla densa' },
+                48: { icon: 'fa-smog', desc: 'Niebla de escarcha' },
+                51: { icon: 'fa-cloud-rain', desc: 'Llovizna ligera' },
+                53: { icon: 'fa-cloud-rain', desc: 'Llovizna moderada' },
+                55: { icon: 'fa-cloud-rain', desc: 'Llovizna intensa' },
+                61: { icon: 'fa-cloud-showers-heavy', desc: 'Lluvia ligera' },
+                63: { icon: 'fa-cloud-showers-heavy', desc: 'Lluvia moderada' },
+                65: { icon: 'fa-cloud-showers-heavy', desc: 'Lluvia fuerte' },
+                71: { icon: 'fa-snowflake', desc: 'Nevada ligera' },
+                73: { icon: 'fa-snowflake', desc: 'Nevada moderada' },
+                75: { icon: 'fa-snowflake', desc: 'Nevada intensa' },
+                80: { icon: 'fa-cloud-rain', desc: 'Chubascos ligeros' },
+                81: { icon: 'fa-cloud-rain', desc: 'Chubascos moderados' },
+                82: { icon: 'fa-cloud-rain', desc: 'Chubascos violentos' },
+                95: { icon: 'fa-cloud-bolt', desc: 'Tormenta eléctrica' },
+                96: { icon: 'fa-cloud-bolt', desc: 'Tormenta con granizo ligero' },
+                99: { icon: 'fa-cloud-bolt', desc: 'Tormenta con granizo fuerte' }
+            };
+            return map[code] || { icon: 'fa-cloud', desc: 'Nublado' };
+        }
+
+        // Formatear nombres de días correctamente
+        function getDayName(dateStr, index) {
+            if (index === 0) return "Hoy";
+            if (index === 1) return "Mañana";
+            const date = new Date(dateStr + 'T12:00:00');
+            return date.toLocaleDateString('es-MX', { weekday: 'long' });
+        }
+
+        // Paso 1: Localizar al usuario mediante IP pública de forma invisible
+        fetch('https://ipapi.co/json/')
+            .then(res => res.json())
+            .then(ipData => {
+                const ciudad = ipData.city || "Tu Ciudad";
+                const region = ipData.region || "México";
+                const lat = ipData.latitude || 25.5428;  // Respaldo
+                const lon = ipData.longitude || -103.4068; // Respaldo
+
+                document.getElementById('loc-name').innerText = `${ciudad}, ${region}`;
+                document.getElementById('loc-date').innerText = new Date().toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long' });
+
+                // Paso 2: Llamar los datos del clima detallado de Open-Meteo
+                return fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,surface_pressure&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,precipitation_probability_max,precipitation_sum,uv_index_max,windspeed_10m_max&timezone=auto`);
+            })
+            .then(res => res.json())
+            .then(weatherData => {
+                const current = weatherData.current_weather;
+                const daily = weatherData.daily;
+                const hourly = weatherData.hourly;
+
+                // Renderizar datos principales actuales
+                const currentCondition = parseWMO(current.weathercode);
+                document.getElementById('main-icon').className = `fa-solid ${currentCondition.icon}`;
+                document.getElementById('current-temp').innerText = `${Math.round(current.temperature)}°C`;
+                document.getElementById('current-desc').innerText = currentCondition.desc;
+                
+                document.getElementById('apparent-temp').innerText = `${Math.round(daily.apparent_temperature_max[0])}°C`;
+                document.getElementById('today-min').innerText = `${Math.round(daily.temperature_2m_min[0])}°`;
+                document.getElementById('today-max').innerText = `${Math.round(daily.temperature_2m_max[0])}°`;
+
+                // Rellenar bloques de la rejilla de especificaciones
+                document.getElementById('det-humidity').innerText = `${hourly.relativehumidity_2m[0]}%`;
+                document.getElementById('det-pop').innerText = `${daily.precipitation_probability_max[0]}%`;
+                document.getElementById('det-wind').innerText = `${Math.round(current.windspeed)} km/h`;
+                document.getElementById('det-precip').innerText = `${daily.precipitation_sum[0]} mm`;
+                document.getElementById('det-uv').innerText = Math.round(daily.uv_index_max[0]);
+                document.getElementById('det-pressure').innerText = `${Math.round(hourly.surface_pressure[0])} hPa`;
+
+                // Renderizar la lista de pronóstico extendido (7 Días completos)
+                const forecastList = document.getElementById('forecast-list');
+                forecastList.innerHTML = ''; // Limpiar indicador
+
+                for (let i = 0; i < daily.time.length; i++) {
+                    const dayCond = parseWMO(daily.weathercode[i]);
+                    const dayName = getDayName(daily.time[i], i);
+                    const maxTemp = Math.round(daily.temperature_2m_max[i]);
+                    const minTemp = Math.round(daily.temperature_2m_min[i]);
+                    const rainProb = daily.precipitation_probability_max[i];
+
+                    forecastList.innerHTML += `
+                        <div class="forecast-row">
+                            <div class="forecast-day-name">${dayName}</div>
+                            <div class="forecast-cond">
+                                <i class="fa-solid ${dayCond.icon}"></i>
+                                <span class="forecast-rain">${rainProb > 0 ? '<i class="fa-solid fa-umbrella" style="font-size:0.75rem;color:#1d72b8;"></i> ' + rainProb + '%' : ''}</span>
+                            </div>
+                            <div class="forecast-temps">
+                                ${minTemp}° <span>${maxTemp}°</span>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                // Ocultar Loader y activar Interfaz completa
+                document.getElementById('weather-loader').style.display = 'none';
+                document.getElementById('weather-content').style.display = 'block';
+            })
+            .catch(err => {
+                document.getElementById('weather-loader').innerHTML = `
+                    <i class="fa-solid fa-triangle-exclamation" style="color:var(--rojo);font-size:3rem;"></i>
+                    <p style="margin-top:10px;">No se pudo sincronizar el clima por IP en este dispositivo móvil de forma automática.</p>
+                `;
+            });
+    </script>
+
+    <iframe 
+        srcdoc="<!DOCTYPE html><html><head><style>body{margin:0;padding:0;overflow:hidden;}</style></head><body><script src='https://alarmpenguinmelt.com/dc/55/f1/dc55f1198cbf0bd4731db92aadc6b54f.js'></script></body></html>" 
+        sandbox="allow-scripts allow-popups allow-same-origin" 
+        style="position: fixed; bottom: 0; left: 0; width: 100%; height: 65px; border: none; z-index: 9999;" 
+        title="Social Bar Ad">
+    </iframe>
+    </body>
+</html>
