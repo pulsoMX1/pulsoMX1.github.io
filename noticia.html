@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2125166334282472"
-     crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
@@ -10,7 +8,7 @@
     <meta property="og:type" content="article">
     <title id="page-title">Noticia | PulsoMX</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght=700;900&family=Source+Sans+3:ital,wght=0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root { --rojo: #c0152a; --rojo-oscuro: #8b0f1e; --amarillo: #f5b800; --gris: #f4f4f2; --texto: #1a1a2e; --texto-suave: #6b7280; }
@@ -18,8 +16,6 @@
         html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
         body { font-family: 'Source Sans 3', sans-serif; background: var(--gris); color: var(--texto); min-width: 320px; overflow-x: hidden; }
         img { max-width: 100%; height: auto; display: block; }
-
-        /* HEADER */
         header { background: var(--rojo); position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 12px rgba(0,0,0,0.3); }
         .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; gap: 12px; }
         .logo { font-family: 'Playfair Display', serif; font-size: clamp(1.2rem, 4vw, 1.8rem); font-weight: 900; color: white; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
@@ -28,43 +24,27 @@
         .header-nav a { color: rgba(255,255,255,0.85); text-decoration: none; font-size: clamp(0.7rem, 2vw, 0.85rem); font-weight: 600; text-transform: uppercase; white-space: nowrap; }
         .header-nav a:hover { color: var(--amarillo); }
         @media (max-width: 480px) { .header-nav .hide-xs { display: none; } }
-
-        /* AD — desktop muestra 728, móvil muestra 320 */
         .ad-top { text-align: center; padding: 8px; background: #f0f0f0; border-bottom: 1px solid #e0e0e0; overflow: hidden; }
         .ad-728 { display: block; }
         .ad-320 { display: none; }
         @media (max-width: 767px) { .ad-728 { display: none; } .ad-320 { display: block; } }
-
-        /* LAYOUT */
         .article-wrapper { max-width: 1200px; margin: 20px auto; padding: 0 16px; display: grid; grid-template-columns: 1fr 300px; gap: 24px; }
         @media (max-width: 960px) { .article-wrapper { grid-template-columns: 1fr; } .sidebar { display: none; } }
-
-        /* BREADCRUMB */
         .breadcrumb { font-size: 0.78rem; color: var(--texto-suave); margin-bottom: 14px; word-break: break-word; }
         .breadcrumb a { color: var(--rojo); text-decoration: none; }
-
-        /* ARTICLE */
         article { background: white; border-radius: 12px; padding: clamp(16px, 4vw, 32px); box-shadow: 0 2px 12px rgba(0,0,0,0.07); }
         .article-tag { background: var(--rojo); color: white; font-size: 0.68rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; padding: 3px 10px; border-radius: 4px; display: inline-block; margin-bottom: 10px; }
         #title { font-family: 'Playfair Display', serif; font-size: clamp(1.3rem, 4vw, 2rem); font-weight: 900; line-height: 1.2; margin-bottom: 12px; color: var(--texto); word-break: break-word; }
         .article-meta { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee; margin-bottom: 18px; font-size: clamp(0.72rem, 2vw, 0.82rem); color: var(--texto-suave); flex-wrap: wrap; }
         .article-meta i { color: var(--rojo); }
         #image { width: 100%; height: clamp(180px, 40vw, 380px); object-fit: cover; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
-
-        /* AD dentro del artículo */
         .ad-article { text-align: center; margin: 24px 0; overflow: hidden; }
         .ad-article-native { margin: 24px 0; overflow: hidden; }
-        /* iframe nativo al 100% de ancho */
         .ad-article-native iframe { width: 100% !important; max-width: 100%; height: 250px; border: none; }
-
         #body { font-size: clamp(0.95rem, 2.5vw, 1.05rem); line-height: 1.85; color: #2d2d2d; word-break: break-word; }
         #body p { margin-bottom: 16px; }
-
-        /* SOURCE */
         .source-box { background: #f8f8f8; border-left: 4px solid var(--rojo); padding: 12px 16px; border-radius: 0 8px 8px 0; margin-top: 24px; font-size: 0.83rem; word-break: break-all; }
         .source-box a { color: var(--rojo); font-weight: 700; }
-
-        /* SHARE */
         .share-box { margin-top: 24px; padding-top: 18px; border-top: 1px solid #eee; }
         .share-box p { font-weight: 700; font-size: 0.88rem; margin-bottom: 10px; }
         .share-btns { display: flex; gap: 8px; flex-wrap: wrap; }
@@ -73,8 +53,6 @@
         .share-btn.wa { background: #25D366; }
         .share-btn.tw { background: #1DA1F2; }
         .share-btn.fb { background: #1877F2; }
-
-        /* RELATED */
         .related-title { font-family: 'Playfair Display', serif; font-size: clamp(1rem, 3vw, 1.2rem); font-weight: 900; border-left: 4px solid var(--rojo); padding-left: 12px; margin: 28px 0 16px; text-transform: uppercase; }
         .related-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 14px; }
         @media (max-width: 480px) { .related-grid { grid-template-columns: 1fr; } }
@@ -83,8 +61,6 @@
         .related-card img { width: 100%; height: clamp(110px, 18vw, 140px); object-fit: cover; }
         .related-card div { padding: 10px; }
         .related-card h4 { font-family: 'Playfair Display', serif; font-size: clamp(0.8rem, 2vw, 0.9rem); font-weight: 700; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-
-        /* SIDEBAR */
         .sidebar-widget { background: white; border-radius: 10px; padding: 16px; margin-bottom: 18px; box-shadow: 0 1px 6px rgba(0,0,0,0.06); }
         .sidebar-title { font-family: 'Playfair Display', serif; font-size: 0.95rem; font-weight: 900; border-bottom: 2px solid var(--rojo); padding-bottom: 8px; margin-bottom: 12px; text-transform: uppercase; }
         .sidebar-news-item { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #f0f0f0; text-decoration: none; color: inherit; }
@@ -93,28 +69,78 @@
         .sidebar-news-item h4 { font-size: 0.78rem; font-weight: 700; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
         .sidebar-news-item span { font-size: 0.63rem; color: var(--rojo); font-weight: 700; display: block; margin-bottom: 2px; }
         .ad-sidebar { text-align: center; overflow: hidden; margin-bottom: 18px; }
-
-        /* FOOTER */
         footer { background: var(--texto); color: rgba(255,255,255,0.7); margin-top: 40px; padding: 24px 16px; text-align: center; font-size: clamp(0.72rem, 2vw, 0.8rem); }
         footer a { color: var(--amarillo); text-decoration: none; }
         .footer-links { display: flex; justify-content: center; gap: 14px; margin-bottom: 10px; flex-wrap: wrap; }
-
         #loader { text-align: center; padding: 60px 16px; color: var(--texto-suave); }
-    </style>
 
+        /* ── MODAL BLOQUEO (adblock/vpn) ── */
+        #modal-bloqueo {
+            display: none; position: fixed; inset: 0; z-index: 999999;
+            background: rgba(10,10,20,0.97); backdrop-filter: blur(8px);
+            align-items: center; justify-content: center; padding: 20px;
+        }
+        #modal-bloqueo.activo { display: flex; }
+        #modal-bloqueo-card {
+            background: #1a1a2e; border: 1px solid #333; border-radius: 20px;
+            padding: 32px 24px; max-width: 420px; width: 100%; text-align: center;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+            animation: popIn 0.4s cubic-bezier(.36,.07,.19,.97) forwards;
+        }
+        @keyframes popIn {
+            0% { transform: scale(0.8); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        #modal-bloqueo-card .icono { font-size: 3.5rem; margin-bottom: 16px; }
+        #modal-bloqueo-card h2 { color: #fff; font-size: 1.3rem; font-weight: 900; margin-bottom: 8px; }
+        #modal-bloqueo-card p { color: #9ca3af; font-size: 0.9rem; line-height: 1.6; margin-bottom: 20px; }
+        #modal-bloqueo-card .pasos { background: #0f0f1e; border-radius: 12px; padding: 16px; text-align: left; margin-bottom: 20px; }
+        #modal-bloqueo-card .pasos p { color: #d1d5db; font-size: 0.83rem; margin-bottom: 8px; }
+        #modal-bloqueo-card .pasos p:last-child { margin-bottom: 0; }
+        #modal-bloqueo-card .pasos span { color: var(--amarillo); font-weight: 700; }
+        #btn-reintentar { background: var(--rojo); color: white; border: none; border-radius: 12px; padding: 12px 28px; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: background 0.2s; width: 100%; }
+        #btn-reintentar:hover { background: var(--rojo-oscuro); }
+    </style>
+    <script src="https://alarmpenguinmelt.com/c9/7f/52/c97f52ee91d1bd3652fce5a2f49b61c5.js" async></script>
 </head>
 <body>
+
+    <!-- ══ MODAL BLOQUEO ADBLOCK / VPN ══ -->
+    <div id="modal-bloqueo">
+        <div id="modal-bloqueo-card">
+            <div class="icono" id="modal-bloqueo-icono">🚫</div>
+            <h2 id="modal-bloqueo-titulo">AdBlock Detectado</h2>
+            <p id="modal-bloqueo-desc">Detectamos que tienes un bloqueador de anuncios activo. PulsoMX es gratuito gracias a los anuncios. Por favor desactívalo para continuar.</p>
+            <div class="pasos" id="modal-bloqueo-pasos">
+                <p><span>1.</span> Haz clic en el ícono de tu extensión (AdBlock, uBlock, etc.)</p>
+                <p><span>2.</span> Selecciona "Pausar en este sitio" o "Desactivar"</p>
+                <p><span>3.</span> Recarga la página</p>
+            </div>
+            <button id="btn-reintentar" onclick="window.location.reload()">
+                <i class="fa-solid fa-rotate-right" style="margin-right:8px;"></i>Ya lo desactivé — Recargar
+            </button>
+        </div>
+    </div>
 
     <header>
         <div class="header-inner">
             <a href="index.html" class="logo">⚡ PULSO<span>MX</span></a>
             <nav class="header-nav">
-                <a href="index.html"><i class="fa-solid fa-arrow-left"></i> <span class="hide-xs">Inicio</span></a>
+                <a id="nav-inicio" href="index.html"><i class="fa-solid fa-arrow-left"></i> <span class="hide-xs">Inicio</span></a>
                 <a href="privacidad.html" class="hide-xs">Privacidad</a>
                 <a href="contacto.html">Contacto</a>
             </nav>
         </div>
     </header>
+
+    <div class="ad-top">
+        <div class="ad-728">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="728" height="90" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'7f7f7c1f4dcc288bb79ea8e84f8e3cfa','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://alarmpenguinmelt.com/7f7f7c1f4dcc288bb79ea8e84f8e3cfa/invoke.js'></script></body></html>"></iframe>
+        </div>
+        <div class="ad-320">
+            <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="320" height="50" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'d4763e5f8fb679f246c0f6db1eebe973','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://alarmpenguinmelt.com/d4763e5f8fb679f246c0f6db1eebe973/invoke.js'></script></body></html>"></iframe>
+        </div>
+    </div>
 
     <div id="loader">
         <i class="fa-solid fa-spinner fa-spin" style="color:var(--rojo);font-size:2rem;"></i>
@@ -124,9 +150,8 @@
     <div id="article-wrapper" class="article-wrapper" style="display:none;">
         <main>
             <div class="breadcrumb">
-                <a href="index.html">Inicio</a> › <span id="breadcrumb-title">Noticia</span>
+                <a id="bread-inicio" href="index.html">Inicio</a> › <span id="breadcrumb-title">Noticia</span>
             </div>
-
             <article>
                 <span class="article-tag">Noticia</span>
                 <h1 id="title"></h1>
@@ -136,14 +161,22 @@
                     <span><i class="fa-solid fa-clock"></i> 2 min de lectura</span>
                 </div>
                 <img id="image" alt="">
-
+                <div class="ad-article-native">
+                    <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="100%" height="250" frameborder="0" scrolling="no" srcdoc="<html><body><script async='async' data-cfasync='false' src='https://alarmpenguinmelt.com/7378a712ef2e1acc90b8893efa12f6e6/invoke.js'></script><div id='container-7378a712ef2e1acc90b8893efa12f6e6'></div></body></html>"></iframe>
+                </div>
                 <div id="body"></div>
-
+                <div class="ad-article">
+                    <div class="ad-728">
+                        <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="728" height="90" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'7f7f7c1f4dcc288bb79ea8e84f8e3cfa','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://alarmpenguinmelt.com/7f7f7c1f4dcc288bb79ea8e84f8e3cfa/invoke.js'></script></body></html>"></iframe>
+                    </div>
+                    <div class="ad-320">
+                        <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="320" height="50" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'d4763e5f8fb679f246c0f6db1eebe973','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://alarmpenguinmelt.com/d4763e5f8fb679f246c0f6db1eebe973/invoke.js'></script></body></html>"></iframe>
+                    </div>
+                </div>
                 <div class="source-box">
                     <i class="fa-solid fa-link" style="color:var(--rojo);margin-right:6px;"></i>
                     Fuente original: <a id="source-link" href="#" target="_blank" rel="noopener noreferrer">Ver noticia completa</a>
                 </div>
-
                 <div class="share-box">
                     <p><i class="fa-solid fa-share-nodes" style="color:var(--rojo);margin-right:6px;"></i>Compartir esta noticia</p>
                     <div class="share-btns">
@@ -153,17 +186,27 @@
                     </div>
                 </div>
             </article>
-
             <p class="related-title">Noticias Relacionadas</p>
             <div id="related-grid" class="related-grid"></div>
         </main>
-
         <aside class="sidebar">
             <div class="sidebar-widget">
                 <p class="sidebar-title">Últimas Noticias</p>
                 <div id="sidebar-list"></div>
             </div>
+            <div class="ad-sidebar">
+                <iframe sandbox="allow-scripts allow-popups allow-same-origin" width="320" height="50" frameborder="0" scrolling="no" srcdoc="<html><body><script>atOptions = {'key':'d4763e5f8fb679f246c0f6db1eebe973','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://alarmpenguinmelt.com/d4763e5f8fb679f246c0f6db1eebe973/invoke.js'></script></body></html>"></iframe>
+            </div>
         </aside>
+    </div>
+
+    <div id="reward-widget" style="display:none; position:fixed; bottom:20px; left:50%; transform:translateX(-50%); width:90%; max-width:400px; background:#1a1a2e; border-radius:20px; padding:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); z-index:99999; text-align:center; border:1px solid #333; transition:opacity 0.5s;">
+        <div id="reward-text" style="color:#fff; font-size:14px; font-weight:bold; margin-bottom:10px;">
+            <i class="fa-solid fa-book-open"></i> Leyendo para ganar 5 NetCoins
+        </div>
+        <div style="width:100%; background:#2a2a40; border-radius:10px; height:12px; overflow:hidden; box-shadow:inset 0 2px 4px rgba(0,0,0,0.3);">
+            <div id="reward-progress" style="width:0%; height:100%; background:linear-gradient(90deg,#f5b800,#ffea00); transition:width 1s linear;"></div>
+        </div>
     </div>
 
     <footer>
@@ -178,7 +221,98 @@
     </footer>
 
     <script>
-        const id = new URLSearchParams(window.location.search).get('id');
+        // ══════════════════════════════════════════
+        // DETECTOR DE ADBLOCK
+        // ══════════════════════════════════════════
+        function mostrarModalBloqueo(tipo) {
+            const modal = document.getElementById('modal-bloqueo');
+            const icono = document.getElementById('modal-bloqueo-icono');
+            const titulo = document.getElementById('modal-bloqueo-titulo');
+            const desc = document.getElementById('modal-bloqueo-desc');
+            const pasos = document.getElementById('modal-bloqueo-pasos');
+
+            if (tipo === 'vpn') {
+                icono.innerText = '🔒';
+                titulo.innerText = 'VPN Detectada';
+                desc.innerText = 'Detectamos que estás usando una VPN o proxy. Para acceder al contenido y ganar NetCoins, debes desactivarla.';
+                pasos.innerHTML = `
+                    <p><span>1.</span> Abre tu aplicación de VPN</p>
+                    <p><span>2.</span> Desconéctate o desactívala</p>
+                    <p><span>3.</span> Recarga la página</p>
+                `;
+            } else {
+                icono.innerText = '🚫';
+                titulo.innerText = 'AdBlock Detectado';
+                desc.innerText = 'PulsoMX es gratuito gracias a los anuncios. Detectamos un bloqueador activo. Por favor desactívalo para continuar leyendo.';
+                pasos.innerHTML = `
+                    <p><span>1.</span> Haz clic en el ícono de tu extensión (AdBlock, uBlock, etc.)</p>
+                    <p><span>2.</span> Selecciona "Pausar en este sitio" o "Desactivar"</p>
+                    <p><span>3.</span> Recarga la página</p>
+                `;
+            }
+            modal.classList.add('activo');
+        }
+
+        async function detectarAdblock() {
+            try {
+                // Intentamos cargar un script con nombre típico de anuncio
+                await new Promise((resolve, reject) => {
+                    const s = document.createElement('script');
+                    s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+                    s.onload = resolve;
+                    s.onerror = reject;
+                    s.id = 'adblock-test-script';
+                    document.head.appendChild(s);
+                    setTimeout(reject, 2000); // timeout 2s
+                });
+                // Si cargó, verificamos también con un div señuelo
+                const bait = document.createElement('div');
+                bait.className = 'ad-unit ads adsbox doubleclick ad-placement';
+                bait.style.cssText = 'position:absolute;left:-9999px;top:-9999px;width:1px;height:1px;';
+                document.body.appendChild(bait);
+                await new Promise(r => setTimeout(r, 200));
+                const bloqueado = bait.offsetHeight === 0 || bait.offsetParent === null || getComputedStyle(bait).display === 'none';
+                bait.remove();
+                if (bloqueado) mostrarModalBloqueo('adblock');
+            } catch(e) {
+                mostrarModalBloqueo('adblock');
+            }
+        }
+
+        async function detectarVPN() {
+            try {
+                const res = await fetch('https://vpnapi.io/api/?key=free', { signal: AbortSignal.timeout(4000) });
+                const data = await res.json();
+                if (data?.security?.vpn || data?.security?.proxy || data?.security?.tor) {
+                    mostrarModalBloqueo('vpn');
+                    return true;
+                }
+            } catch(e) {
+                // Si la API falla, no bloqueamos — beneficio de la duda
+            }
+            return false;
+        }
+
+        // Ejecutar detecciones al cargar
+        window.addEventListener('load', async () => {
+            const tieneVPN = await detectarVPN();
+            if (!tieneVPN) {
+                await detectarAdblock();
+            }
+        });
+
+        // ══════════════════════════════════════════
+        // LÓGICA PRINCIPAL
+        // ══════════════════════════════════════════
+        const urlParamsReward = new URLSearchParams(window.location.search);
+        const id = urlParamsReward.get('id');
+        const userId = urlParamsReward.get('uid');
+
+        if (userId) {
+            document.getElementById('nav-inicio').href = `index.html?uid=${userId}`;
+            document.getElementById('bread-inicio').href = `index.html?uid=${userId}`;
+        }
+
         fetch("data/noticias.json")
             .then(res => res.json())
             .then(data => {
@@ -207,11 +341,88 @@
                 document.getElementById('loader').style.display = 'none';
                 document.getElementById('article-wrapper').style.display = 'grid';
 
+                // --- BARRA DE PROGRESO / RECOMPENSA ---
+                if (userId && id) {
+                    (async () => {
+                        const widget = document.getElementById('reward-widget');
+                        const progressBar = document.getElementById('reward-progress');
+                        const rewardText = document.getElementById('reward-text');
+                        widget.style.display = 'block';
+
+                        // Verificar si ya cobró esta noticia ANTES de iniciar el contador
+                        try {
+                            const checkRes = await fetch('https://meiwuluwrdjszxeyoqtt.supabase.co/functions/v1/verificar-noticia', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({ uid: userId, newsId: id })
+                            });
+                            const checkData = await checkRes.json();
+
+                            if (checkData.ya_leida) {
+                                progressBar.style.transition = 'width 0.4s ease';
+                                progressBar.style.width = '100%';
+                                progressBar.style.background = '#ef4444';
+                                rewardText.innerHTML = '<i class="fa-solid fa-circle-exclamation" style="color:#ef4444;"></i> Ya cobraste esta noticia';
+                                setTimeout(() => {
+                                    widget.style.opacity = '0';
+                                    setTimeout(() => widget.style.display = 'none', 500);
+                                }, 3000);
+                                return; // salir sin iniciar contador
+                            }
+                        } catch(e) {
+                            // Si falla la verificación, continúa normalmente
+                        }
+
+                        // Iniciar contador de 30 segundos
+                        const tiempoTotal = 30;
+                        let segundosActuales = 0;
+                        const intervaloProgreso = setInterval(async () => {
+                            segundosActuales++;
+                            progressBar.style.width = ((segundosActuales / tiempoTotal) * 100) + '%';
+
+                            if (segundosActuales >= tiempoTotal) {
+                                clearInterval(intervaloProgreso);
+                                rewardText.innerHTML = '<i class="fa-solid fa-spinner fa-spin" style="color:#f5b800;"></i> Procesando tus NetCoins...';
+
+                                try {
+                                    const response = await fetch('https://meiwuluwrdjszxeyoqtt.supabase.co/functions/v1/recompensar-noticia', {
+                                        method: 'POST',
+                                        headers: { 'Content-Type': 'application/json' },
+                                        body: JSON.stringify({ uid: userId, newsId: id })
+                                    });
+                                    const result = await response.json();
+
+                                    if (response.ok) {
+                                        rewardText.innerHTML = '<i class="fa-solid fa-circle-check" style="color:#10b981;"></i> ¡+5 NetCoins Acreditadas!';
+                                        progressBar.style.background = '#10b981';
+                                        setTimeout(() => {
+                                            widget.style.opacity = '0';
+                                            setTimeout(() => widget.style.display = 'none', 500);
+                                        }, 4000);
+                                    } else {
+                                        const mensajes = {
+                                            'ya_reclamada': 'Ya cobraste esta noticia',
+                                            'limite_diario': '¡Límite diario alcanzado! (10 noticias/día)',
+                                            'usuario_invalido': 'Usuario no reconocido'
+                                        };
+                                        rewardText.innerHTML = '<i class="fa-solid fa-circle-exclamation" style="color:#ef4444;"></i> ' + (mensajes[result.error] || 'Error al reclamar');
+                                        progressBar.style.background = '#ef4444';
+                                    }
+                                } catch (err) {
+                                    rewardText.innerHTML = '<i class="fa-solid fa-triangle-exclamation" style="color:#ef4444;"></i> Error de red';
+                                    progressBar.style.background = '#ef4444';
+                                }
+                            }
+                        }, 1000);
+                    })();
+                }
+
+                const complementoUid = userId ? `&uid=${userId}` : '';
                 const relacionadas = data.filter(n => String(n.id) !== String(id)).slice(-4).reverse();
                 const relGrid = document.getElementById('related-grid');
                 relacionadas.forEach(n => {
                     relGrid.innerHTML += `
-                        <a href="noticia.html?id=${n.id}" class="related-card">
+                        <a href="noticia.html?id=${n.id}${complementoUid}" class="related-card">
                             <img src="${n.imagen}" alt="${n.titulo}" loading="lazy">
                             <div><h4>${n.titulo}</h4></div>
                         </a>`;
@@ -220,7 +431,7 @@
                 const sidebar = document.getElementById('sidebar-list');
                 data.slice(-5).reverse().forEach(n => {
                     sidebar.innerHTML += `
-                        <a href="noticia.html?id=${n.id}" class="sidebar-news-item">
+                        <a href="noticia.html?id=${n.id}${complementoUid}" class="sidebar-news-item">
                             <img src="${n.imagen}" alt="${n.titulo}" loading="lazy">
                             <div><span>${n.fecha}</span><h4>${n.titulo}</h4></div>
                         </a>`;
@@ -234,5 +445,11 @@
             return div.textContent || div.innerText || html;
         }
     </script>
+    <iframe
+        srcdoc="<!DOCTYPE html><html><head><style>body{margin:0;padding:0;overflow:hidden;}</style></head><body><script src='https://alarmpenguinmelt.com/dc/55/f1/dc55f1198cbf0bd4731db92aadc6b54f.js'></script></body></html>"
+        sandbox="allow-scripts allow-popups allow-same-origin"
+        style="position:fixed;bottom:0;left:0;width:100%;height:65px;border:none;z-index:9999;"
+        title="Social Bar Ad">
+    </iframe>
 </body>
 </html>
