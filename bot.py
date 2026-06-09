@@ -138,7 +138,7 @@ La nota debe incluir:
 Responde ÚNICAMENTE con un objeto JSON con estas claves exactas: titulo, resumen, contenido."""
 
     payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "llama-3.1-8b-instant",
         "messages": [
             {
                 "role": "system",
