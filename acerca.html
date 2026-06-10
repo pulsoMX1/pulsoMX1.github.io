@@ -3,15 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acerca de Nosotros - PulsoMX</title>
-    <style>body{font-family:sans-serif;line-height:1.6;padding:20px;max-width:800px;margin:0 auto;color:#333;}</style>
+    <title>Acerca de PulsoMX - Noticias de México</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root { --rojo: #c0152a; --amarillo: #f5b800; --gris: #f4f4f2; --texto: #1a1a2e; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Source Sans 3', sans-serif; background: var(--gris); color: var(--texto); }
+        header { background: var(--rojo); padding: 12px 16px; }
+        .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
+        .logo { font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: 900; color: white; text-decoration: none; }
+        .logo span { color: var(--amarillo); }
+        header a.back { color: rgba(255,255,255,0.85); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
+        .container { max-width: 900px; margin: 32px auto; padding: 0 16px 60px; }
+        .card { background: white; border-radius: 12px; padding: clamp(24px,5vw,48px); box-shadow: 0 2px 12px rgba(0,0,0,0.07); margin-bottom: 20px; }
+        .hero { background: linear-gradient(135deg, var(--rojo), #8b0f1e); border-radius: 12px; padding: 40px 32px; text-align: center; color: white; margin-bottom: 20px; }
+        .hero h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem,5vw,2.8rem); font-weight: 900; margin-bottom: 12px; }
+        .hero h1 span { color: var(--amarillo); }
+        .hero p { font-size: 1.05rem; opacity: 0.9; max-width: 600px; margin: 0 auto; line-height: 1.7; }
+        h2 { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 900; margin-bottom: 16px; color: var(--rojo); border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
+        p { line-height: 1.8; color: #374151; margin-bottom: 14px; font-size: 0.97rem; }
+        .valores { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 8px; }
+        .valor { background: #f8f8f8; border-radius: 10px; padding: 16px; text-align: center; }
+        .valor .icono { font-size: 2rem; margin-bottom: 8px; }
+        .valor h3 { font-weight: 700; font-size: 0.95rem; margin-bottom: 6px; color: var(--texto); }
+        .valor p { font-size: 0.83rem; color: #6b7280; margin: 0; }
+        .fuentes { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px; }
+        .fuente-tag { background: #fff0f0; color: var(--rojo); border: 1px solid #fecaca; border-radius: 20px; padding: 6px 14px; font-size: 0.83rem; font-weight: 600; }
+        footer { background: var(--texto); color: rgba(255,255,255,0.6); text-align: center; padding: 20px 16px; font-size: 0.8rem; margin-top: 40px; }
+        footer a { color: var(--amarillo); text-decoration: none; margin: 0 8px; }
+    </style>
 </head>
 <body>
-    <h1>Acerca de PulsoMX</h1>
-    <p><strong>PulsoMX</strong> es una plataforma digital de noticias diseñada para mantener a la comunidad informada sobre los acontecimientos más relevantes de México en tiempo real.</p>
-    
-    <p>Nuestra misión es utilizar la tecnología de vanguardia y la automatización inteligente para procesar flujos de información masivos, sintetizando las noticias del día de una manera ágil, clara y directa para el lector moderno que no tiene tiempo de leer artículos extensos.</p>
+<header>
+    <div class="header-inner">
+        <a href="index.html" class="logo">⚡ PULSO<span>MX</span></a>
+        <a href="index.html" class="back">← Volver al inicio</a>
+    </div>
+</header>
 
-    <p>Creemos en el acceso democrático a la información y trabajamos constantemente para optimizar nuestros algoritmos, asegurando una experiencia de lectura fluida y adaptada a las redes sociales.</p>
+<div class="container">
+    <div class="hero">
+        <h1>⚡ PULSO<span>MX</span></h1>
+        <p>El portal de noticias mexicanas que te mantiene informado con lo más relevante del país, actualizado cada día.</p>
+    </div>
+
+    <div class="card">
+        <h2>¿Quiénes somos?</h2>
+        <p><strong>PulsoMX</strong> es un portal informativo independiente fundado con el objetivo de acercar las noticias más importantes de México a todos los mexicanos, sin importar dónde se encuentren.</p>
+        <p>Nuestro equipo editorial revisa diariamente los principales medios de comunicación nacionales para seleccionar, redactar y publicar las noticias que más impactan a la sociedad mexicana: política, economía, deportes, seguridad y cultura.</p>
+        <p>Creemos que la información es un derecho de todos. Por eso PulsoMX es completamente gratuito y accesible desde cualquier dispositivo.</p>
+    </div>
+
+    <div class="card">
+        <h2>Nuestros valores</h2>
+        <div class="valores">
+            <div class="valor">
+                <div class="icono">📰</div>
+                <h3>Información verificada</h3>
+                <p>Solo publicamos noticias de fuentes periodísticas acreditadas de México.</p>
+            </div>
+            <div class="valor">
+                <div class="icono">⚡</div>
+                <h3>Actualización constante</h3>
+                <p>Nuestro equipo trabaja todos los días para traerte las noticias del momento.</p>
+            </div>
+            <div class="valor">
+                <div class="icono">🇲🇽</div>
+                <h3>Enfoque mexicano</h3>
+                <p>Contenido pensado para la audiencia mexicana, con contexto local.</p>
+            </div>
+            <div class="valor">
+                <div class="icono">🆓</div>
+                <h3>Acceso libre</h3>
+                <p>Todo el contenido es gratuito. Nos financiamos con publicidad no intrusiva.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Fuentes que seguimos</h2>
+        <p>PulsoMX monitorea y enlaza a los principales medios de comunicación mexicanos:</p>
+        <div class="fuentes">
+            <span class="fuente-tag">Aristegui Noticias</span>
+            <span class="fuente-tag">Proceso</span>
+            <span class="fuente-tag">La Jornada</span>
+            <span class="fuente-tag">Milenio</span>
+            <span class="fuente-tag">El Universal</span>
+        </div>
+        <p style="margin-top:16px;font-size:0.88rem;color:#6b7280;">Todos los derechos de las noticias originales corresponden a sus respectivos medios. PulsoMX siempre enlaza a la fuente original.</p>
+    </div>
+
+    <div class="card">
+        <h2>Contáctanos</h2>
+        <p>¿Tienes alguna pregunta, sugerencia o solicitud? Escríbenos a <strong>ed8108868@gmail.com</strong> — respondemos en menos de 48 horas hábiles.</p>
+    </div>
+</div>
+
+<footer>
+    <a href="index.html">Inicio</a>
+    <a href="privacidad.html">Privacidad</a>
+    <a href="terminos.html">Términos</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="acerca.html">Acerca de</a>
+    <br><br>© 2026 PulsoMX — Noticias de México.
+</footer>
 </body>
 </html>
