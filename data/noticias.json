@@ -51,16 +51,6 @@
   },
   {
     "id": 6,
-    "titulo_original": "Denuncia Irán ataques estadunidenses a instalaciones de vigilancia en el Golfo   ",
-    "titulo": "Denuncia Irán ataques estadunidenses a instalaciones de vigilancia en el Golfo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F07%2Ffotos%2F025n1mun-1.jpg",
-    "fecha": "2026-06-07",
-    "url_origen": "https://www.jornada.com.mx/2026/06/07/mundo/025n1mun?partner=rss"
-  },
-  {
-    "id": 7,
     "titulo_original": "Sheinbaum presenta primer vehículo eléctrico nacional Olinia 1   ",
     "titulo": "Sheinbaum presenta Olinia 1",
     "resumen": "La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, presentó el primer vehículo eléctrico nacional llamado Olinia 1. Este evento marca un hito importante en la industria automotriz mexicana y refleja el compromiso del país con la transición hacia energías limpias. La Olinia 1 es el resultado de una colaboración entre empresas mexicanas y apoyo gubernamental, buscando reducir la dependencia de los combustibles fósiles y mitigar el cambio climático. Este desarrollo tecnológico tiene el potencial de generar empleos y estimular la economía local.",
@@ -70,7 +60,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/08/politica/007n1pol?partner=rss"
   },
   {
-    "id": 8,
+    "id": 7,
     "titulo_original": "Despuntaron en abril las ventas internas de gasolina y diésel: Pemex   ",
     "titulo": "Pemex: Ventas de gasolina y diésel aumentan",
     "resumen": "En abril, las ventas internas de gasolina y diésel de Petróleos Mexicanos (Pemex) experimentaron un repunte significativo. Este aumento se debe a la creciente demanda de combustibles en el mercado nacional, impulsada por la reactivación económica y el crecimiento del parque vehicular en México. La empresa estatal informó que las ventas de gasolina y diésel en el mercado interno alcanzaron un total de 741,000 barriles diarios, lo que representa un incremento del 3.5% con respecto al mismo mes del año anterior. Esta tendencia positiva se considera un indicador favorable para la economía mexicana y la industria energética en general.",
@@ -80,7 +70,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/08/economia/021n1eco?partner=rss"
   },
   {
-    "id": 9,
+    "id": 8,
     "titulo_original": "León XIV: la migración interpela fundamento del orden mundial   ",
     "titulo": "León XIV: la migración interpela fundamento del orden mundial",
     "resumen": "El papa León XIV llamó a la comunidad internacional a revisar su enfoque hacia la migración, señalando que la crisis en la frontera sur de Estados Unidos ha expuesto fallas en el sistema de refugio global. La declaración del papa ha generado gran expectativa entre líderes y activistas en el mundo.",
@@ -90,7 +80,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/mundo/025n1mun?partner=rss"
   },
   {
-    "id": 10,
+    "id": 9,
     "titulo_original": "Death Cab for Cutie estrena álbum que apela a la nostalgia y al duelo   ",
     "titulo": "Death Cab for Cutie estrena álbum con temas de nostalgia y duelo",
     "resumen": "La banda estadounidense Death Cab for Cutie lanzó su nuevo álbum, que explora la nostalgia y el duelo. El álbum, titulado \"Álbum X\", ha generado expectación entre los fanáticos de la banda y los críticos musicales. Con su estilo característico, los integrantes del grupo abordan temas universales que resuenan en la actualidad.",
@@ -100,7 +90,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/espectaculos/a08n2esp?partner=rss"
   },
   {
-    "id": 11,
+    "id": 10,
     "titulo_original": "Represión, censura e intimidación contra medios en Estados Unidos   ",
     "titulo": "Represión, censura e intimidación contra medios en Estados Unidos",
     "resumen": "La situación de los medios de comunicación en Estados Unidos se ha vuelto cada vez más tensa debido a una serie de acciones represivas, censuradas e intimidantes contra reporteros y periodistas. Esto ha generado una sensación de inseguridad y miedo entre los profesionales de la comunicación, quienes se sienten amenazados en el ejercicio de su trabajo. En ese sentido, se ha generado un debate acalorado sobre la libertad de expresión y la protección de los medios en el país.",
@@ -110,7 +100,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/mundo/022n1mun?partner=rss"
   },
   {
-    "id": 12,
+    "id": 11,
     "titulo_original": "Afectados por plantón bloquean por cuarta ocasión el Eje Central y Juárez   ",
     "titulo": "Afectados por plantón bloquean el Eje Central por cuarta ocasión",
     "resumen": "Un grupo de personas que se encuentran afectados por una situación de emergencia bloquearon el Eje Central y la avenida Juárez en la ciudad de México, por cuarta vez en menos de dos semanas. La medida busca presionar a las autoridades para que tomen medidas al respecto. El cierre de estas vías importantes provoca problemas de tráfico y afecta la circulación de la ciudad.",
@@ -120,7 +110,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/capital/033n1cap?partner=rss"
   },
   {
-    "id": 13,
+    "id": 12,
     "titulo_original": "Padres de los 43 niegan que petardos sean de ellos: “las lonas son nuestras armas”   ",
     "titulo": "Padres de 43 niegan petardos como suyos",
     "resumen": "Los padres de los 43 estudiantes desaparecidos del Ayotzinapa han negado que los petardos y lonas encontrados en un vertedero sean de ellos. Según ellos, las lonas son sus armas para la lucha. La negación de los padres de los desaparecidos ha generado un nuevo capítulo en la investigación de la desaparición de los estudiantes.",
@@ -130,7 +120,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/politica/012n1pol?partner=rss"
   },
   {
-    "id": 14,
+    "id": 13,
     "titulo_original": "Buscan socios en la IP para echar a andar proyecto Olinia   ",
     "titulo": "Buscan socios en la IP para echar a andar proyecto Olinia",
     "resumen": "El gobierno mexicano busca socios en la industria para financiar el proyecto Olinia, una iniciativa que busca impulsar el desarrollo económico y social en el país. El proyecto Olinia se enfoca en la creación de empleos y la mejora de la calidad de vida en áreas rurales y urbanas. Se espera que el proyecto genere un impacto significativo en la economía y la sociedad mexicana.",
@@ -140,7 +130,7 @@
     "url_origen": "https://www.jornada.com.mx/2026/06/09/economia/021n1eco?partner=rss"
   },
   {
-    "id": 15,
+    "id": 14,
     "titulo_original": "Cayeron 10% los ingresos de la banca por el cobro de intereses   ",
     "titulo": "Cayeron 10% los ingresos de la banca por el cobro de intereses",
     "resumen": "Los bancos mexicanos registrarían una caída de 10% en sus ingresos por el cobro de intereses en el primer trimestre del año. Esto sería debido a una reducción en la tasa de interés aplicada a las deudas de los hogares y empresas. La bajada de ingresos afectaría directamente a la banca, que ya enfrenta un entorno económico complejo.",
