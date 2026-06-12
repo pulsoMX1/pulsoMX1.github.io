@@ -478,5 +478,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F11%2Ffotos%2Fa06n1esp-1.jpg",
     "fecha": "2026-06-12",
     "url_origen": "https://www.jornada.com.mx/2026/06/11/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 54,
+    "titulo_original": "Editorial: Mundial, pese a todo ",
+    "titulo": "Editorial: Mundial, pese a todo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-12",
+    "url_origen": "https://www.jornada.com.mx/2026/06/12/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 55,
+    "titulo_original": "Irán abre práctica a la prensa sin presencia de su jugador estrella   ",
+    "titulo": "Irán abre práctica a la prensa sin presencia de su jugador estrella",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-12",
+    "url_origen": "https://www.jornada.com.mx/2026/06/12/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 56,
+    "titulo_original": "Normalistas bloquean otra vez caseta de Tlalpan tras oponerse a revisión   ",
+    "titulo": "Normalistas bloquean otra vez caseta de Tlalpan tras oponerse a revisión",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-12",
+    "url_origen": "https://www.jornada.com.mx/2026/06/12/politica/005n2pol?partner=rss"
   }
 ]
