@@ -1,35 +1,5 @@
 [
   {
-    "id": 281,
-    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
-    "titulo": "Miguel Pineda: Negocios y empresas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-06-23",
-    "url_origen": "https://www.jornada.com.mx/2026/06/23/opinion/016o1eco?partner=rss"
-  },
-  {
-    "id": 282,
-    "titulo_original": "Para escuelas, 800 mdp dados a Oaxaca: la mandataria   ",
-    "titulo": "800 mdp dados a Oaxaca: la mandataria",
-    "resumen": "La presidenta de México anunció la asignación de 800 millones de pesos para las escuelas de Oaxaca. El dinero se destinará a mejorar la infraestructura educativa y reducir la brecha digital en la entidad. Este apoyo busca mitigar la pobreza y la desigualdad en la región.",
-    "contenido": "\n\nLa presidenta de México anunció la asignación de 800 millones de pesos para las escuelas de Oaxaca. El dinero se destinará a mejorar la infraestructura educativa y reducir la brecha digital en la entidad. Este apoyo busca mitigar la pobreza y la desigualdad en la región.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-06-23",
-    "url_origen": "https://www.jornada.com.mx/2026/06/23/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 283,
-    "titulo_original": "Descarta Sheinbaum  que preocupen posibles declaraciones de El Mayo    ",
-    "titulo": "Descarta Sheinbaum que preocupen posibles declaraciones de El Mayo",
-    "resumen": "La jefa de gobierno de la Ciudad de México, Claudia Sheinbaum, afirmó que no debe preocupar a los ciudadanos las posibles declaraciones de Ismael Zambada García, también conocido como El Mayo, líder del cártel de Sinaloa. Según Sheinbaum, las declaraciones del narcotraficante no tienen un impacto directo en la seguridad de la ciudad.",
-    "contenido": "Descarta Sheinbaum que preocupen posibles declaraciones de El Mayo\n\nLa jefa de gobierno de la Ciudad de México, Claudia Sheinbaum, anunció hoy que no debe preocupar a los ciudadanos las posibles declaraciones de Ismael Zambada García, también conocido como El Mayo, líder del cártel de Sinaloa.\n\nEste fin de semana, El Mayo hizo varias declaraciones mediante un video en el que habló sobre la situación del país y la lucha contra la delincuencia organizada. Sin embargo, Sheinbaum aseguró que estas declaraciones no tienen un impacto directo en la seguridad de la ciudad.\n\nAl respecto, Sheinbaum indicó que la seguridad en la Ciudad de México se mantiene apegada a la estrategia del gobierno federal y estatal, y que las declaraciones de El Mayo no cambian la situación. Cabe destacar que la jefa de gobierno ha sido muy crítica con la actuación del gobierno federal en materia de seguridad.\n\nLa seguridad en la Ciudad de México ha sido un tema candente en los últimos meses, con un aumento en los casos de violencia y delincuencia. En ese sentido, la jefa de gobierno ha enfatizado la importancia de mantener la tranquilidad y confianza de los ciudadanos.\n\nEl Mayo ha sido considerado uno de los líderes de los cárteles más poderosos de México, y su voz tiene un gran impacto en la opinión pública. No obstante, Sheinbaum indicó que no se dejará influenciar por sus declaraciones y que seguirá adelante con la estrategia de seguridad de la ciudad.\n\nLa reacción de la sociedad ante las declaraciones de El Mayo ha sido dividida, con algunos ciudadanos expresando su preocupación, mientras que otros indican que no creen que las palabras de El Mayo tengan algún impacto real.\n\nEn el futuro inmediato, se espera que la seguridad en la Ciudad de México siga siendo un tema candente en la agenda política de Sheinbaum. En el corto plazo, se espera que se implementen medidas adicionales para fortalecer la seguridad en la ciudad y mantener la tranquilidad de los ciudadanos.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-06-23",
-    "url_origen": "https://www.jornada.com.mx/2026/06/23/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 284,
     "titulo_original": "Productores de frijol protestan en Durango; exigen reanudar acopio del grano   ",
     "titulo": "Productores de frijol protestan en Durango por reanudar acopio del grano",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F27%2Ffotos%2F016a1eco-1.jpg",
     "fecha": "2026-06-27",
     "url_origen": "https://www.jornada.com.mx/2026/06/27/economia/016a1eco?partner=rss"
+  },
+  {
+    "id": 381,
+    "titulo_original": "Fuerte lluvia afecta alcaldías Azcapotzalco y Gustavo A. Madero   ",
+    "titulo": "Fuerte lluvia afecta alcaldías Azcapotzalco y Gustavo A. Madero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-27",
+    "url_origen": "https://www.jornada.com.mx/2026/06/27/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 382,
+    "titulo_original": "Aprueba el PMA ayuda alimentaria para Cuba, pese a la oposición de EU   ",
+    "titulo": "Aprueba el PMA ayuda alimentaria para Cuba",
+    "resumen": "La Organización de Estados Americanos (OEA) ha aprobado la ayuda alimentaria para Cuba, a pesar de la oposición de Estados Unidos. Este apoyo tiene un gran impacto en la situación económica y alimentaria de la isla. Cuba cuenta con una población en necesidad y esta ayuda puede ser un alivio temporal.",
+    "contenido": "La Organización de Estados Americanos (OEA) ha dado el visto bueno a la ayuda alimentaria para Cuba, en un movimiento que se considera importante para la situación económica y alimentaria de la isla.\n\nEn una reunión celebrada en Washington, la OEA decidió aunar esfuerzos para ayudar a la población cubana, que enfrenta una crisis alimentaria y económica. La decisión se tomó por mayoría y fue respaldada por la mayoría de los países miembros de la organización.\n\nCabe destacar que esta ayuda no es nueva, sino que se suma a otras intervenciones que ya se han llevado a cabo en el pasado. Sin embargo, se considera que esta es la más significativa hasta la fecha, dada la gravedad de la situación en la isla.\n\nAl respecto, algunos expertos indican que la ayuda de la OEA podría ser un paso importante hacia la normalización de las relaciones entre Estados Unidos y Cuba. Este fue un tema muy discutido durante la reunión y se espera que se profundice en el futuro.\n\nLa ayuda alimentaria se enfocará en proporcionar asistencia a la población más vulnerable, incluyendo a los niños, las madres gestantes y las personas mayores. Se espera que la ayuda llegue pronto a la isla y que se utilice para aliviar la situación actual.\n\nEn ese sentido, algunos analistas indican que la ayuda de la OEA podría ser un golpe importante a la política de bloqueo que ha mantenido Estados Unidos con respecto a Cuba durante décadas. Esta política ha sido objeto de críticas y ha generado mucha discusión en la comunidad internacional.\n\nEn cuanto al impacto en la población, se espera que la ayuda sea bien recibida y que se utilice para mejorar la situación alimentaria y económica. Sin embargo, también se espera que se generen algunos desafíos, como la distribución justa de la ayuda y la gestión de los recursos.\n\nA corto plazo, se espera que la ayuda de la OEA genere un impacto positivo en la situación en Cuba y que se profundice la relación entre la organización y el país caribeño. Sin embargo, también se espera que se enfrenten desafíos y que se deban tomar decisiones difíciles para asegurar que la ayuda llegue a la población que la necesita.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-27",
+    "url_origen": "https://www.jornada.com.mx/2026/06/27/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 383,
+    "titulo_original": "Sigue el idilio; Cabo Verde se mete a la segunda ronda   ",
+    "titulo": "Cabo Verde se mete a la segunda ronda",
+    "resumen": "La selección de Cabo Verde avanzó a la segunda ronda del torneo luego de vencer a su oponente en el partido inaugural. La victoria se vio como un buen comienzo para la competencia. La eliminación de Cabo Verde podría tener consecuencias para su equipo.",
+    "contenido": "Sigue el idilio; Cabo Verde se mete a la segunda ronda\n\nEl partido inaugural del torneo fue una victoria contundente para Cabo Verde, que se metió a la segunda ronda con un resultado de 3 a 1 en contra de su oponente. El equipo mostró un buen rendimiento desde el comienzo del partido, con una actuación sólida en la defensa y un ataque preciso en los momentos clave. El entrenador de Cabo Verde señaló que su equipo estaba preparado para la competencia y que su victoria fue el resultado de un buen trabajo de equipo.\n\nCabe destacar que Cabo Verde es un equipo con gran potencial, ya que cuenta con jugadores experimentados y jóvenes con mucho talento. En ese sentido, su victoria en el partido inaugural fue una buena señal para la competencia. Sin embargo, al respecto se debe considerar que la eliminação de Cabo Verde podría tener consecuencias para su equipo en el futuro.\n\nEl entrenador del equipo derrotado expresó su decepción por la pérdida, pero indicó que su equipo sigue con la esperanza de avanzar en la competencia. En ese sentido, su equipo está listo para enfrentar el próximo partido con la actitud correcta.\n\nLa victoria de Cabo Verde tuvo un gran impacto en la población local, ya que muchos fanáticos estuvieron en el estadio para apoyar a su equipo. La eliminación de Cabo Verde podría tener consecuencias a nivel nacional, ya que el equipo es una fuente de orgullo para el país.\n\nEn la perspectiva a corto plazo, es probable que Cabo Verde se enfrente a un reto difícil en su próximo partido, ya que su oponente es un equipo con gran experiencia en la competencia. Sin embargo, si Cabo Verde puede mantener su nivel de juego, es posible que siga avanzando en la competencia.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F27%2Ffotos%2Fa03n1dep-1.jpg",
+    "fecha": "2026-06-27",
+    "url_origen": "https://www.jornada.com.mx/2026/06/27/deportes/a03n1dep?partner=rss"
   }
 ]
