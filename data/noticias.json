@@ -1,35 +1,5 @@
 [
   {
-    "id": 530,
-    "titulo_original": "Hay señales positivas para la inversión, pero se necesitan más, destaca Banamex    ",
-    "titulo": "Hay señales positivas para la inversión, pero se necesitan más, destaca Banamex",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-07-03",
-    "url_origen": "https://www.jornada.com.mx/2026/07/03/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 531,
-    "titulo_original": "Terapia celular ayudaría a combatir el glioblastoma, cáncer cerebral mortal   ",
-    "titulo": "Terapia celular ayuda a combatir glioblastoma",
-    "resumen": "Una terapia celular desarrollada en México promete ser un avance significativo en el tratamiento del glioblastoma, un tipo de cáncer cerebral mortal. La investigación se enfoca en utilizar células del paciente para destruir las células cancerígenas. Este avance podría ofrecer una opción más efectiva para los pacientes que actualmente enfrentan resultados poco favorables con los tratamientos existentes.",
-    "contenido": "La terapia celular desarrollada por investigadores mexicanos ha demostrado resultados prometedores en la lucha contra el glioblastoma, un tipo de cáncer cerebral considerado mortal. Según los resultados, esta terapia podría ser un avance significativo en el tratamiento de este cáncer, ya que utiliza células del propio paciente para destruir las células cancerígenas.\n\nEn entrevista, el director del centro de investigación donde se llevó a cabo la terapia, señaló que este avance es el resultado de años de investigación y trabajo arduo. Indicó que se han realizado pruebas en animales y que los resultados han sido muy positivos.\n\nCabe destacar que el glioblastoma es un cáncer cerebral muy agresivo y difícil de tratar. Se calcula que cada año, en México, más de 3 mil personas son diagnosticadas con este tipo de cáncer. En ese sentido, la terapia celular podría ser una opción más efectiva para los pacientes que actualmente enfrentan resultados poco favorables con los tratamientos existentes.\n\nAl respecto, expertos en oncología expresaron su entusiasmo por este avance. Uno de ellos señaló que la terapia celular podría ser una herramienta valiosa en la lucha contra el cáncer cerebral, ya que ofrece una opción más personalizada y efectiva.\n\nEn el país, la noticia de la terapia celular ha generado gran expectación. Los pacientes y sus familias esperan con optimismo que esta terapia pueda ofrecerles una mejor calidad de vida. A corto plazo, se espera que la terapia celular se someta a pruebas más amplias para determinar su efectividad y seguridad en humanos.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-07-03",
-    "url_origen": "https://www.jornada.com.mx/2026/07/03/ciencias/a10n2cie?partner=rss"
-  },
-  {
-    "id": 532,
-    "titulo_original": "Resistirá Cuba la presión y guerra sicológica de EU: Díaz-Canel   ",
-    "titulo": "Cuba Resistirá Presión y Guerra Sicológica de EU: Díaz-Canel",
-    "resumen": "El líder cubano Miguel Díaz-Canel aseguró que su país resistirá las presiones y la guerra sicológica de Estados Unidos, tras el aumento de tensiones entre ambos gobiernos. Cuba busca mantener su soberanía en un contexto de creciente presión internacional.",
-    "contenido": "Miguel Díaz-Canel, líder cubano, aseguró a periodistas que su país no cederá ante las presiones y la guerra sicológica de Estados Unidos. \"No vamos a ceder, no vamos a rendirnos\", enfatizó durante un discurso en la Habana.\n\nCabe destacar que las tensiones entre Cuba y Estados Unidos han aumentado en los últimos meses, en particular después del aumento de violencia en la isla y la reanudación de las relaciones diplomáticas con Taiwán.\n\nEn ese sentido, Díaz-Canel indicó que la decisión de reanudar las relaciones con Taiwán fue un paso necesario para fortalecer la soberanía cubana. \"Hemos hecho lo que creemos que es correcto para nuestro país\", expresó.\n\nAl respecto, se especula que la decisión de reanudar las relaciones con Taiwán podría generar una respuesta adversa de Estados Unidos, lo que podría empeorar la situación en Cuba.\n\nSin embargo, Díaz-Canel se mostró confiado en la capacidad de su país para resistir la presión internacional. \"Estamos dispuestos a enfrentar cualquier tipo de presión o sanción\", enfatizó.\n\nEl impacto en la población cubana es aún incierto, pero muchos ciudadanos expresan su preocupación por la situación. \"Estamos preocupados por la seguridad y la estabilidad del país\", expresó una ciudadana anónima.\n\nEn cuanto al impacto en el país, se prevé que la situación pueda empeorar si las tensiones entre Cuba y Estados Unidos continúan. \"La inversión extranjera y la ayuda internacional pueden disminuir si la situación no se resuelve\", se especula.\n\nEn el corto plazo, se espera que la situación se mantenga tensa. \"Es probable que las tensiones entre Cuba y Estados Unidos continuem durante los próximos meses\", se prevé.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-07-03",
-    "url_origen": "https://www.jornada.com.mx/2026/07/03/mundo/018n1mun?partner=rss"
-  },
-  {
     "id": 533,
     "titulo_original": "José Romero: La izquierda también tiene que crear riqueza   ",
     "titulo": "Romero: La izquierda tiene que crear riqueza",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F07%2F07%2Ffotos%2Fa03n1dep-1.jpg",
     "fecha": "2026-07-07",
     "url_origen": "https://www.jornada.com.mx/2026/07/07/deportes/a03n1dep?partner=rss"
+  },
+  {
+    "id": 630,
+    "titulo_original": "Crédito hipotecario sigue al alza: BdeM   ",
+    "titulo": "Crédito hipotecario sigue al alza: BdeM",
+    "resumen": "El Banco de México anunció que el crédito hipotecario sigue en aumento, lo que puede afectar negativamente a los precios de las casas y a la capacidad de compra de los mexicanos. Esta situación se debe en parte a la demanda creciente de viviendas y a la escasez de oferta en algunos estados. En ese sentido, expertos consideran que el alza en el crédito hipotecario es un síntoma de una economía que sigue en recuperación.",
+    "contenido": " \nEl Banco de México (BdeM) informó que el crédito hipotecario ha seguido subiendo en los últimos meses, lo que ha llevado a una mayor demanda de viviendas.\n\nLa decisión de aumentar el crédito hipotecario se tomó en respuesta a la demanda creciente de viviendas en el país. Según los expertos, la escasez de oferta en algunos estados como el Distrito Federal y el Estado de México ha llevado a que los precios de las casas suban significativamente.\n\nEn ese sentido, cabe destacar que la mayor demanda de viviendas se debe en parte a la mejora en la economía, que ha llevado a que más personas puedan acceder a créditos para comprar sus propias viviendas. Sin embargo, también hay una escasez de oferta en algunos estados, lo que ha llevado a que los precios de las casas suban.\n\nAl respecto, un experto señaló que el alza en el crédito hipotecario es un síntoma de una economía que sigue en recuperación. Indicó que la demanda creciente de viviendas es un indicador de que la economía está creciendo y que más personas están accediendo a créditos para comprar sus propias viviendas.\n\nEn ese sentido, es importante destacar que la mayor demanda de viviendas puede llevar a que los precios de las casas suban aún más, lo que puede afectar negativamente a los propietarios de viviendas que ya poseen. En ese sentido, el BdeM ha anunciado que seguirá monitoreando la situación y que puede tomar medidas para prevenir que el alza en el crédito hipotecario afecte negativamente a la economía.\n\nEn el corto plazo, se espera que la mayor demanda de viviendas y el alza en el crédito hipotecario sigan aumentando, lo que puede llevar a que los precios de las casas suban aún más. Sin embargo, también se espera que el BdeM tome medidas para prevenir que la situación se escape de control y afecte negativamente a la economía.\n",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-07-07",
+    "url_origen": "https://www.jornada.com.mx/2026/07/07/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 631,
+    "titulo_original": "Japón realiza pruebas para desviar asteroides que amenacen a la Tierra   ",
+    "titulo": "Japón realiza pruebas para desviar asteroides",
+    "resumen": "La NASA y el gobierno japonés han anunciado un proyecto para detectar y desviar asteroides que amenacen la Tierra. Esta iniciativa busca proteger a la humanidad de impactos potenciales. Japón ha estado a la vanguardia en la caza de asteroides y ahora busca hacer lo mismo con la tecnología necesaria para desviarlos.",
+    "contenido": "Al respecto, se llevan a cabo pruebas en la isla de Hokkaido para perfeccionar la técnica de desviación de asteroides. Se está probando un sistema de propulsión que podría hacer que un objeto pequeño cambiara su curso. La prueba, en la que se utilizará un cohete japonés, pretende demostrar la eficacia del sistema.\n\nCabe destacar que Japón ha sido pionero en la búsqueda de asteroides, ya que ha enviado varios satélites al espacio para detectar y rastrear objetos cercanos a la Tierra. En ese sentido, el proyecto de desviación de asteroides es la próxima etapa en la lucha contra los objetos que potencialmente amenazan la existencia de la humanidad.\n\nSeñaló un experto en astronomía que, aunque hay mucha gente que se burla de la idea de que un asteroide pueda amenazar a la Tierra, la realidad es que hay millones de objetos en el espacio que podrían impactar nuestro planeta si se les permite acercarse lo suficiente.\n\nLa desviación de asteroides es una cuestión grave en la comunidad científica. El asteroide que golpeó a la Tierra hace unos 66 millones de años causó la extinción de los dinosaurios y la mayoría de las especies que coexistían con ellos. Al respecto, se están investigando varias técnicas para desviar asteroides, incluyendo la creación de un campo eléctrico o magnético alrededor del objeto para alterar su curso.\n\nEn el futuro, si se logra desviar asteroides con éxito, podría ser una herramienta valiosa para proteger la Tierra de impactos potenciales. Japón ya ha demostrado su compromiso con la búsqueda de asteroides, y ahora busca llevar su tecnología a la siguiente etapa. Se trata de un paso importante en la caza de asteroides y en la protección de la humanidad.\n\nLa prueba de desviación de asteroides es solo un paso, pero es un paso importante hacia la protección de la humanidad. Japón ha sido pionero en la búsqueda de asteroides y ahora busca hacer lo mismo con la tecnología necesaria para desviarlos. Si la prueba es exitosa, podría ser un cambio importante en la percepción pública sobre la amenaza de los asteroides. En ese sentido, la prueba es un paso hacia la seguridad de la humanidad.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F07%2F07%2Ffotos%2Fa10n2cie-1.jpg",
+    "fecha": "2026-07-07",
+    "url_origen": "https://www.jornada.com.mx/2026/07/07/ciencias/a10n2cie?partner=rss"
+  },
+  {
+    "id": 632,
+    "titulo_original": "De la Espriella anuncia comandos urbanos para reprimir protestas   ",
+    "titulo": "De la Espriella anuncia comandos urbanos para reprimir protestas",
+    "resumen": "El secretario de la Defensa Nacional, Luis Rodríguez Bucio, anunció la creación de comandos urbanos para reprimir protestas en el país. Según De la Espriella, estos comandos serán entrenados en tácticas de reprimida, pero sin armas de fuego. Esto ha generado preocupación entre la población y los grupos de derechos humanos.",
+    "contenido": "\n\nEl secretario de la Defensa Nacional, Luis Rodríguez Bucio, anunció la creación de comandos urbanos para reprimir protestas en el país. Según De la Espriella, estos comandos serán entrenados en tácticas de reprimida, pero sin armas de fuego. Esto ha generado preocupación entre la población y los grupos de derechos humanos.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F07%2F07%2Ffotos%2F018n1mun-1.jpg",
+    "fecha": "2026-07-07",
+    "url_origen": "https://www.jornada.com.mx/2026/07/07/mundo/018n1mun?partner=rss"
   }
 ]
