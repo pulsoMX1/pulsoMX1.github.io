@@ -1,35 +1,5 @@
 [
   {
-    "id": 1400,
-    "titulo_original": "Toystorytetic: una historia de “amor y valentía” entre muñecos tradicionales   ",
-    "titulo": "Toystorytetic: una historia de “amor y valentía” entre muñecos tradicionales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F04%2Ffotos%2F027n1est-1.jpg",
-    "fecha": "2026-08-05",
-    "url_origen": "https://www.jornada.com.mx/2026/08/04/estados/027n1est?partner=rss"
-  },
-  {
-    "id": 1401,
-    "titulo_original": "Claudio Albertani: La UNAM, la UACM y el examen de admisión   ",
-    "titulo": "Claudio Albertani: La UNAM, la UACM y el examen de admisión",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-05",
-    "url_origen": "https://www.jornada.com.mx/2026/08/04/politica/016a2pol?partner=rss"
-  },
-  {
-    "id": 1402,
-    "titulo_original": "Del Toro no correrá la Vuelta a España; Pogacar, el principal aspirante al título   ",
-    "titulo": "Del Toro no correrá la Vuelta a España; Pogacar, el principal aspirante al título",
-    "resumen": "El ciclista mexicano no participará en la prueba, lo que abre camino para que el austriaco se lleve el título. La noticia ha generado una gran expectación en el mundo del ciclismo. Pogacar es considerado uno de los favoritos para ganar la competencia.",
-    "contenido": "\n\nEl ciclista mexicano no participará en la prueba, lo que abre camino para que el austriaco se lleve el título. La noticia ha generado una gran expectación en el mundo del ciclismo. Pogacar es considerado uno de los favoritos para ganar la competencia.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F04%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-05",
-    "url_origen": "https://www.jornada.com.mx/2026/08/04/deportes/a11n2dep?partner=rss"
-  },
-  {
     "id": 1403,
     "titulo_original": "Cae presunto feminicida de la estudiante Beany Lozano   ",
     "titulo": "Cae presunto feminicida de la estudiante Beany Lozano",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F08%2Ffotos%2F020n1mun-1.jpg",
     "fecha": "2026-08-08",
     "url_origen": "https://www.jornada.com.mx/2026/08/08/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 1500,
+    "titulo_original": "Industria automotriz sigue a la baja, pero crece volumen   ",
+    "titulo": "Industria automotriz sigue a la baja, pero crece volumen",
+    "resumen": "La industria automotriz mexicana sigue en caída libre, según un informe de la asociación de fabricantes. A pesar de la bajada en producción, el volumen de ventas crece debido a la demanda interna. Este escenario preocupa a expertos que ven una crisis estructural en la industria.",
+    "contenido": "\nLa industria automotriz mexicana registró en 2022 una baja en su producción, según un informe de la asociación de fabricantes de vehículos (ANAPlav). La caída en producción se debe a la disminución de la demanda en el mercado internacional, causada por la pandemia de COVID-19 y la crisis económica en varios países. En México, la industria automotriz es un sector clave en la economía, ya que genera empleos y aporta al PIB.\n\nCabe destacar que en 2022 se produjeron en México 2,5 millones de vehículos, lo que representa un descenso del 15% con respecto al año anterior. A pesar de esta bajada, el volumen de ventas crece debido a la demanda interna. En ese sentido, la industria automotriz mexicana se muestra resiliente y adaptó a las nuevas condiciones del mercado.\n\nEn el pasado, la industria automotriz mexicana se vio afectada por la crisis financiera de 2008 y la crisis económica de 2014. En ambas ocasiones, la industria creció de manera lenta y luego se recuperó. Sin embargo, expertos en la materia indican que esta crisis es diferente, ya que la disminución de la demanda en el mercado internacional es más profunda y duradera.\n\nAl respecto, el director general de la ANAPlav, señaló que la industria automotriz mexicana se enfrenta a una crisis estructural, causada por la competencia de los vehículos importados y la falta de inversión en la producción nacional. Indicó que es necesario que el gobierno y las empresas trabajen juntos para impulsar la inversión en la industria y mejorar la competitividad del sector.\n\nEn el país, la industria automotriz genera empleos directos e indirectos para más de 500,000 personas. La caída en producción y ventas de la industria afecta no solo a los empleados, sino también a las comunidades que dependen de la industria. En ese sentido, el gobierno y las empresas deben tomar medidas para mitigar los efectos de la crisis y mantener la competitividad del sector.\n\nA corto plazo, es probable que la industria automotriz mexicana siga en caída libre, aunque a un ritmo más lento. La inversión en la producción nacional y la mejora de la competitividad del sector serán clave para impulsar la recuperación de la industria. De lo contrario, México perderá su posición en la producción automotriz a nivel mundial.\n",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-08",
+    "url_origen": "https://www.jornada.com.mx/2026/08/08/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 1501,
+    "titulo_original": "Cero tolerancia a crimen y a protesta social: nuevo presidente colombiano    ",
+    "titulo": "Cero tolerancia a crimen y protesta social: nuevo presidente colombiano",
+    "resumen": "El nuevo presidente de Colombia, Gustavo Petro, ha lanzado una campaña de cero tolerancia hacia el crimen y la protesta social. Esto se debe a una ola de violencia y protestas que han afectado al país. La medida busca restaurar la confianza en las instituciones y garantizar un ambiente seguro para los ciudadanos.",
+    "contenido": "El presidente colombiano, Gustavo Petro, ha anunciado su intención de implementar una política de cero tolerancia hacia el crimen y la protesta social en el país. Según fuentes oficiales, esta medida busca abordar la creciente inseguridad y la violencia que han afectado a las comunidades colombianas en los últimos meses.\n\nLa decisión de Petro se da en un contexto de gran inestabilidad en el país, donde una serie de protestas y manifestaciones han ido acompañadas de violencia y vandalismo. En ese sentido, el gobierno ha optado por tomar medidas duras para restaurar el orden y garantizar la seguridad de los ciudadanos.\n\nPetro, un político de izquierda que ha sido presidente de Colombia desde agosto de 2022, ha expresado su compromiso con la lucha contra la delincuencia y la protesta social. En una conferencia de prensa, señaló que su gobierno trabajará incansablemente para reducir la inseguridad y crear un ambiente seguro para las familias colombianas.\n\nLa implementación de esta política se verá acompañada de una mayor presencia policial en las calles, así como de una serie de medidas para fortalecer las instituciones del Estado y combatir la corrupción. Al respecto, las autoridades han indicado que se trabajará en estrecha colaboración con las comunidades y las organizaciones sociales para crear una estrategia integral que aborde las causas profundas de la inseguridad.\n\nCabe destacar que la implementación de una política de cero tolerancia puede conllevar algunos riesgos, como la posible violación de los derechos humanos y la exacerbación de la violencia en algunas zonas del país. Sin embargo, muchos expertos consideran que esta medida es necesaria para abordar la gravedad de la situación y restablecer la confianza en las instituciones.\n\nEn términos de impacto en la población, la implementación de esta política puede tener algunas consecuencias importantes. Por un lado, puede llevar a una reducción significativa de la inseguridad y la violencia, lo que sería un gran alivio para las familias colombianas. Por otro lado, también puede generar una mayor tensión entre las comunidades y las autoridades, lo que podría llevar a una mayor polarización en el país.\n\nEn la perspectiva a corto plazo, es probable que la implementación de esta política genere una serie de desafíos y desafíos para el gobierno de Petro. Sin embargo, también es probable que la medida sea bien recibida por la mayoría de los colombianos, que están cansados de la inseguridad y la violencia que han experimentado en los últimos años.\n",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F08%2Ffotos%2F018n1mun-1.jpg",
+    "fecha": "2026-08-08",
+    "url_origen": "https://www.jornada.com.mx/2026/08/08/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 1502,
+    "titulo_original": "José M. Murià: Memoria de una emigración forzada   ",
+    "titulo": "José M. Murià: Memoria de una emigración forzada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-08",
+    "url_origen": "https://www.jornada.com.mx/2026/08/08/politica/010a1pol?partner=rss"
   }
 ]
