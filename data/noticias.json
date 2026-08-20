@@ -1,35 +1,5 @@
 [
   {
-    "id": 1811,
-    "titulo_original": "Veto total a dispositivos digitales “limita los derechos de menores”   ",
-    "titulo": "Veto total a dispositivos digitales “limita los derechos de menores”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 1812,
-    "titulo_original": "Redes sociales desplazan a los sitios de medios en AL   ",
-    "titulo": "Redes sociales desplazan a los sitios de medios en AL",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 1813,
-    "titulo_original": "Cumple periodista mexicano 300 días retenido por ICE sin atención médica y entre cucarachas   ",
-    "titulo": "Cumple periodista mexicano 300 días retenido por ICE sin atención médica y entre cucarachas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 1814,
     "titulo_original": "Embajador de EU resalta cooperación en seguridad y relación con García Harfuch   ",
     "titulo": "Embajador de EU resalta cooperación en seguridad y relación con García Harfuch",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 1911,
+    "titulo_original": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad   ",
+    "titulo": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F005n2pol-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 1912,
+    "titulo_original": "Murió el realizador John Irvin   ",
+    "titulo": "Murió el realizador John Irvin",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 1913,
+    "titulo_original": "Fidel Castro, líder que transformó AL y el Caribe    ",
+    "titulo": "Fidel Castro, líder que transformó AL y el Caribe",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/008n1pol?partner=rss"
   }
 ]
