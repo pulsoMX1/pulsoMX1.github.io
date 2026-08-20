@@ -1,35 +1,5 @@
 [
   {
-    "id": 1808,
-    "titulo_original": "Crece oposición para ampliar el puerto en la laguna de Cuyutlán   ",
-    "titulo": "Crece oposición para ampliar el puerto en la laguna de Cuyutlán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 1809,
-    "titulo_original": "Reparte el presidente de Colombia balones a los afectados por el sismo   ",
-    "titulo": "Reparte el presidente de Colombia balones a los afectados por el sismo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 1810,
-    "titulo_original": "Arturo Balderas Rodríguez: Desde el  otro lado   ",
-    "titulo": "Arturo Balderas Rodríguez: Desde el otro lado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/012o1pol?partner=rss"
-  },
-  {
     "id": 1811,
     "titulo_original": "Veto total a dispositivos digitales “limita los derechos de menores”   ",
     "titulo": "Veto total a dispositivos digitales “limita los derechos de menores”",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 1908,
+    "titulo_original": "Era reduce al mínimo sus operaciones   ",
+    "titulo": "Era reduce al mínimo sus operaciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a04n2cul?partner=rss"
+  },
+  {
+    "id": 1909,
+    "titulo_original": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos   ",
+    "titulo": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F024n1est-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/024n1est?partner=rss"
+  },
+  {
+    "id": 1910,
+    "titulo_original": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”   ",
+    "titulo": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/005n3pol?partner=rss"
   }
 ]
