@@ -1,35 +1,5 @@
 [
   {
-    "id": 1799,
-    "titulo_original": "Alia Lira Hartmann: Desde otras ciudades   ",
-    "titulo": "Alia Lira Hartmann: Desde otras ciudades",
-    "resumen": "La expresidenta de la Comisión Nacional de Derechos Humanos, Alia Lira Hartmann, anunció que se mudará a otras ciudades después de recibir amenazas de muerte. La noticia causó conmoción en el país, donde se cuestiona la seguridad de los defensores de derechos humanos. La decisión de Lira Hartmann pone de relieve el deterioro de la situación en México.",
-    "contenido": "La expresidenta de la Comisión Nacional de Derechos Humanos, Alia Lira Hartmann, anunció que se mudará a otras ciudades después de recibir amenazas de muerte.\n\nCabe destacar que Lira Hartmann ha sido una de las voces más importantes en la defensa de los derechos humanos en México. Su decisión de dejar el país es un golpe para la comunidad de defensores de derechos humanos, que han denunciado una escalada de la violencia en México.\n\nSe estima que el número de defensores de derechos humanos asesinados en México ha aumentado significativamente en los últimos años, lo que ha generado un clima de inseguridad entre los funcionarios públicos y los activistas.\n\nEl anuncio de Lira Hartmann se hizo en un entorno de tensión, después de que recibiera amenazas de muerte por parte de una organización delincuencial. Según fuentes cercanas a la expresidenta, las amenazas fueron entregadas en un envío secreto, lo que ha generado una gran preocupación en el gobierno.\n\nAl respecto, el gobierno federal ha señalado que está comprometido con la seguridad de los defensores de derechos humanos y que está trabajando para prevenir la violencia en el país. Sin embargo, la decisión de Lira Hartmann pone de relieve la falta de resultados en la lucha contra la violencia.\n\nEsa falta de resultados tiene un impacto directo en la población, que está cansada de la violencia y la inseguridad. Muchos ciudadanos se sienten perdidos y sin esperanza, y la decisión de Lira Hartmann es un recordatorio de que la situación en México sigue siendo grave.\n\nEn ese sentido, la decisión de Lira Hartmann es un llamado a la acción para el gobierno y la sociedad en general. Es hora de que se tome medidas concretas para prevenir la violencia y proteger a los defensores de derechos humanos. La seguridad de la población depende de ello.\n\nA corto plazo, la decisión de Lira Hartmann puede significar una mayor presión sobre el gobierno para que tome medidas efectivas para prevenir la violencia. La situación en México sigue siendo delicada y es importante que se tomen medidas concretas para proteger a la población y a los defensores de derechos humanos.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F16%2Ffotos%2F024o1cap-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/16/opinion/024o1cap?partner=rss"
-  },
-  {
-    "id": 1800,
-    "titulo_original": "Editorial:     Brasil: ¿qué representa Bolsonaro?     ",
-    "titulo": "Editorial: Brasil: ¿qué representa Bolsonaro?",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 1801,
-    "titulo_original": "Reúne DJ Snake a miles en el Festival Frecuencias en Puebla   ",
-    "titulo": "Reúne DJ Snake a miles en el Festival Frecuencias en Puebla",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa07n2esp-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/espectaculos/a07n2esp?partner=rss"
-  },
-  {
     "id": 1802,
     "titulo_original": "David Márquez Ayala: Reporte económico   ",
     "titulo": "David Márquez Ayala: Reporte económico",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n4mun?partner=rss"
+  },
+  {
+    "id": 1899,
+    "titulo_original": "Premia la FMF a los rbitros del Mundial   ",
+    "titulo": "Premia la FMF a los rbitros del Mundial",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 1900,
+    "titulo_original": "Delcy Rodríguez y Betancourt definieron la apertura petrolera de Venezuela desde 2024   ",
+    "titulo": "Delcy Rodríguez y Betancourt definieron la apertura petrolera de Venezuela desde 2024",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 1901,
+    "titulo_original": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular   ",
+    "titulo": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F027n1cap-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/capital/027n1cap?partner=rss"
   }
 ]
