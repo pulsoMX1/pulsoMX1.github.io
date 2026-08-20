@@ -1,35 +1,5 @@
 [
   {
-    "id": 1823,
-    "titulo_original": "Sismos de Venezuela y Colombia no tendrán impacto en el país   ",
-    "titulo": "Sismos de Venezuela y Colombia no tendrán impacto en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/012n2pol?partner=rss"
-  },
-  {
-    "id": 1824,
-    "titulo_original": "Inhabilitan e imponen multas millonarias a  41 servidores públicos    ",
-    "titulo": "Inhabilitan e imponen multas millonarias a 41 servidores públicos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 1825,
-    "titulo_original": "Con dramático triunfo, Tri femenil de tochito va a Los Ángeles 2028   ",
-    "titulo": "Con dramático triunfo, Tri femenil de tochito va a Los Ángeles 2028",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa09n1dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/deportes/a09n1dep?partner=rss"
-  },
-  {
     "id": 1826,
     "titulo_original": "Chivas femenil golea en casa 3-1 a las potosinas    ",
     "titulo": "Chivas femenil golea en casa 3-1 a las potosinas",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 1923,
+    "titulo_original": "Se unirá el fisco estadunidense a la persecución contra migrantes   ",
+    "titulo": "Se unirá el fisco estadunidense a la persecución contra migrantes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 1924,
+    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
+    "titulo": "Enrique Galván Ochoa: Dinero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/opinion/006o1eco?partner=rss"
+  },
+  {
+    "id": 1925,
+    "titulo_original": "“Ataque contra la memoria y la cultura”   ",
+    "titulo": "“Ataque contra la memoria y la cultura”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/cultura/a02n2cul?partner=rss"
   }
 ]
