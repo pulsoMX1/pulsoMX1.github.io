@@ -1,35 +1,5 @@
 [
   {
-    "id": 1814,
-    "titulo_original": "Embajador de EU resalta cooperación en seguridad y relación con García Harfuch   ",
-    "titulo": "Embajador de EU resalta cooperación en seguridad y relación con García Harfuch",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 1815,
-    "titulo_original": "Aguacateros, cautos ante la reapertura del mercado de EU   ",
-    "titulo": "Aguacateros, cautos ante la reapertura del mercado de EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/016n1eco?partner=rss"
-  },
-  {
-    "id": 1816,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/006o1eco?partner=rss"
-  },
-  {
     "id": 1817,
     "titulo_original": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad    ",
     "titulo": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 1914,
+    "titulo_original": "Habitante de Naco afectado por derrame de químico continúa en estado crítico    ",
+    "titulo": "Habitante de Naco afectado por derrame de químico continúa en estado crítico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/024n4est?partner=rss"
+  },
+  {
+    "id": 1915,
+    "titulo_original": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación   ",
+    "titulo": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 1916,
+    "titulo_original": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio   ",
+    "titulo": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/025n1est?partner=rss"
   }
 ]
