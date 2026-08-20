@@ -1,35 +1,5 @@
 [
   {
-    "id": 1817,
-    "titulo_original": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad    ",
-    "titulo": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 1818,
-    "titulo_original": "David Brooks: American curios   ",
-    "titulo": "David Brooks: American curios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F023o1mun-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/023o1mun?partner=rss"
-  },
-  {
-    "id": 1819,
-    "titulo_original": "Insta ministro de Seguridad de Israel a asesinar 40 palestinos cada noche   ",
-    "titulo": "Insta ministro de Seguridad de Israel a asesinar 40 palestinos cada noche",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F020n1mun-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/020n1mun?partner=rss"
-  },
-  {
     "id": 1820,
     "titulo_original": "Felipe Ávila*: La Segunda República Española   ",
     "titulo": "Felipe Ávila*: La Segunda República Española",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 1917,
+    "titulo_original": "Despliegan operativo para detener al edil  de Paraíso, Tabasco; catean su domicilio   ",
+    "titulo": "Despliegan operativo para detener al edil de Paraíso, Tabasco; catean su domicilio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 1918,
+    "titulo_original": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros    ",
+    "titulo": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 1919,
+    "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
+    "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n1pol?partner=rss"
   }
 ]
