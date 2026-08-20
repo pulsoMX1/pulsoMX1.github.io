@@ -1,35 +1,5 @@
 [
   {
-    "id": 1805,
-    "titulo_original": "“Aprendí a que las críticas de Star Wars me importen un bledo”, dice Ewan McGregor    ",
-    "titulo": "“Aprendí a que las críticas de Star Wars me importen un bledo”, dice Ewan McGregor",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 1806,
-    "titulo_original": "Efectuarán mesas  de diálogo sobre ley contra el feminicidio   ",
-    "titulo": "Efectuarán mesas de diálogo sobre ley contra el feminicidio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1807,
-    "titulo_original": "Carlos Fazio: Fidel, el pueblo  y la verdad   ",
-    "titulo": "Carlos Fazio: Fidel, el pueblo y la verdad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 1808,
     "titulo_original": "Crece oposición para ampliar el puerto en la laguna de Cuyutlán   ",
     "titulo": "Crece oposición para ampliar el puerto en la laguna de Cuyutlán",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/026n2est?partner=rss"
+  },
+  {
+    "id": 1905,
+    "titulo_original": "Madonna superó a Taylor Swift en nominaciones de los premios MTV   ",
+    "titulo": "Madonna superó a Taylor Swift en nominaciones de los premios MTV",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n3esp-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n3esp?partner=rss"
+  },
+  {
+    "id": 1906,
+    "titulo_original": "Repunta precio del crudo por tensiones en Medio Oriente   ",
+    "titulo": "Repunta precio del crudo por tensiones en Medio Oriente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n3mun?partner=rss"
+  },
+  {
+    "id": 1907,
+    "titulo_original": "Armada lleva más ayuda humanitaria   ",
+    "titulo": "Armada lleva más ayuda humanitaria",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n3mun?partner=rss"
   }
 ]
