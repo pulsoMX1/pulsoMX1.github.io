@@ -1,35 +1,5 @@
 [
   {
-    "id": 1826,
-    "titulo_original": "Chivas femenil golea en casa 3-1 a las potosinas    ",
-    "titulo": "Chivas femenil golea en casa 3-1 a las potosinas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 1827,
-    "titulo_original": "Trump reprocha a Seúl falta de apoyo contra la república islámica   ",
-    "titulo": "Trump reprocha a Seúl falta de apoyo contra la república islámica",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/021n2mun?partner=rss"
-  },
-  {
-    "id": 1828,
-    "titulo_original": "Concesionarias de autopistas urbanas  triplicaron sus ganancias en seis años   ",
-    "titulo": "Concesionarias de autopistas urbanas triplicaron sus ganancias en seis años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/capital/027n1cap?partner=rss"
-  },
-  {
     "id": 1829,
     "titulo_original": "León Bendesky: Un dólar por 17.02 pesos   ",
     "titulo": "León Bendesky: Un dólar por 17.02 pesos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/cultura/a02n2cul?partner=rss"
+  },
+  {
+    "id": 1926,
+    "titulo_original": "Pueblos indígenas alistan propuestas para iniciativa de ley   ",
+    "titulo": "Pueblos indígenas alistan propuestas para iniciativa de ley",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/sociedad/031n3soc?partner=rss"
+  },
+  {
+    "id": 1927,
+    "titulo_original": "Sin visa y con inmunidad actuará personal militar estadunidense en Ecuador   ",
+    "titulo": "Sin visa y con inmunidad actuará personal militar estadunidense en Ecuador",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 1928,
+    "titulo_original": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17   ",
+    "titulo": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/015n2eco?partner=rss"
   }
 ]
