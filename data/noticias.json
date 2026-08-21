@@ -1,35 +1,5 @@
 [
   {
-    "id": 1862,
-    "titulo_original": "Hoy vence emplazamiento a huelga en VW   ",
-    "titulo": "Hoy vence emplazamiento a huelga en VW",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/009n3pol?partner=rss"
-  },
-  {
-    "id": 1863,
-    "titulo_original": "Magdalena Gómez: Colocar la mirada en el pueblo rarámuri   ",
-    "titulo": "Magdalena Gómez: Colocar la mirada en el pueblo rarámuri",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/013a2pol?partner=rss"
-  },
-  {
-    "id": 1864,
-    "titulo_original": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec   ",
-    "titulo": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F026n2est-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/026n2est?partner=rss"
-  },
-  {
     "id": 1865,
     "titulo_original": "Se avecinan tiempos muy duros para Colombia: De la Espriella   ",
     "titulo": "Se avecinan tiempos muy duros para Colombia: De la Espriella",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 1962,
+    "titulo_original": "Raúl Zibechi: Enseñanzas de la asamblea por el agua y la vida   ",
+    "titulo": "Raúl Zibechi: Enseñanzas de la asamblea por el agua y la vida",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 1963,
+    "titulo_original": "Guatemala ha recibido a 2 mil 350 mexicanos deportados en 2026; niega ser tercer país seguro   ",
+    "titulo": "Guatemala ha recibido a 2 mil 350 mexicanos deportados en 2026; niega ser tercer país seguro",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F019n2mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 1964,
+    "titulo_original": "Sanciona EU a flotilla pesquera; la acusa de traficar cocaína de Ecuador a México   ",
+    "titulo": "Sanciona EU a flotilla pesquera; la acusa de traficar cocaína de Ecuador a México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/012n2pol?partner=rss"
   }
 ]
