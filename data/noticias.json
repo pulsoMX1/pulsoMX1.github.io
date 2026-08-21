@@ -1,35 +1,5 @@
 [
   {
-    "id": 1859,
-    "titulo_original": "Corte de Rusia niega al partido Yabloko participar en las urnas   ",
-    "titulo": "Corte de Rusia niega al partido Yabloko participar en las urnas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/021n2mun?partner=rss"
-  },
-  {
-    "id": 1860,
-    "titulo_original": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años   ",
-    "titulo": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 1861,
-    "titulo_original": "Ganancias de la banca de desarrollo repuntaron en el primer semestre   ",
-    "titulo": "Ganancias de la banca de desarrollo repuntaron en el primer semestre",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/017n2eco?partner=rss"
-  },
-  {
     "id": 1862,
     "titulo_original": "Hoy vence emplazamiento a huelga en VW   ",
     "titulo": "Hoy vence emplazamiento a huelga en VW",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa09n2esp-1.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 1959,
+    "titulo_original": "Impugna FGR que den prisión domiciliaria a Murillo Karam   ",
+    "titulo": "Impugna FGR que den prisión domiciliaria a Murillo Karam",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/sociedad/031n3soc?partner=rss"
+  },
+  {
+    "id": 1960,
+    "titulo_original": "Inicia ejército de EU operaciones contra narcos en norte de Ecuador   ",
+    "titulo": "Inicia ejército de EU operaciones contra narcos en norte de Ecuador",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 1961,
+    "titulo_original": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum   ",
+    "titulo": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/015n2eco?partner=rss"
   }
 ]
