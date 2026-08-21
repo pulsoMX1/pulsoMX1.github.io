@@ -1,35 +1,5 @@
 [
   {
-    "id": 1856,
-    "titulo_original": "Publican ajuste de sueldos de altos funcionarios de la FGR   ",
-    "titulo": "Publican ajuste de sueldos de altos funcionarios de la FGR",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/012n3pol?partner=rss"
-  },
-  {
-    "id": 1857,
-    "titulo_original": "Hacinamiento y precariedad, el día a día de los cortadores de caña en el país   ",
-    "titulo": "Hacinamiento y precariedad, el día a día de los cortadores de caña en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 1858,
-    "titulo_original": "“Un sueño cumplido”, dice Rodri sobre su fichaje con el Barcelona   ",
-    "titulo": "“Un sueño cumplido”, dice Rodri sobre su fichaje con el Barcelona",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a11n2dep?partner=rss"
-  },
-  {
     "id": 1859,
     "titulo_original": "Corte de Rusia niega al partido Yabloko participar en las urnas   ",
     "titulo": "Corte de Rusia niega al partido Yabloko participar en las urnas",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 1956,
+    "titulo_original": "Podrá SSPC seguir litigios contra ex colaboradores de Genaro García Luna   ",
+    "titulo": "Podrá SSPC seguir litigios contra ex colaboradores de Genaro García Luna",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 1957,
+    "titulo_original": "Anforama cierra tras 75 años en el mercado   ",
+    "titulo": "Anforama cierra tras 75 años en el mercado",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 1958,
+    "titulo_original": "La DEA investiga la muerte de la actriz Hayden Panettiere   ",
+    "titulo": "La DEA investiga la muerte de la actriz Hayden Panettiere",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa09n2esp-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a09n2esp?partner=rss"
   }
 ]
