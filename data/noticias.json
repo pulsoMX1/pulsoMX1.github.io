@@ -1,35 +1,5 @@
 [
   {
-    "id": 1835,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F018o1eco-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/018o1eco?partner=rss"
-  },
-  {
-    "id": 1836,
-    "titulo_original": "Editorial:     Ediciones Era: luto latinoamericano       ",
-    "titulo": "Editorial: Ediciones Era: luto latinoamericano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 1837,
-    "titulo_original": "Participaron 391 mil 251 personas en la clase masiva de box   ",
-    "titulo": "Participaron 391 mil 251 personas en la clase masiva de box",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 1838,
     "titulo_original": "Miguel Pineda: Negocios y empresas   ",
     "titulo": "Miguel Pineda: Negocios y empresas",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n3pol?partner=rss"
+  },
+  {
+    "id": 1935,
+    "titulo_original": "Ratifican multa de  521 mil pesos al PRI por omisión en 2024   ",
+    "titulo": "Ratifican multa de 521 mil pesos al PRI por omisión en 2024",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 1936,
+    "titulo_original": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones   ",
+    "titulo": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/009n2pol?partner=rss"
+  },
+  {
+    "id": 1937,
+    "titulo_original": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua   ",
+    "titulo": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n4mun?partner=rss"
   }
 ]
