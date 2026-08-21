@@ -1,35 +1,5 @@
 [
   {
-    "id": 1832,
-    "titulo_original": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC   ",
-    "titulo": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 1833,
-    "titulo_original": "Donovan Carrillo, plata en Canadá   ",
-    "titulo": "Donovan Carrillo, plata en Canadá",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa10n3dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/deportes/a10n3dep?partner=rss"
-  },
-  {
-    "id": 1834,
-    "titulo_original": "Ligero retroceso en  los precios del petróleo   ",
-    "titulo": "Ligero retroceso en los precios del petróleo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/021n3mun?partner=rss"
-  },
-  {
     "id": 1835,
     "titulo_original": "Carlos Fernández-Vega: México SA   ",
     "titulo": "Carlos Fernández-Vega: México SA",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 1932,
+    "titulo_original": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales   ",
+    "titulo": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 1933,
+    "titulo_original": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
+    "titulo": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F023n1est-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n1est?partner=rss"
+  },
+  {
+    "id": 1934,
+    "titulo_original": "Trabajadores del PJF piden más sueldo por más productividad   ",
+    "titulo": "Trabajadores del PJF piden más sueldo por más productividad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n3pol?partner=rss"
   }
 ]
