@@ -1,35 +1,5 @@
 [
   {
-    "id": 1829,
-    "titulo_original": "León Bendesky: Un dólar por 17.02 pesos   ",
-    "titulo": "León Bendesky: Un dólar por 17.02 pesos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/017a1eco?partner=rss"
-  },
-  {
-    "id": 1830,
-    "titulo_original": "Actualizan protocolos  sobre los desaparecidos   ",
-    "titulo": "Actualizan protocolos sobre los desaparecidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/009n3pol?partner=rss"
-  },
-  {
-    "id": 1831,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/008o1pol?partner=rss"
-  },
-  {
     "id": 1832,
     "titulo_original": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC   ",
     "titulo": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 1929,
+    "titulo_original": "Abraham Nuncio: Las criadas y nosotros   ",
+    "titulo": "Abraham Nuncio: Las criadas y nosotros",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 1930,
+    "titulo_original": "Instan a combatir a las pandillas en Haití   ",
+    "titulo": "Instan a combatir a las pandillas en Haití",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F020n5mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n5mun?partner=rss"
+  },
+  {
+    "id": 1931,
+    "titulo_original": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina   ",
+    "titulo": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
   }
 ]
