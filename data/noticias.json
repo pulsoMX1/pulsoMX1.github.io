@@ -1,35 +1,5 @@
 [
   {
-    "id": 1841,
-    "titulo_original": "Decomisa Marina 3.5 toneladas de coca en Michoacán   ",
-    "titulo": "Decomisa Marina 3.5 toneladas de coca en Michoacán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1842,
-    "titulo_original": "Animales “tiernos” creados con IA ponen en riesgo los esfuerzos de conservación, alerta zoólogo    ",
-    "titulo": "Animales “tiernos” creados con IA ponen en riesgo los esfuerzos de conservación, alerta zoólogo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 1843,
-    "titulo_original": "Funcionarios del Edomex obtuvieron $430 millones por extorsiones a verificentros    ",
-    "titulo": "Funcionarios del Edomex obtuvieron $430 millones por extorsiones a verificentros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/025n1est?partner=rss"
-  },
-  {
     "id": 1844,
     "titulo_original": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera   ",
     "titulo": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F027n1cap-1.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/capital/027n1cap?partner=rss"
+  },
+  {
+    "id": 1941,
+    "titulo_original": "Hidalgo: invertirán $10 mil millones en parques industriales   ",
+    "titulo": "Hidalgo: invertirán $10 mil millones en parques industriales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 1942,
+    "titulo_original": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano   ",
+    "titulo": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F019n1mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n1mun?partner=rss"
+  },
+  {
+    "id": 1943,
+    "titulo_original": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende    ",
+    "titulo": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/013a2pol?partner=rss"
   }
 ]
