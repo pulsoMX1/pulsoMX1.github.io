@@ -1,35 +1,5 @@
 [
   {
-    "id": 1850,
-    "titulo_original": "Trump amenaza con atacar Omán si se interpone en diálogo con Irán   ",
-    "titulo": "Trump amenaza con atacar Omán si se interpone en diálogo con Irán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F020n1mun-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/020n1mun?partner=rss"
-  },
-  {
-    "id": 1851,
-    "titulo_original": "Gasto público se rezaga en 33 dependencias y empresas públicas: SHCP   ",
-    "titulo": "Gasto público se rezaga en 33 dependencias y empresas públicas: SHCP",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 1852,
-    "titulo_original": "Pedro Salmerón Sanginés: Acuarela carioca   ",
-    "titulo": "Pedro Salmerón Sanginés: Acuarela carioca",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/014a1pol?partner=rss"
-  },
-  {
     "id": 1853,
     "titulo_original": "Jane Fonda: Mi vida de protesta: 60 años de lucha    ",
     "titulo": "Jane Fonda: Mi vida de protesta: 60 años de lucha",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 1950,
+    "titulo_original": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria   ",
+    "titulo": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 1951,
+    "titulo_original": "Construye Israel complejo para ahorcar a palestinos    ",
+    "titulo": "Construye Israel complejo para ahorcar a palestinos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 1952,
+    "titulo_original": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca   ",
+    "titulo": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/007n1pol?partner=rss"
   }
 ]
