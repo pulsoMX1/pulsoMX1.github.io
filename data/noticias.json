@@ -1,35 +1,5 @@
 [
   {
-    "id": 1838,
-    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
-    "titulo": "Miguel Pineda: Negocios y empresas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/opinion/016o1eco?partner=rss"
-  },
-  {
-    "id": 1839,
-    "titulo_original": "Presupuesto de $46.9 mil millones, conforme a la ley, defiende Taddei   ",
-    "titulo": "Presupuesto de $46.9 mil millones, conforme a la ley, defiende Taddei",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 1840,
-    "titulo_original": "Sabor caribeño de Annys Batista obtiene premio internacional en Polonia   ",
-    "titulo": "Sabor caribeño de Annys Batista obtiene premio internacional en Polonia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/espectaculos/a08n2esp?partner=rss"
-  },
-  {
     "id": 1841,
     "titulo_original": "Decomisa Marina 3.5 toneladas de coca en Michoacán   ",
     "titulo": "Decomisa Marina 3.5 toneladas de coca en Michoacán",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n4mun?partner=rss"
+  },
+  {
+    "id": 1938,
+    "titulo_original": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino   ",
+    "titulo": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 1939,
+    "titulo_original": "Persisten incrementos en el precio del crudo    ",
+    "titulo": "Persisten incrementos en el precio del crudo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 1940,
+    "titulo_original": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada   ",
+    "titulo": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F027n1cap-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/capital/027n1cap?partner=rss"
   }
 ]
