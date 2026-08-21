@@ -1,35 +1,5 @@
 [
   {
-    "id": 1844,
-    "titulo_original": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera   ",
-    "titulo": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 1845,
-    "titulo_original": "Llama Morena a cerrar filas con la Presidenta   ",
-    "titulo": "Llama Morena a cerrar filas con la Presidenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 1846,
-    "titulo_original": "Europa vive los efectos del cambio climático   ",
-    "titulo": "Europa vive los efectos del cambio climático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F022n2mun-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 1847,
     "titulo_original": "Alertan sobre algunos candidatos a dirección del Hospital Infantil   ",
     "titulo": "Alertan sobre algunos candidatos a dirección del Hospital Infantil",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/013a2pol?partner=rss"
+  },
+  {
+    "id": 1944,
+    "titulo_original": "Editorial: Nicaragua: cuestión de principios",
+    "titulo": "Editorial: Nicaragua: cuestión de principios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 1945,
+    "titulo_original": "Anuncia Godoy Ramos nuevas órdenes de arresto   ",
+    "titulo": "Anuncia Godoy Ramos nuevas órdenes de arresto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 1946,
+    "titulo_original": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba    ",
+    "titulo": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a08n2esp?partner=rss"
   }
 ]
