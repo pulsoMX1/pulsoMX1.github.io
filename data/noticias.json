@@ -1,35 +1,5 @@
 [
   {
-    "id": 1847,
-    "titulo_original": "Alertan sobre algunos candidatos a dirección del Hospital Infantil   ",
-    "titulo": "Alertan sobre algunos candidatos a dirección del Hospital Infantil",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 1848,
-    "titulo_original": "Poseen 57 funcionarios de Trump fortunas de por lo menos 100 mdd   ",
-    "titulo": "Poseen 57 funcionarios de Trump fortunas de por lo menos 100 mdd",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/016n1eco?partner=rss"
-  },
-  {
-    "id": 1849,
-    "titulo_original": "Adriana Tristeza, montaje que retrata la desaparición forzada que aflige a México   ",
-    "titulo": "Adriana Tristeza, montaje que retrata la desaparición forzada que aflige a México",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa09n2esp-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/espectaculos/a09n2esp?partner=rss"
-  },
-  {
     "id": 1850,
     "titulo_original": "Trump amenaza con atacar Omán si se interpone en diálogo con Irán   ",
     "titulo": "Trump amenaza con atacar Omán si se interpone en diálogo con Irán",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 1947,
+    "titulo_original": "Empresas piden  reducir impuestos en ventas en línea    ",
+    "titulo": "Empresas piden reducir impuestos en ventas en línea",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 1948,
+    "titulo_original": "Rosa Icela recorre municipios de Michoacán    ",
+    "titulo": "Rosa Icela recorre municipios de Michoacán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F024n4est-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n4est?partner=rss"
+  },
+  {
+    "id": 1949,
+    "titulo_original": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada   ",
+    "titulo": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/025n1est?partner=rss"
   }
 ]
