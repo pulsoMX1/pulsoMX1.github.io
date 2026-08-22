@@ -1,35 +1,5 @@
 [
   {
-    "id": 1868,
-    "titulo_original": "Cayó el consumo 0.4% en julio, reporta BBVA   ",
-    "titulo": "Cayó el consumo 0.4% en julio, reporta BBVA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F017n1eco-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/017n1eco?partner=rss"
-  },
-  {
-    "id": 1869,
-    "titulo_original": "Ex funcionario de Sinaloa ya no aparece bajo custodia en EU   ",
-    "titulo": "Ex funcionario de Sinaloa ya no aparece bajo custodia en EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F010n1pol-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/010n1pol?partner=rss"
-  },
-  {
-    "id": 1870,
-    "titulo_original": "Exigen desclasificar documentos referentes al asesinato del granadino   ",
-    "titulo": "Exigen desclasificar documentos referentes al asesinato del granadino",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/cultura/a03n3cul?partner=rss"
-  },
-  {
     "id": 1871,
     "titulo_original": "Libro conmemorativo de Amores perros promete ser un making of 25 años después    ",
     "titulo": "Libro conmemorativo de Amores perros promete ser un making of 25 años después",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa11n2dep-1.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 1968,
+    "titulo_original": "Sube precio del petróleo por quinta jornada consecutiva   ",
+    "titulo": "Sube precio del petróleo por quinta jornada consecutiva",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 1969,
+    "titulo_original": "Vecinos alistan frente de oposición ante impactos  de Torre Reforma Colón   ",
+    "titulo": "Vecinos alistan frente de oposición ante impactos de Torre Reforma Colón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/027n1cap?partner=rss"
+  },
+  {
+    "id": 1970,
+    "titulo_original": "BdeM considera mantener tasa mientras inflación se modera   ",
+    "titulo": "BdeM considera mantener tasa mientras inflación se modera",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n2eco?partner=rss"
   }
 ]
