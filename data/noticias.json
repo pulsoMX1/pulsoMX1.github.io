@@ -1,35 +1,5 @@
 [
   {
-    "id": 1880,
-    "titulo_original": "Empieza el juicio por denuncias de que Meta es adictiva y hace daño   ",
-    "titulo": "Empieza el juicio por denuncias de que Meta es adictiva y hace daño",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 1881,
-    "titulo_original": "Restituyen 836 hectáreas de territorio ancestral a comunidad wixárica   ",
-    "titulo": "Restituyen 836 hectáreas de territorio ancestral a comunidad wixárica",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 1882,
-    "titulo_original": "Revisará comisión de Morena caso de militante ligado a mafia rumana   ",
-    "titulo": "Revisará comisión de Morena caso de militante ligado a mafia rumana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/026n3est?partner=rss"
-  },
-  {
     "id": 1883,
     "titulo_original": "Sanciona EU a presidenta de CPI; en riesgo, el orden jurídico mundial: la corte   ",
     "titulo": "Sanciona EU a presidenta de CPI; en riesgo, el orden jurídico mundial: la corte",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 1980,
+    "titulo_original": "Vinculación de líneas celulares muestra avance de 60.5%: CRT   ",
+    "titulo": "Vinculación de líneas celulares muestra avance de 60.5%: CRT",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n1eco?partner=rss"
+  },
+  {
+    "id": 1981,
+    "titulo_original": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente   ",
+    "titulo": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F010n1pol-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n1pol?partner=rss"
+  },
+  {
+    "id": 1982,
+    "titulo_original": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre   ",
+    "titulo": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa07n1esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a07n1esp?partner=rss"
   }
 ]
