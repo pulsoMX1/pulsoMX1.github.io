@@ -1,35 +1,5 @@
 [
   {
-    "id": 1877,
-    "titulo_original": "México Canta y Spotify unen fuerzas en alianza estratégica para apoyar a la juventud   ",
-    "titulo": "México Canta y Spotify unen fuerzas en alianza estratégica para apoyar a la juventud",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 1878,
-    "titulo_original": "Prevé la Presidenta el traslado a México del contralmirante Farías   ",
-    "titulo": "Prevé la Presidenta el traslado a México del contralmirante Farías",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1879,
-    "titulo_original": "Carlos Martínez García: La Iglesia cristiana interdenominacional, una vertiente del protestantismo endógeno mexicano   ",
-    "titulo": "Carlos Martínez García: La Iglesia cristiana interdenominacional, una vertiente del protestantismo endógeno mexicano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 1880,
     "titulo_original": "Empieza el juicio por denuncias de que Meta es adictiva y hace daño   ",
     "titulo": "Empieza el juicio por denuncias de que Meta es adictiva y hace daño",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa04n2cul-1.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04n2cul?partner=rss"
+  },
+  {
+    "id": 1977,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F018o1eco-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/018o1eco?partner=rss"
+  },
+  {
+    "id": 1978,
+    "titulo_original": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara     ",
+    "titulo": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n1est?partner=rss"
+  },
+  {
+    "id": 1979,
+    "titulo_original": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos   ",
+    "titulo": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n3pol?partner=rss"
   }
 ]
