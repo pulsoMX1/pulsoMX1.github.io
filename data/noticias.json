@@ -1,35 +1,5 @@
 [
   {
-    "id": 1874,
-    "titulo_original": "Cruz Azul contempla acciones legales por insultos misóginos contra sus futbolistas   ",
-    "titulo": "Cruz Azul contempla acciones legales por insultos misóginos contra sus futbolistas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa31n1dep-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a31n1dep?partner=rss"
-  },
-  {
-    "id": 1875,
-    "titulo_original": "Editorial: Detrás de la derecha, la CIA",
-    "titulo": "Editorial: Detrás de la derecha, la CIA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 1876,
-    "titulo_original": "Trabajamos “hombro con hombro”: Johnson   ",
-    "titulo": "Trabajamos “hombro con hombro”: Johnson",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 1877,
     "titulo_original": "México Canta y Spotify unen fuerzas en alianza estratégica para apoyar a la juventud   ",
     "titulo": "México Canta y Spotify unen fuerzas en alianza estratégica para apoyar a la juventud",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F008o1pol-1.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 1974,
+    "titulo_original": "Canal de Panamá reducirá tránsito de buques por El Niño   ",
+    "titulo": "Canal de Panamá reducirá tránsito de buques por El Niño",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n5mun?partner=rss"
+  },
+  {
+    "id": 1975,
+    "titulo_original": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA   ",
+    "titulo": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 1976,
+    "titulo_original": "Arte europeo llega a Japón   ",
+    "titulo": "Arte europeo llega a Japón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa04n2cul-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04n2cul?partner=rss"
   }
 ]
