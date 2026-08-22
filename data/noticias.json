@@ -1,35 +1,5 @@
 [
   {
-    "id": 1871,
-    "titulo_original": "Libro conmemorativo de Amores perros promete ser un making of 25 años después    ",
-    "titulo": "Libro conmemorativo de Amores perros promete ser un making of 25 años después",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/espectaculos/a07n1esp?partner=rss"
-  },
-  {
-    "id": 1872,
-    "titulo_original": "SCJN: seis ministros votaron por restituir gastos médicos   ",
-    "titulo": "SCJN: seis ministros votaron por restituir gastos médicos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/006n2pol?partner=rss"
-  },
-  {
-    "id": 1873,
-    "titulo_original": "Anuncia Sheinbaum 400 mil nuevos lugares en bachillerato   ",
-    "titulo": "Anuncia Sheinbaum 400 mil nuevos lugares en bachillerato",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/004n3pol?partner=rss"
-  },
-  {
     "id": 1874,
     "titulo_original": "Cruz Azul contempla acciones legales por insultos misóginos contra sus futbolistas   ",
     "titulo": "Cruz Azul contempla acciones legales por insultos misóginos contra sus futbolistas",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 1971,
+    "titulo_original": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos   ",
+    "titulo": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n1mun?partner=rss"
+  },
+  {
+    "id": 1972,
+    "titulo_original": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo   ",
+    "titulo": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a2pol?partner=rss"
+  },
+  {
+    "id": 1973,
+    "titulo_original": "Julio Hernández López: Astillero   ",
+    "titulo": "Julio Hernández López: Astillero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/008o1pol?partner=rss"
   }
 ]
