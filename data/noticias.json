@@ -1,35 +1,5 @@
 [
   {
-    "id": 1865,
-    "titulo_original": "Se avecinan tiempos muy duros para Colombia: De la Espriella   ",
-    "titulo": "Se avecinan tiempos muy duros para Colombia: De la Espriella",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/023n3mun?partner=rss"
-  },
-  {
-    "id": 1866,
-    "titulo_original": "Arremete gobierno de Jara de nuevo contra la prensa; un mes duró la tregua     ",
-    "titulo": "Arremete gobierno de Jara de nuevo contra la prensa; un mes duró la tregua",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F024n1est-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 1867,
-    "titulo_original": "Renuncia Mónica Soto al TEPJF; su ciclo cerraba en 2028, tras la reforma   ",
-    "titulo": "Renuncia Mónica Soto al TEPJF; su ciclo cerraba en 2028, tras la reforma",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/005n3pol?partner=rss"
-  },
-  {
     "id": 1868,
     "titulo_original": "Cayó el consumo 0.4% en julio, reporta BBVA   ",
     "titulo": "Cayó el consumo 0.4% en julio, reporta BBVA",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 1965,
+    "titulo_original": "Llevarán ante juez a 32 colaboradores  de Alito por desvío de $270 millones   ",
+    "titulo": "Llevarán ante juez a 32 colaboradores de Alito por desvío de $270 millones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F023n1est-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/023n1est?partner=rss"
+  },
+  {
+    "id": 1966,
+    "titulo_original": "Imputan encubrimiento a testigo del secuestro de El Mayo y el asesinato del rector Melesio Cuén   ",
+    "titulo": "Imputan encubrimiento a testigo del secuestro de El Mayo y el asesinato del rector Melesio Cuén",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/012n3pol?partner=rss"
+  },
+  {
+    "id": 1967,
+    "titulo_original": "Abierto de EU otorgará premios récord para evitar protestas   ",
+    "titulo": "Abierto de EU otorgará premios récord para evitar protestas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/deportes/a11n2dep?partner=rss"
   }
 ]
