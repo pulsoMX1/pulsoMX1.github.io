@@ -1,35 +1,5 @@
 [
   {
-    "id": 1892,
-    "titulo_original": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja   ",
-    "titulo": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F020n1mun-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/020n1mun?partner=rss"
-  },
-  {
-    "id": 1893,
-    "titulo_original": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto   ",
-    "titulo": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 1894,
-    "titulo_original": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula   ",
-    "titulo": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/015a1pol?partner=rss"
-  },
-  {
     "id": 1895,
     "titulo_original": "México y Guatemala pactan el Plan Binacional 2027   ",
     "titulo": "México y Guatemala pactan el Plan Binacional 2027",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 1992,
+    "titulo_original": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal   ",
+    "titulo": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 1993,
+    "titulo_original": "El triunfo del placer ante la nada   ",
+    "titulo": "El triunfo del placer ante la nada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa12n1dis-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/cultura/a12n1dis?partner=rss"
+  },
+  {
+    "id": 1994,
+    "titulo_original": "Elección judicial, ejemplo para el mundo: Brugada   ",
+    "titulo": "Elección judicial, ejemplo para el mundo: Brugada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/026n3cap?partner=rss"
   }
 ]
