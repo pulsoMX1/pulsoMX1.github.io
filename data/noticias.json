@@ -1,35 +1,5 @@
 [
   {
-    "id": 1886,
-    "titulo_original": "Sheinbaum y gabinete preparan su Segundo Informe de Gobierno   ",
-    "titulo": "Sheinbaum y gabinete preparan su Segundo Informe de Gobierno",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/010n2pol?partner=rss"
-  },
-  {
-    "id": 1887,
-    "titulo_original": "Inaugura Netanyahu una carretera con su nombre en territorio palestino reocupado   ",
-    "titulo": "Inaugura Netanyahu una carretera con su nombre en territorio palestino reocupado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F022n2mun-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 1888,
-    "titulo_original": "El uso de celulares ha sido regulado por años en las aulas: maestros   ",
-    "titulo": "El uso de celulares ha sido regulado por años en las aulas: maestros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/012n1pol?partner=rss"
-  },
-  {
     "id": 1889,
     "titulo_original": "Tiene Grupo México largo historial de daños y conflictos en tres países   ",
     "titulo": "Tiene Grupo México largo historial de daños y conflictos en tres países",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 1986,
+    "titulo_original": "Sheinbaum se ausentó por “gripe”   ",
+    "titulo": "Sheinbaum se ausentó por “gripe”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 1987,
+    "titulo_original": "Turquía emite orden de arresto contra Netanyahu por la detención de la Global Sumud Flotilla   ",
+    "titulo": "Turquía emite orden de arresto contra Netanyahu por la detención de la Global Sumud Flotilla",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F018n2mun-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 1988,
+    "titulo_original": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos   ",
+    "titulo": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F008n1pol-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/008n1pol?partner=rss"
   }
 ]
