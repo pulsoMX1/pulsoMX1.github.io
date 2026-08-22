@@ -1,35 +1,5 @@
 [
   {
-    "id": 1898,
-    "titulo_original": "Francia se disculpa tras pirateo de datos   ",
-    "titulo": "Francia se disculpa tras pirateo de datos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n4mun?partner=rss"
-  },
-  {
-    "id": 1899,
-    "titulo_original": "Premia la FMF a los rbitros del Mundial   ",
-    "titulo": "Premia la FMF a los rbitros del Mundial",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 1900,
-    "titulo_original": "Delcy Rodríguez y Betancourt definieron la apertura petrolera de Venezuela desde 2024   ",
-    "titulo": "Delcy Rodríguez y Betancourt definieron la apertura petrolera de Venezuela desde 2024",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n2mun?partner=rss"
-  },
-  {
     "id": 1901,
     "titulo_original": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular   ",
     "titulo": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 1998,
+    "titulo_original": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana   ",
+    "titulo": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n1est?partner=rss"
+  },
+  {
+    "id": 1999,
+    "titulo_original": "Destrucción de Gaza y guerra de Irán, “golpes mortales” a la influencia de EU en el Pérsico   ",
+    "titulo": "Destrucción de Gaza y guerra de Irán, “golpes mortales” a la influencia de EU en el Pérsico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 2000,
+    "titulo_original": "Tras amenazas de Trump a socios comerciales de Teherán, suben petroprecios   ",
+    "titulo": "Tras amenazas de Trump a socios comerciales de Teherán, suben petroprecios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n3mun?partner=rss"
   }
 ]
