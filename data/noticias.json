@@ -1,35 +1,5 @@
 [
   {
-    "id": 1895,
-    "titulo_original": "México y Guatemala pactan el Plan Binacional 2027   ",
-    "titulo": "México y Guatemala pactan el Plan Binacional 2027",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/012n2pol?partner=rss"
-  },
-  {
-    "id": 1896,
-    "titulo_original": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto    ",
-    "titulo": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/007n3pol?partner=rss"
-  },
-  {
-    "id": 1897,
-    "titulo_original": "Universidades privadas buscan atraer a futuros alumnos de licenciatura   ",
-    "titulo": "Universidades privadas buscan atraer a futuros alumnos de licenciatura",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 1898,
     "titulo_original": "Francia se disculpa tras pirateo de datos   ",
     "titulo": "Francia se disculpa tras pirateo de datos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 1995,
+    "titulo_original": "China: cadena perpetua al defraudador de Evergrande   ",
+    "titulo": "China: cadena perpetua al defraudador de Evergrande",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F015n2eco-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 1996,
+    "titulo_original": "Irán: es mejor terminar la guerra ahora que estamos en posición de fuerza frente a EU   ",
+    "titulo": "Irán: es mejor terminar la guerra ahora que estamos en posición de fuerza frente a EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 1997,
+    "titulo_original": "Fabrizio Mejía Madrid: Lumpen política   ",
+    "titulo": "Fabrizio Mejía Madrid: Lumpen política",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010a1pol?partner=rss"
   }
 ]
