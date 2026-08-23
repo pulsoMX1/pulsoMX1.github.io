@@ -1,35 +1,5 @@
 [
   {
-    "id": 1916,
-    "titulo_original": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio   ",
-    "titulo": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 1917,
-    "titulo_original": "Despliegan operativo para detener al edil  de Paraíso, Tabasco; catean su domicilio   ",
-    "titulo": "Despliegan operativo para detener al edil de Paraíso, Tabasco; catean su domicilio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n2est?partner=rss"
-  },
-  {
-    "id": 1918,
-    "titulo_original": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros    ",
-    "titulo": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n1mun?partner=rss"
-  },
-  {
     "id": 1919,
     "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
     "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F013n2eco-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n2eco?partner=rss"
+  },
+  {
+    "id": 2016,
+    "titulo_original": "Editorial: Rocha Moya: desfiguro e impertinencia",
+    "titulo": "Editorial: Rocha Moya: desfiguro e impertinencia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2017,
+    "titulo_original": "Ángeles González Gamio: “Un pedazo de Lituania en México”   ",
+    "titulo": "Ángeles González Gamio: “Un pedazo de Lituania en México”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/026a1cap?partner=rss"
+  },
+  {
+    "id": 2018,
+    "titulo_original": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro   ",
+    "titulo": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a2pol?partner=rss"
   }
 ]
