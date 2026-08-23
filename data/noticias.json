@@ -1,35 +1,5 @@
 [
   {
-    "id": 1925,
-    "titulo_original": "“Ataque contra la memoria y la cultura”   ",
-    "titulo": "“Ataque contra la memoria y la cultura”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/cultura/a02n2cul?partner=rss"
-  },
-  {
-    "id": 1926,
-    "titulo_original": "Pueblos indígenas alistan propuestas para iniciativa de ley   ",
-    "titulo": "Pueblos indígenas alistan propuestas para iniciativa de ley",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/sociedad/031n3soc?partner=rss"
-  },
-  {
-    "id": 1927,
-    "titulo_original": "Sin visa y con inmunidad actuará personal militar estadunidense en Ecuador   ",
-    "titulo": "Sin visa y con inmunidad actuará personal militar estadunidense en Ecuador",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n1mun?partner=rss"
-  },
-  {
     "id": 1928,
     "titulo_original": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17   ",
     "titulo": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2025,
+    "titulo_original": "Inaugura Sheinbaum Centro Nacional de Atención Agraria; resalta legado de campesinos   ",
+    "titulo": "Inaugura Sheinbaum Centro Nacional de Atención Agraria; resalta legado de campesinos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2026,
+    "titulo_original": "Rosalía congrega a miles en la CDMX para su liturgia artística   ",
+    "titulo": "Rosalía congrega a miles en la CDMX para su liturgia artística",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa27n1esp-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a27n1esp?partner=rss"
+  },
+  {
+    "id": 2027,
+    "titulo_original": "Ya practican para el desfile militar del 16 de septiembre   ",
+    "titulo": "Ya practican para el desfile militar del 16 de septiembre",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F005n4pol-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n4pol?partner=rss"
   }
 ]
