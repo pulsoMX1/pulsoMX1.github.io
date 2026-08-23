@@ -1,35 +1,5 @@
 [
   {
-    "id": 1919,
-    "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
-    "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 1920,
-    "titulo_original": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control   ",
-    "titulo": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/010n2pol?partner=rss"
-  },
-  {
-    "id": 1921,
-    "titulo_original": "Trump anuncia encuentro con líder norcoreano   ",
-    "titulo": "Trump anuncia encuentro con líder norcoreano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 1922,
     "titulo_original": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda   ",
     "titulo": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a2pol?partner=rss"
+  },
+  {
+    "id": 2019,
+    "titulo_original": "Mexicanas suman otra presea del orbe en clavados    ",
+    "titulo": "Mexicanas suman otra presea del orbe en clavados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2020,
+    "titulo_original": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche   ",
+    "titulo": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2021,
+    "titulo_original": "Importará Washington caña de azúcar de firma dominicana acusada  de explotación laboral   ",
+    "titulo": "Importará Washington caña de azúcar de firma dominicana acusada de explotación laboral",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n2mun?partner=rss"
   }
 ]
