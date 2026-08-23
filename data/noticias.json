@@ -1,35 +1,5 @@
 [
   {
-    "id": 1931,
-    "titulo_original": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina   ",
-    "titulo": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
-  },
-  {
-    "id": 1932,
-    "titulo_original": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales   ",
-    "titulo": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n2pol?partner=rss"
-  },
-  {
-    "id": 1933,
-    "titulo_original": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
-    "titulo": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F023n1est-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n1est?partner=rss"
-  },
-  {
     "id": 1934,
     "titulo_original": "Trabajadores del PJF piden más sueldo por más productividad   ",
     "titulo": "Trabajadores del PJF piden más sueldo por más productividad",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F015n1mun-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n1mun?partner=rss"
+  },
+  {
+    "id": 2031,
+    "titulo_original": "Coordinan progresistas oposición a Trump en el Congreso Panamericano    ",
+    "titulo": "Coordinan progresistas oposición a Trump en el Congreso Panamericano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F018n1mun-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 2032,
+    "titulo_original": "José Antonio Rojas Nieto: Las controvertidas renovables: la primera   ",
+    "titulo": "José Antonio Rojas Nieto: Las controvertidas renovables: la primera",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014a1eco?partner=rss"
+  },
+  {
+    "id": 2033,
+    "titulo_original": "Claudio Albertani: Los demonios de Verónica Volkow   ",
+    "titulo": "Claudio Albertani: Los demonios de Verónica Volkow",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a1pol?partner=rss"
   }
 ]
