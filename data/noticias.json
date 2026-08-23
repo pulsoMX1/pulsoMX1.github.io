@@ -1,35 +1,5 @@
 [
   {
-    "id": 1934,
-    "titulo_original": "Trabajadores del PJF piden más sueldo por más productividad   ",
-    "titulo": "Trabajadores del PJF piden más sueldo por más productividad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n3pol?partner=rss"
-  },
-  {
-    "id": 1935,
-    "titulo_original": "Ratifican multa de  521 mil pesos al PRI por omisión en 2024   ",
-    "titulo": "Ratifican multa de 521 mil pesos al PRI por omisión en 2024",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n3pol?partner=rss"
-  },
-  {
-    "id": 1936,
-    "titulo_original": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones   ",
-    "titulo": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 1937,
     "titulo_original": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua   ",
     "titulo": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 2034,
+    "titulo_original": "Anula jueza de EU suspensión de visas impuesta a 75 países   ",
+    "titulo": "Anula jueza de EU suspensión de visas impuesta a 75 países",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n3mun?partner=rss"
+  },
+  {
+    "id": 2035,
+    "titulo_original": "Caen 5 marinos y un policía estatal por secuestro exprés   ",
+    "titulo": "Caen 5 marinos y un policía estatal por secuestro exprés",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n3est?partner=rss"
+  },
+  {
+    "id": 2036,
+    "titulo_original": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX   ",
+    "titulo": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F023n1cap-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/023n1cap?partner=rss"
   }
 ]
