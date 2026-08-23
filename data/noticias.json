@@ -1,35 +1,5 @@
 [
   {
-    "id": 1904,
-    "titulo_original": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar    ",
-    "titulo": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 1905,
-    "titulo_original": "Madonna superó a Taylor Swift en nominaciones de los premios MTV   ",
-    "titulo": "Madonna superó a Taylor Swift en nominaciones de los premios MTV",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n3esp-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n3esp?partner=rss"
-  },
-  {
-    "id": 1906,
-    "titulo_original": "Repunta precio del crudo por tensiones en Medio Oriente   ",
-    "titulo": "Repunta precio del crudo por tensiones en Medio Oriente",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n3mun?partner=rss"
-  },
-  {
     "id": 1907,
     "titulo_original": "Armada lleva más ayuda humanitaria   ",
     "titulo": "Armada lleva más ayuda humanitaria",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n3mun?partner=rss"
+  },
+  {
+    "id": 2004,
+    "titulo_original": "El gobierno busca duplicar área de siembra para el amaranto   ",
+    "titulo": "El gobierno busca duplicar área de siembra para el amaranto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F025n1cap-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/025n1cap?partner=rss"
+  },
+  {
+    "id": 2005,
+    "titulo_original": "Arrestan a 2 mexicanos en Sudáfrica  con droga; suman 14 en dos años    ",
+    "titulo": "Arrestan a 2 mexicanos en Sudáfrica con droga; suman 14 en dos años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 2006,
+    "titulo_original": "Usan inteligencia artificial 60% de profesores universitarios: encuesta    ",
+    "titulo": "Usan inteligencia artificial 60% de profesores universitarios: encuesta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
   }
 ]
