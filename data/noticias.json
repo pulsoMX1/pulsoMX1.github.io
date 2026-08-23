@@ -1,35 +1,5 @@
 [
   {
-    "id": 1901,
-    "titulo_original": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular   ",
-    "titulo": "Se suben al carro de la relección cinco alcaldes; confían en el apoyo popular",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 1902,
-    "titulo_original": "Bloquean banca comercial y otros intermediarios el crédito público   ",
-    "titulo": "Bloquean banca comercial y otros intermediarios el crédito público",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 1903,
-    "titulo_original": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU   ",
-    "titulo": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/019n3eco?partner=rss"
-  },
-  {
     "id": 1904,
     "titulo_original": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar    ",
     "titulo": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n3mun?partner=rss"
+  },
+  {
+    "id": 2001,
+    "titulo_original": "Tras balacera, secuestran a mujer, 2 niñas y un taxista en Zacatecas   ",
+    "titulo": "Tras balacera, secuestran a mujer, 2 niñas y un taxista en Zacatecas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/020n3est?partner=rss"
+  },
+  {
+    "id": 2002,
+    "titulo_original": "Secuestro y homicidio, entre los delitos perpetrados por 60 policías   ",
+    "titulo": "Secuestro y homicidio, entre los delitos perpetrados por 60 policías",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/023n1cap?partner=rss"
+  },
+  {
+    "id": 2003,
+    "titulo_original": "Comienza EU expulsión de haitianos tras retirar estatus de protección    ",
+    "titulo": "Comienza EU expulsión de haitianos tras retirar estatus de protección",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n3mun?partner=rss"
   }
 ]
