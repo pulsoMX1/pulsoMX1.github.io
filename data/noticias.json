@@ -1,35 +1,5 @@
 [
   {
-    "id": 1913,
-    "titulo_original": "Fidel Castro, líder que transformó AL y el Caribe    ",
-    "titulo": "Fidel Castro, líder que transformó AL y el Caribe",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1914,
-    "titulo_original": "Habitante de Naco afectado por derrame de químico continúa en estado crítico    ",
-    "titulo": "Habitante de Naco afectado por derrame de químico continúa en estado crítico",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/024n4est?partner=rss"
-  },
-  {
-    "id": 1915,
-    "titulo_original": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación   ",
-    "titulo": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/ciencias/a06n2cie?partner=rss"
-  },
-  {
     "id": 1916,
     "titulo_original": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio   ",
     "titulo": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/011a2pol?partner=rss"
+  },
+  {
+    "id": 2013,
+    "titulo_original": "Persisten ataques a sedes militares y refinerías entre Rusia y Ucrania   ",
+    "titulo": "Persisten ataques a sedes militares y refinerías entre Rusia y Ucrania",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F019n1mun-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/019n1mun?partner=rss"
+  },
+  {
+    "id": 2014,
+    "titulo_original": "Con IA, médicos potencian diagnósticos de oncología   ",
+    "titulo": "Con IA, médicos potencian diagnósticos de oncología",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n3pol?partner=rss"
+  },
+  {
+    "id": 2015,
+    "titulo_original": "Ebrard confía en lograr igualdad de beneficios    ",
+    "titulo": "Ebrard confía en lograr igualdad de beneficios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F013n2eco-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n2eco?partner=rss"
   }
 ]
