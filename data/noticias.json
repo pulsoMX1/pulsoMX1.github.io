@@ -1,35 +1,5 @@
 [
   {
-    "id": 1928,
-    "titulo_original": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17   ",
-    "titulo": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 1929,
-    "titulo_original": "Abraham Nuncio: Las criadas y nosotros   ",
-    "titulo": "Abraham Nuncio: Las criadas y nosotros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 1930,
-    "titulo_original": "Instan a combatir a las pandillas en Haití   ",
-    "titulo": "Instan a combatir a las pandillas en Haití",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F020n5mun-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n5mun?partner=rss"
-  },
-  {
     "id": 1931,
     "titulo_original": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina   ",
     "titulo": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F005n4pol-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n4pol?partner=rss"
+  },
+  {
+    "id": 2028,
+    "titulo_original": "Madres buscadoras en BC realizan obra pictórica en muro de Playas de Tijuana   ",
+    "titulo": "Madres buscadoras en BC realizan obra pictórica en muro de Playas de Tijuana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F021n2est-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2029,
+    "titulo_original": "La galería La piel de las películas abre sus puertas en los Estudios Churubusco   ",
+    "titulo": "La galería La piel de las películas abre sus puertas en los Estudios Churubusco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2030,
+    "titulo_original": "Rabino jefe israelí niega existencia y derechos del pueblo palestino   ",
+    "titulo": "Rabino jefe israelí niega existencia y derechos del pueblo palestino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F015n1mun-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n1mun?partner=rss"
   }
 ]
