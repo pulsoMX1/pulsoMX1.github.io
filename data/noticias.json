@@ -1,35 +1,5 @@
 [
   {
-    "id": 1907,
-    "titulo_original": "Armada lleva más ayuda humanitaria   ",
-    "titulo": "Armada lleva más ayuda humanitaria",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 1908,
-    "titulo_original": "Era reduce al mínimo sus operaciones   ",
-    "titulo": "Era reduce al mínimo sus operaciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a04n2cul?partner=rss"
-  },
-  {
-    "id": 1909,
-    "titulo_original": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos   ",
-    "titulo": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F024n1est-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/024n1est?partner=rss"
-  },
-  {
     "id": 1910,
     "titulo_original": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”   ",
     "titulo": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
+  },
+  {
+    "id": 2007,
+    "titulo_original": "FIFA impone sanciones  a Argentina; impugnarán    ",
+    "titulo": "FIFA impone sanciones a Argentina; impugnarán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n1dep-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n1dep?partner=rss"
+  },
+  {
+    "id": 2008,
+    "titulo_original": "Russell saldrá desde la pole en la carrera esprint   ",
+    "titulo": "Russell saldrá desde la pole en la carrera esprint",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2009,
+    "titulo_original": "Ultraderecha, guía ideológica del gabinete del presidente colombiano   ",
+    "titulo": "Ultraderecha, guía ideológica del gabinete del presidente colombiano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F016n1mun-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/016n1mun?partner=rss"
   }
 ]
