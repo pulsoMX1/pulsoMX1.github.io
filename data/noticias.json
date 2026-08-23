@@ -1,35 +1,5 @@
 [
   {
-    "id": 1922,
-    "titulo_original": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda   ",
-    "titulo": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 1923,
-    "titulo_original": "Se unirá el fisco estadunidense a la persecución contra migrantes   ",
-    "titulo": "Se unirá el fisco estadunidense a la persecución contra migrantes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/016n1eco?partner=rss"
-  },
-  {
-    "id": 1924,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/opinion/006o1eco?partner=rss"
-  },
-  {
     "id": 1925,
     "titulo_original": "“Ataque contra la memoria y la cultura”   ",
     "titulo": "“Ataque contra la memoria y la cultura”",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2022,
+    "titulo_original": "Desplazados de Buenavista siguen sin poder volver a sus casas   ",
+    "titulo": "Desplazados de Buenavista siguen sin poder volver a sus casas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F019n1est-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/019n1est?partner=rss"
+  },
+  {
+    "id": 2023,
+    "titulo_original": "Mark Ruffalo responde a críticas de Paramount    ",
+    "titulo": "Mark Ruffalo responde a críticas de Paramount",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2024,
+    "titulo_original": "Estar acompañados es clave para salud mental de los adultos mayores   ",
+    "titulo": "Estar acompañados es clave para salud mental de los adultos mayores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/008n1pol?partner=rss"
   }
 ]
