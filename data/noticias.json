@@ -1,35 +1,5 @@
 [
   {
-    "id": 1946,
-    "titulo_original": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba    ",
-    "titulo": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 1947,
-    "titulo_original": "Empresas piden  reducir impuestos en ventas en línea    ",
-    "titulo": "Empresas piden reducir impuestos en ventas en línea",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1948,
-    "titulo_original": "Rosa Icela recorre municipios de Michoacán    ",
-    "titulo": "Rosa Icela recorre municipios de Michoacán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F024n4est-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n4est?partner=rss"
-  },
-  {
     "id": 1949,
     "titulo_original": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada   ",
     "titulo": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/013n2eco?partner=rss"
+  },
+  {
+    "id": 2046,
+    "titulo_original": "Alfredo Jalife-Rahme: Bajo la lupa   ",
+    "titulo": "Alfredo Jalife-Rahme: Bajo la lupa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 2047,
+    "titulo_original": "Canadá impondrá a EU aranceles de represalia: Carney   ",
+    "titulo": "Canadá impondrá a EU aranceles de represalia: Carney",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F012n1eco-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n1eco?partner=rss"
+  },
+  {
+    "id": 2048,
+    "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
+    "titulo": "¡Diablos! están a una derrota de ser eliminados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a10n3dep?partner=rss"
   }
 ]
