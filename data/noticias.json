@@ -1,35 +1,5 @@
 [
   {
-    "id": 1952,
-    "titulo_original": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca   ",
-    "titulo": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 1953,
-    "titulo_original": "México, entrampado en el bajo crecimiento: Cepal   ",
-    "titulo": "México, entrampado en el bajo crecimiento: Cepal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/015n3eco?partner=rss"
-  },
-  {
-    "id": 1954,
-    "titulo_original": "Acudieron al examen  de control sólo 62% de aspirantes a la UNAM   ",
-    "titulo": "Acudieron al examen de control sólo 62% de aspirantes a la UNAM",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n2pol?partner=rss"
-  },
-  {
     "id": 1955,
     "titulo_original": "Lanza Corea del Norte 10 misiles hacia el Mar del Este; fuerzas armadas de Corea del Sur, en alerta   ",
     "titulo": "Lanza Corea del Norte 10 misiles hacia el Mar del Este; fuerzas armadas de Corea del Sur, en alerta",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n4est?partner=rss"
+  },
+  {
+    "id": 2052,
+    "titulo_original": "Editorial:     EU-Canadá: ¿fin del T-MEC?      ",
+    "titulo": "Editorial: EU-Canadá: ¿fin del T-MEC?",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2053,
+    "titulo_original": "Potro Gutiérrez dirigirá el Cruz Azul femenil   ",
+    "titulo": "Potro Gutiérrez dirigirá el Cruz Azul femenil",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2054,
+    "titulo_original": "El Teatro Balderas ofrecerá una cartelera diversa y constante en el centro de la CDMX   ",
+    "titulo": "El Teatro Balderas ofrecerá una cartelera diversa y constante en el centro de la CDMX",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa07n2esp-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a07n2esp?partner=rss"
   }
 ]
