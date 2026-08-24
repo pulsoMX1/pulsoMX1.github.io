@@ -1,35 +1,5 @@
 [
   {
-    "id": 1970,
-    "titulo_original": "BdeM considera mantener tasa mientras inflación se modera   ",
-    "titulo": "BdeM considera mantener tasa mientras inflación se modera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 1971,
-    "titulo_original": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos   ",
-    "titulo": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n1mun?partner=rss"
-  },
-  {
-    "id": 1972,
-    "titulo_original": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo   ",
-    "titulo": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a2pol?partner=rss"
-  },
-  {
     "id": 1973,
     "titulo_original": "Julio Hernández López: Astillero   ",
     "titulo": "Julio Hernández López: Astillero",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2070,
+    "titulo_original": "León Bendesky: Deuda pública y el dólar   ",
+    "titulo": "León Bendesky: Deuda pública y el dólar",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/021a1eco?partner=rss"
+  },
+  {
+    "id": 2071,
+    "titulo_original": "Filme expone la paradoja de pescadores que ya no pueden ir al mar ni vivir sin él   ",
+    "titulo": "Filme expone la paradoja de pescadores que ya no pueden ir al mar ni vivir sin él",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2072,
+    "titulo_original": "Piden ayuda a Sheinbaum  en Tierra Caliente, Guerrero, por amenazas de criminales   ",
+    "titulo": "Piden ayuda a Sheinbaum en Tierra Caliente, Guerrero, por amenazas de criminales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/estados/030n2est?partner=rss"
   }
 ]
