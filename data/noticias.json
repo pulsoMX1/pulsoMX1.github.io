@@ -1,35 +1,5 @@
 [
   {
-    "id": 1958,
-    "titulo_original": "La DEA investiga la muerte de la actriz Hayden Panettiere   ",
-    "titulo": "La DEA investiga la muerte de la actriz Hayden Panettiere",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa09n2esp-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a09n2esp?partner=rss"
-  },
-  {
-    "id": 1959,
-    "titulo_original": "Impugna FGR que den prisión domiciliaria a Murillo Karam   ",
-    "titulo": "Impugna FGR que den prisión domiciliaria a Murillo Karam",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/sociedad/031n3soc?partner=rss"
-  },
-  {
-    "id": 1960,
-    "titulo_original": "Inicia ejército de EU operaciones contra narcos en norte de Ecuador   ",
-    "titulo": "Inicia ejército de EU operaciones contra narcos en norte de Ecuador",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/020n1mun?partner=rss"
-  },
-  {
     "id": 1961,
     "titulo_original": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum   ",
     "titulo": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n1mun?partner=rss"
+  },
+  {
+    "id": 2058,
+    "titulo_original": "El “modisto de lo sagrado” ha vestido a tres papas desde un pueblo de montaña   ",
+    "titulo": "El “modisto de lo sagrado” ha vestido a tres papas desde un pueblo de montaña",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2059,
+    "titulo_original": "UNAM revisa pruebas canceladas de aspirantes que pidieron aclaración    ",
+    "titulo": "UNAM revisa pruebas canceladas de aspirantes que pidieron aclaración",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F008n1pol-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2060,
+    "titulo_original": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos   ",
+    "titulo": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/sociedad/035n3soc?partner=rss"
   }
 ]
