@@ -1,35 +1,5 @@
 [
   {
-    "id": 1955,
-    "titulo_original": "Lanza Corea del Norte 10 misiles hacia el Mar del Este; fuerzas armadas de Corea del Sur, en alerta   ",
-    "titulo": "Lanza Corea del Norte 10 misiles hacia el Mar del Este; fuerzas armadas de Corea del Sur, en alerta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 1956,
-    "titulo_original": "Podrá SSPC seguir litigios contra ex colaboradores de Genaro García Luna   ",
-    "titulo": "Podrá SSPC seguir litigios contra ex colaboradores de Genaro García Luna",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 1957,
-    "titulo_original": "Anforama cierra tras 75 años en el mercado   ",
-    "titulo": "Anforama cierra tras 75 años en el mercado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/016n1eco?partner=rss"
-  },
-  {
     "id": 1958,
     "titulo_original": "La DEA investiga la muerte de la actriz Hayden Panettiere   ",
     "titulo": "La DEA investiga la muerte de la actriz Hayden Panettiere",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa07n2esp-1.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2055,
+    "titulo_original": "Rut Páez, medalla de bronce en el Mundial Juvenil de Clavados   ",
+    "titulo": "Rut Páez, medalla de bronce en el Mundial Juvenil de Clavados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa09n2dep-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2056,
+    "titulo_original": "Congreso del estado aprueba permiso; hoy nombra interino   ",
+    "titulo": "Congreso del estado aprueba permiso; hoy nombra interino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2057,
+    "titulo_original": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán    ",
+    "titulo": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n1mun?partner=rss"
   }
 ]
