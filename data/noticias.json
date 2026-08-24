@@ -1,35 +1,5 @@
 [
   {
-    "id": 1949,
-    "titulo_original": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada   ",
-    "titulo": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 1950,
-    "titulo_original": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria   ",
-    "titulo": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/023n2est?partner=rss"
-  },
-  {
-    "id": 1951,
-    "titulo_original": "Construye Israel complejo para ahorcar a palestinos    ",
-    "titulo": "Construye Israel complejo para ahorcar a palestinos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/022n1mun?partner=rss"
-  },
-  {
     "id": 1952,
     "titulo_original": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca   ",
     "titulo": "Habrá atención integral para diabetes, mal renal crónico y afección cardiaca",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a10n3dep?partner=rss"
+  },
+  {
+    "id": 2049,
+    "titulo_original": "Tel Aviv realiza limpieza étnica, denuncian 100  ex diplomáticos de RU y Francia; piden sanciones   ",
+    "titulo": "Tel Aviv realiza limpieza étnica, denuncian 100 ex diplomáticos de RU y Francia; piden sanciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n2mun?partner=rss"
+  },
+  {
+    "id": 2050,
+    "titulo_original": "Acusa Milei a México, Brasil y España de campaña antiargentina    ",
+    "titulo": "Acusa Milei a México, Brasil y España de campaña antiargentina",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F017n1mun-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n1mun?partner=rss"
+  },
+  {
+    "id": 2051,
+    "titulo_original": "Detienen a cuatro en Cuautla como parte del Operativo Morelos   ",
+    "titulo": "Detienen a cuatro en Cuautla como parte del Operativo Morelos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n4est?partner=rss"
   }
 ]
