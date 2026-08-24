@@ -1,35 +1,5 @@
 [
   {
-    "id": 1937,
-    "titulo_original": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua   ",
-    "titulo": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n4mun?partner=rss"
-  },
-  {
-    "id": 1938,
-    "titulo_original": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino   ",
-    "titulo": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 1939,
-    "titulo_original": "Persisten incrementos en el precio del crudo    ",
-    "titulo": "Persisten incrementos en el precio del crudo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/021n2mun?partner=rss"
-  },
-  {
     "id": 1940,
     "titulo_original": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada   ",
     "titulo": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F023n1cap-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/023n1cap?partner=rss"
+  },
+  {
+    "id": 2037,
+    "titulo_original": "La segunda colonia Periodista hereda el toque cultural del oficio   ",
+    "titulo": "La segunda colonia Periodista hereda el toque cultural del oficio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F025n1cap-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/025n1cap?partner=rss"
+  },
+  {
+    "id": 2038,
+    "titulo_original": "Alumnos de posgrado del IPN se deslindan de toma de la ENCB tras “decisiones arbitrarias”   ",
+    "titulo": "Alumnos de posgrado del IPN se deslindan de toma de la ENCB tras “decisiones arbitrarias”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 2039,
+    "titulo_original": "Robots humanoides chinos superan marcas mundiales   ",
+    "titulo": "Robots humanoides chinos superan marcas mundiales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa09n1dep-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n1dep?partner=rss"
   }
 ]
