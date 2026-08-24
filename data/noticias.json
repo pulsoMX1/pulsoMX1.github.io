@@ -1,35 +1,5 @@
 [
   {
-    "id": 1961,
-    "titulo_original": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum   ",
-    "titulo": "Solidez y confianza internacional, la clave de la apreciación: Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 1962,
-    "titulo_original": "Raúl Zibechi: Enseñanzas de la asamblea por el agua y la vida   ",
-    "titulo": "Raúl Zibechi: Enseñanzas de la asamblea por el agua y la vida",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 1963,
-    "titulo_original": "Guatemala ha recibido a 2 mil 350 mexicanos deportados en 2026; niega ser tercer país seguro   ",
-    "titulo": "Guatemala ha recibido a 2 mil 350 mexicanos deportados en 2026; niega ser tercer país seguro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F019n2mun-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n2mun?partner=rss"
-  },
-  {
     "id": 1964,
     "titulo_original": "Sanciona EU a flotilla pesquera; la acusa de traficar cocaína de Ecuador a México   ",
     "titulo": "Sanciona EU a flotilla pesquera; la acusa de traficar cocaína de Ecuador a México",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/sociedad/035n3soc?partner=rss"
+  },
+  {
+    "id": 2061,
+    "titulo_original": "Denuncian estrategia legal concertada para detener la línea 5   ",
+    "titulo": "Denuncian estrategia legal concertada para detener la línea 5",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n3cap?partner=rss"
+  },
+  {
+    "id": 2062,
+    "titulo_original": "Ortiz Tejeda: Nosotros ya no somos  los mismos   ",
+    "titulo": "Ortiz Tejeda: Nosotros ya no somos los mismos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F012o1pol-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/012o1pol?partner=rss"
+  },
+  {
+    "id": 2063,
+    "titulo_original": "La CDMX es la entidad con la mayor cifra de ambulantes en el país   ",
+    "titulo": "La CDMX es la entidad con la mayor cifra de ambulantes en el país",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F033n2cap-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/033n2cap?partner=rss"
   }
 ]
