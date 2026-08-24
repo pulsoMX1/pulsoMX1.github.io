@@ -1,35 +1,5 @@
 [
   {
-    "id": 1940,
-    "titulo_original": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada   ",
-    "titulo": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 1941,
-    "titulo_original": "Hidalgo: invertirán $10 mil millones en parques industriales   ",
-    "titulo": "Hidalgo: invertirán $10 mil millones en parques industriales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 1942,
-    "titulo_original": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano   ",
-    "titulo": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F019n1mun-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n1mun?partner=rss"
-  },
-  {
     "id": 1943,
     "titulo_original": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende    ",
     "titulo": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa09n1dep-1.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n1dep?partner=rss"
+  },
+  {
+    "id": 2040,
+    "titulo_original": "Con doblete de Marín,  Chivas golea 5-2 a Tijuana   ",
+    "titulo": "Con doblete de Marín, Chivas golea 5-2 a Tijuana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2041,
+    "titulo_original": "Funcionarios de la FGJ, cómplices en el despojo de un departamento   ",
+    "titulo": "Funcionarios de la FGJ, cómplices en el despojo de un departamento",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F022n1cap-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/022n1cap?partner=rss"
+  },
+  {
+    "id": 2042,
+    "titulo_original": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera   ",
+    "titulo": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F016n1mun-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/016n1mun?partner=rss"
   }
 ]
