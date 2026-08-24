@@ -1,35 +1,5 @@
 [
   {
-    "id": 1943,
-    "titulo_original": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende    ",
-    "titulo": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/013a2pol?partner=rss"
-  },
-  {
-    "id": 1944,
-    "titulo_original": "Editorial: Nicaragua: cuestión de principios",
-    "titulo": "Editorial: Nicaragua: cuestión de principios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 1945,
-    "titulo_original": "Anuncia Godoy Ramos nuevas órdenes de arresto   ",
-    "titulo": "Anuncia Godoy Ramos nuevas órdenes de arresto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 1946,
     "titulo_original": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba    ",
     "titulo": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F016n1mun-1.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/016n1mun?partner=rss"
+  },
+  {
+    "id": 2043,
+    "titulo_original": "Repuntó la importación de fertilizante chino   ",
+    "titulo": "Repuntó la importación de fertilizante chino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F014n1eco-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014n1eco?partner=rss"
+  },
+  {
+    "id": 2044,
+    "titulo_original": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores   ",
+    "titulo": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/011a2pol?partner=rss"
+  },
+  {
+    "id": 2045,
+    "titulo_original": "“El mercado aceptará un derrota electoral de Trump”   ",
+    "titulo": "“El mercado aceptará un derrota electoral de Trump”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/013n2eco?partner=rss"
   }
 ]
