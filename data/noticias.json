@@ -1,35 +1,5 @@
 [
   {
-    "id": 1997,
-    "titulo_original": "Fabrizio Mejía Madrid: Lumpen política   ",
-    "titulo": "Fabrizio Mejía Madrid: Lumpen política",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 1998,
-    "titulo_original": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana   ",
-    "titulo": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 1999,
-    "titulo_original": "Destrucción de Gaza y guerra de Irán, “golpes mortales” a la influencia de EU en el Pérsico   ",
-    "titulo": "Destrucción de Gaza y guerra de Irán, “golpes mortales” a la influencia de EU en el Pérsico",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/019n2mun?partner=rss"
-  },
-  {
     "id": 2000,
     "titulo_original": "Tras amenazas de Trump a socios comerciales de Teherán, suben petroprecios   ",
     "titulo": "Tras amenazas de Trump a socios comerciales de Teherán, suben petroprecios",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2097,
+    "titulo_original": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos   ",
+    "titulo": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2098,
+    "titulo_original": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona   ",
+    "titulo": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F026n3est-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2099,
+    "titulo_original": "Apuesta Trump por lograr la “asfixia económica” contra Irán   ",
+    "titulo": "Apuesta Trump por lograr la “asfixia económica” contra Irán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/022n1mun?partner=rss"
   }
 ]
