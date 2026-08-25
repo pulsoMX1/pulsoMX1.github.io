@@ -1,35 +1,5 @@
 [
   {
-    "id": 2006,
-    "titulo_original": "Usan inteligencia artificial 60% de profesores universitarios: encuesta    ",
-    "titulo": "Usan inteligencia artificial 60% de profesores universitarios: encuesta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 2007,
-    "titulo_original": "FIFA impone sanciones  a Argentina; impugnarán    ",
-    "titulo": "FIFA impone sanciones a Argentina; impugnarán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n1dep-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n1dep?partner=rss"
-  },
-  {
-    "id": 2008,
-    "titulo_original": "Russell saldrá desde la pole en la carrera esprint   ",
-    "titulo": "Russell saldrá desde la pole en la carrera esprint",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a11n2dep?partner=rss"
-  },
-  {
     "id": 2009,
     "titulo_original": "Ultraderecha, guía ideológica del gabinete del presidente colombiano   ",
     "titulo": "Ultraderecha, guía ideológica del gabinete del presidente colombiano",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2106,
+    "titulo_original": "Vinculan a testigo clave del homicidio de Cuén   ",
+    "titulo": "Vinculan a testigo clave del homicidio de Cuén",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2107,
+    "titulo_original": "Apoya Karol G a damnificados por el sismo en Colombia   ",
+    "titulo": "Apoya Karol G a damnificados por el sismo en Colombia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa09n2esp-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 2108,
+    "titulo_original": "Ernesto Márquez: Tumbando caña   ",
+    "titulo": "Ernesto Márquez: Tumbando caña",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/a09o1esp?partner=rss"
   }
 ]
