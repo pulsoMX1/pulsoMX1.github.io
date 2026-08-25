@@ -1,35 +1,5 @@
 [
   {
-    "id": 1982,
-    "titulo_original": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre   ",
-    "titulo": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a07n1esp?partner=rss"
-  },
-  {
-    "id": 1983,
-    "titulo_original": "Editorial: Arrestar a Netanyahu, deber internacional",
-    "titulo": "Editorial: Arrestar a Netanyahu, deber internacional",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 1984,
-    "titulo_original": "Artistas de Marvel respaldan campaña para liberar a líder palestino Marwan Barghouti   ",
-    "titulo": "Artistas de Marvel respaldan campaña para liberar a líder palestino Marwan Barghouti",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa07n2esp-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a07n2esp?partner=rss"
-  },
-  {
     "id": 1985,
     "titulo_original": "Jugadoras  se enfocan en Mundial Sub-20   ",
     "titulo": "Jugadoras se enfocan en Mundial Sub-20",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/020n1eco?partner=rss"
+  },
+  {
+    "id": 2082,
+    "titulo_original": "Construirán 2.5 mil kilómetros de carreteras   ",
+    "titulo": "Construirán 2.5 mil kilómetros de carreteras",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F023n3eco-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n3eco?partner=rss"
+  },
+  {
+    "id": 2083,
+    "titulo_original": "Los salarios suman 20 meses de avance por arriba de la inflación   ",
+    "titulo": "Los salarios suman 20 meses de avance por arriba de la inflación",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/022n1eco?partner=rss"
+  },
+  {
+    "id": 2084,
+    "titulo_original": "Otra para el Torito; ahora la Vuelta en Alemania   ",
+    "titulo": "Otra para el Torito; ahora la Vuelta en Alemania",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa09n1dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a09n1dep?partner=rss"
   }
 ]
