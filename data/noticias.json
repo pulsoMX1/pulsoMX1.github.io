@@ -1,35 +1,5 @@
 [
   {
-    "id": 1991,
-    "titulo_original": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo   ",
-    "titulo": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/021n2est?partner=rss"
-  },
-  {
-    "id": 1992,
-    "titulo_original": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal   ",
-    "titulo": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 1993,
-    "titulo_original": "El triunfo del placer ante la nada   ",
-    "titulo": "El triunfo del placer ante la nada",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa12n1dis-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/cultura/a12n1dis?partner=rss"
-  },
-  {
     "id": 1994,
     "titulo_original": "Elección judicial, ejemplo para el mundo: Brugada   ",
     "titulo": "Elección judicial, ejemplo para el mundo: Brugada",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa35n2dep-1.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a35n2dep?partner=rss"
+  },
+  {
+    "id": 2091,
+    "titulo_original": "Editorial:     EU: xenofobia contraproducente      ",
+    "titulo": "Editorial: EU: xenofobia contraproducente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2092,
+    "titulo_original": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco   ",
+    "titulo": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2093,
+    "titulo_original": "Documental que denuncia el asesinato calculado de palestinos va a Venecia   ",
+    "titulo": "Documental que denuncia el asesinato calculado de palestinos va a Venecia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a08n2esp?partner=rss"
   }
 ]
