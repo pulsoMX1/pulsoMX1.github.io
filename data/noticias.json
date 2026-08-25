@@ -1,35 +1,5 @@
 [
   {
-    "id": 1976,
-    "titulo_original": "Arte europeo llega a Japón   ",
-    "titulo": "Arte europeo llega a Japón",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa04n2cul-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04n2cul?partner=rss"
-  },
-  {
-    "id": 1977,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F018o1eco-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/018o1eco?partner=rss"
-  },
-  {
-    "id": 1978,
-    "titulo_original": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara     ",
-    "titulo": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n1est?partner=rss"
-  },
-  {
     "id": 1979,
     "titulo_original": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos   ",
     "titulo": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F002n1pol-1.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/002n1pol?partner=rss"
+  },
+  {
+    "id": 2076,
+    "titulo_original": "Arturo Balderas Rodríguez: La salud de la democracia   ",
+    "titulo": "Arturo Balderas Rodríguez: La salud de la democracia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 2077,
+    "titulo_original": "Debut triunfal de técnico del City   ",
+    "titulo": "Debut triunfal de técnico del City",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa12n4dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a12n4dep?partner=rss"
+  },
+  {
+    "id": 2078,
+    "titulo_original": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble   ",
+    "titulo": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/032n2cap?partner=rss"
   }
 ]
