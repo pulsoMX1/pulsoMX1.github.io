@@ -1,35 +1,5 @@
 [
   {
-    "id": 1985,
-    "titulo_original": "Jugadoras  se enfocan en Mundial Sub-20   ",
-    "titulo": "Jugadoras se enfocan en Mundial Sub-20",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 1986,
-    "titulo_original": "Sheinbaum se ausentó por “gripe”   ",
-    "titulo": "Sheinbaum se ausentó por “gripe”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 1987,
-    "titulo_original": "Turquía emite orden de arresto contra Netanyahu por la detención de la Global Sumud Flotilla   ",
-    "titulo": "Turquía emite orden de arresto contra Netanyahu por la detención de la Global Sumud Flotilla",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F018n2mun-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n2mun?partner=rss"
-  },
-  {
     "id": 1988,
     "titulo_original": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos   ",
     "titulo": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa09n1dep-1.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a09n1dep?partner=rss"
+  },
+  {
+    "id": 2085,
+    "titulo_original": "Récord mundial en medio maratón   ",
+    "titulo": "Récord mundial en medio maratón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2086,
+    "titulo_original": "Hernán González G.: Aprender a morir   ",
+    "titulo": "Hernán González G.: Aprender a morir",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/014o1pol?partner=rss"
+  },
+  {
+    "id": 2087,
+    "titulo_original": "Sedema: no genera impactos ambientales significativos la obra   ",
+    "titulo": "Sedema: no genera impactos ambientales significativos la obra",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n2cap?partner=rss"
   }
 ]
