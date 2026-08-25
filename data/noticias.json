@@ -1,35 +1,5 @@
 [
   {
-    "id": 1988,
-    "titulo_original": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos   ",
-    "titulo": "Rosa Icela pide “prudencia” al INE y PJ en sus presupuestos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F008n1pol-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 1989,
-    "titulo_original": "Ingresa contralmirante Farías a El Altiplano; su audiencia, privada   ",
-    "titulo": "Ingresa contralmirante Farías a El Altiplano; su audiencia, privada",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 1990,
-    "titulo_original": "Aplazan hasta marzo la  audiencia de preparación de sentencia para Chapito   ",
-    "titulo": "Aplazan hasta marzo la audiencia de preparación de sentencia para Chapito",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n4pol?partner=rss"
-  },
-  {
     "id": 1991,
     "titulo_original": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo   ",
     "titulo": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n2cap?partner=rss"
+  },
+  {
+    "id": 2088,
+    "titulo_original": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados   ",
+    "titulo": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/027n1mun?partner=rss"
+  },
+  {
+    "id": 2089,
+    "titulo_original": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas   ",
+    "titulo": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/024n2mun?partner=rss"
+  },
+  {
+    "id": 2090,
+    "titulo_original": "Blake Snell suma otro triunfo   ",
+    "titulo": "Blake Snell suma otro triunfo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa35n2dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a35n2dep?partner=rss"
   }
 ]
