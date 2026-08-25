@@ -1,35 +1,5 @@
 [
   {
-    "id": 1979,
-    "titulo_original": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos   ",
-    "titulo": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 1980,
-    "titulo_original": "Vinculación de líneas celulares muestra avance de 60.5%: CRT   ",
-    "titulo": "Vinculación de líneas celulares muestra avance de 60.5%: CRT",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n1eco?partner=rss"
-  },
-  {
-    "id": 1981,
-    "titulo_original": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente   ",
-    "titulo": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F010n1pol-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n1pol?partner=rss"
-  },
-  {
     "id": 1982,
     "titulo_original": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre   ",
     "titulo": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/032n2cap?partner=rss"
+  },
+  {
+    "id": 2079,
+    "titulo_original": "Protestan unos 10 mil en Estocolmo en contra  del cambio climático   ",
+    "titulo": "Protestan unos 10 mil en Estocolmo en contra del cambio climático",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F025n3mun-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n3mun?partner=rss"
+  },
+  {
+    "id": 2080,
+    "titulo_original": "El drama de los niños en Haití   ",
+    "titulo": "El drama de los niños en Haití",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F027n2mun-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/027n2mun?partner=rss"
+  },
+  {
+    "id": 2081,
+    "titulo_original": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU   ",
+    "titulo": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/020n1eco?partner=rss"
   }
 ]
