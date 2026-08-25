@@ -1,35 +1,5 @@
 [
   {
-    "id": 1973,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 1974,
-    "titulo_original": "Canal de Panamá reducirá tránsito de buques por El Niño   ",
-    "titulo": "Canal de Panamá reducirá tránsito de buques por El Niño",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n5mun?partner=rss"
-  },
-  {
-    "id": 1975,
-    "titulo_original": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA   ",
-    "titulo": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n3mun?partner=rss"
-  },
-  {
     "id": 1976,
     "titulo_original": "Arte europeo llega a Japón   ",
     "titulo": "Arte europeo llega a Japón",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/estados/030n2est?partner=rss"
+  },
+  {
+    "id": 2073,
+    "titulo_original": "Subieron las ventas en línea y cayeron en los locales físicos   ",
+    "titulo": "Subieron las ventas en línea y cayeron en los locales físicos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n2eco?partner=rss"
+  },
+  {
+    "id": 2074,
+    "titulo_original": "En un año creció 26.7% la cifra de tarjetas de crédito   ",
+    "titulo": "En un año creció 26.7% la cifra de tarjetas de crédito",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n1eco?partner=rss"
+  },
+  {
+    "id": 2075,
+    "titulo_original": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington   ",
+    "titulo": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F002n1pol-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/002n1pol?partner=rss"
   }
 ]
