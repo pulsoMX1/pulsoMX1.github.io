@@ -1,35 +1,5 @@
 [
   {
-    "id": 2003,
-    "titulo_original": "Comienza EU expulsión de haitianos tras retirar estatus de protección    ",
-    "titulo": "Comienza EU expulsión de haitianos tras retirar estatus de protección",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n3mun?partner=rss"
-  },
-  {
-    "id": 2004,
-    "titulo_original": "El gobierno busca duplicar área de siembra para el amaranto   ",
-    "titulo": "El gobierno busca duplicar área de siembra para el amaranto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F025n1cap-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/025n1cap?partner=rss"
-  },
-  {
-    "id": 2005,
-    "titulo_original": "Arrestan a 2 mexicanos en Sudáfrica  con droga; suman 14 en dos años    ",
-    "titulo": "Arrestan a 2 mexicanos en Sudáfrica con droga; suman 14 en dos años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/007n3pol?partner=rss"
-  },
-  {
     "id": 2006,
     "titulo_original": "Usan inteligencia artificial 60% de profesores universitarios: encuesta    ",
     "titulo": "Usan inteligencia artificial 60% de profesores universitarios: encuesta",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2103,
+    "titulo_original": "Avala la Permanente licencias indefinidas a los diputados Eric Flores y Sergio Mayer   ",
+    "titulo": "Avala la Permanente licencias indefinidas a los diputados Eric Flores y Sergio Mayer",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n4pol?partner=rss"
+  },
+  {
+    "id": 2104,
+    "titulo_original": "Trump aplicará a Canadá aranceles de 50% a autos   ",
+    "titulo": "Trump aplicará a Canadá aranceles de 50% a autos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2105,
+    "titulo_original": "Precios del crudo bajan 2.35% al empezar la semana   ",
+    "titulo": "Precios del crudo bajan 2.35% al empezar la semana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/022n2mun?partner=rss"
   }
 ]
