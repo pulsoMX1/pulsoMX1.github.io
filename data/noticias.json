@@ -1,35 +1,5 @@
 [
   {
-    "id": 2009,
-    "titulo_original": "Ultraderecha, guía ideológica del gabinete del presidente colombiano   ",
-    "titulo": "Ultraderecha, guía ideológica del gabinete del presidente colombiano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F016n1mun-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/016n1mun?partner=rss"
-  },
-  {
-    "id": 2010,
-    "titulo_original": "Concesionarios del transporte público en Cuautla denuncian ser víctimas de extorsión   ",
-    "titulo": "Concesionarios del transporte público en Cuautla denuncian ser víctimas de extorsión",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n3est?partner=rss"
-  },
-  {
-    "id": 2011,
-    "titulo_original": "En EU, 614 mexicanos pactan indemnización laboral de Hyundai   ",
-    "titulo": "En EU, 614 mexicanos pactan indemnización laboral de Hyundai",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/014n1eco?partner=rss"
-  },
-  {
     "id": 2012,
     "titulo_original": "Bárbara Zamora*/ II: Ley General de Pueblos Indígenas y artículo 27 constitucional   ",
     "titulo": "Bárbara Zamora*/ II: Ley General de Pueblos Indígenas y artículo 27 constitucional",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/a09o1esp?partner=rss"
+  },
+  {
+    "id": 2109,
+    "titulo_original": "Luis Hernández Navarro: Vientos  del Este   ",
+    "titulo": "Luis Hernández Navarro: Vientos del Este",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/015a1pol?partner=rss"
+  },
+  {
+    "id": 2110,
+    "titulo_original": "Apuestas del Mundial se dispararon 431.75%  en México en 4 años    ",
+    "titulo": "Apuestas del Mundial se dispararon 431.75% en México en 4 años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/020n1eco?partner=rss"
+  },
+  {
+    "id": 2111,
+    "titulo_original": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión   ",
+    "titulo": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss"
   }
 ]
