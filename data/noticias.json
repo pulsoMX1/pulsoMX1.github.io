@@ -1,35 +1,5 @@
 [
   {
-    "id": 2024,
-    "titulo_original": "Estar acompañados es clave para salud mental de los adultos mayores   ",
-    "titulo": "Estar acompañados es clave para salud mental de los adultos mayores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2025,
-    "titulo_original": "Inaugura Sheinbaum Centro Nacional de Atención Agraria; resalta legado de campesinos   ",
-    "titulo": "Inaugura Sheinbaum Centro Nacional de Atención Agraria; resalta legado de campesinos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2026,
-    "titulo_original": "Rosalía congrega a miles en la CDMX para su liturgia artística   ",
-    "titulo": "Rosalía congrega a miles en la CDMX para su liturgia artística",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa27n1esp-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a27n1esp?partner=rss"
-  },
-  {
     "id": 2027,
     "titulo_original": "Ya practican para el desfile militar del 16 de septiembre   ",
     "titulo": "Ya practican para el desfile militar del 16 de septiembre",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/deportes/a10n3dep?partner=rss"
+  },
+  {
+    "id": 2124,
+    "titulo_original": "Ordenan reinstalar a columnista del Post   ",
+    "titulo": "Ordenan reinstalar a columnista del Post",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 2125,
+    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
+    "titulo": "Miguel Pineda: Negocios y empresas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/018o1eco?partner=rss"
+  },
+  {
+    "id": 2126,
+    "titulo_original": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum   ",
+    "titulo": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n3pol?partner=rss"
   }
 ]
