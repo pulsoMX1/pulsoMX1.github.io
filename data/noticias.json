@@ -1,35 +1,5 @@
 [
   {
-    "id": 2015,
-    "titulo_original": "Ebrard confía en lograr igualdad de beneficios    ",
-    "titulo": "Ebrard confía en lograr igualdad de beneficios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F013n2eco-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n2eco?partner=rss"
-  },
-  {
-    "id": 2016,
-    "titulo_original": "Editorial: Rocha Moya: desfiguro e impertinencia",
-    "titulo": "Editorial: Rocha Moya: desfiguro e impertinencia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2017,
-    "titulo_original": "Ángeles González Gamio: “Un pedazo de Lituania en México”   ",
-    "titulo": "Ángeles González Gamio: “Un pedazo de Lituania en México”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/026a1cap?partner=rss"
-  },
-  {
     "id": 2018,
     "titulo_original": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro   ",
     "titulo": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/023n4mun?partner=rss"
+  },
+  {
+    "id": 2115,
+    "titulo_original": "Baja la cifra de estadunidenses que apoyan la guerra contra Irán   ",
+    "titulo": "Baja la cifra de estadunidenses que apoyan la guerra contra Irán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 2116,
+    "titulo_original": "Récord en inversión extranjera directa   ",
+    "titulo": "Récord en inversión extranjera directa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F017n2eco-1.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 2117,
+    "titulo_original": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente   ",
+    "titulo": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/024n2mun?partner=rss"
   }
 ]
