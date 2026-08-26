@@ -1,35 +1,5 @@
 [
   {
-    "id": 2033,
-    "titulo_original": "Claudio Albertani: Los demonios de Verónica Volkow   ",
-    "titulo": "Claudio Albertani: Los demonios de Verónica Volkow",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2034,
-    "titulo_original": "Anula jueza de EU suspensión de visas impuesta a 75 países   ",
-    "titulo": "Anula jueza de EU suspensión de visas impuesta a 75 países",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n3mun?partner=rss"
-  },
-  {
-    "id": 2035,
-    "titulo_original": "Caen 5 marinos y un policía estatal por secuestro exprés   ",
-    "titulo": "Caen 5 marinos y un policía estatal por secuestro exprés",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n3est?partner=rss"
-  },
-  {
     "id": 2036,
     "titulo_original": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX   ",
     "titulo": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2133,
+    "titulo_original": "Pueblos de Valles Centrales rechazan imposición de Corredor Zapoteco   ",
+    "titulo": "Pueblos de Valles Centrales rechazan imposición de Corredor Zapoteco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2134,
+    "titulo_original": "“La crisis ya pasó y regresó la estabilidad política” a ese estado: diputados de Morena     ",
+    "titulo": "“La crisis ya pasó y regresó la estabilidad política” a ese estado: diputados de Morena",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 2135,
+    "titulo_original": "Se desconoce paradero de locutor comunitario en Oaxaca   ",
+    "titulo": "Se desconoce paradero de locutor comunitario en Oaxaca",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/026n3est?partner=rss"
   }
 ]
