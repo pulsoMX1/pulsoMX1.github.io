@@ -1,35 +1,5 @@
 [
   {
-    "id": 2036,
-    "titulo_original": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX   ",
-    "titulo": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F023n1cap-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/023n1cap?partner=rss"
-  },
-  {
-    "id": 2037,
-    "titulo_original": "La segunda colonia Periodista hereda el toque cultural del oficio   ",
-    "titulo": "La segunda colonia Periodista hereda el toque cultural del oficio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F025n1cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/025n1cap?partner=rss"
-  },
-  {
-    "id": 2038,
-    "titulo_original": "Alumnos de posgrado del IPN se deslindan de toma de la ENCB tras “decisiones arbitrarias”   ",
-    "titulo": "Alumnos de posgrado del IPN se deslindan de toma de la ENCB tras “decisiones arbitrarias”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/007n3pol?partner=rss"
-  },
-  {
     "id": 2039,
     "titulo_original": "Robots humanoides chinos superan marcas mundiales   ",
     "titulo": "Robots humanoides chinos superan marcas mundiales",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2136,
+    "titulo_original": "Israel toma centro educativo de la ONU en Jerusalén   ",
+    "titulo": "Israel toma centro educativo de la ONU en Jerusalén",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2137,
+    "titulo_original": "México, atento; EU nada dice de su alerta en Mexicali: Sheinbaum   ",
+    "titulo": "México, atento; EU nada dice de su alerta en Mexicali: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2138,
+    "titulo_original": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos    ",
+    "titulo": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/010n2pol?partner=rss"
   }
 ]
