@@ -1,35 +1,5 @@
 [
   {
-    "id": 2027,
-    "titulo_original": "Ya practican para el desfile militar del 16 de septiembre   ",
-    "titulo": "Ya practican para el desfile militar del 16 de septiembre",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F005n4pol-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n4pol?partner=rss"
-  },
-  {
-    "id": 2028,
-    "titulo_original": "Madres buscadoras en BC realizan obra pictórica en muro de Playas de Tijuana   ",
-    "titulo": "Madres buscadoras en BC realizan obra pictórica en muro de Playas de Tijuana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F021n2est-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/021n2est?partner=rss"
-  },
-  {
-    "id": 2029,
-    "titulo_original": "La galería La piel de las películas abre sus puertas en los Estudios Churubusco   ",
-    "titulo": "La galería La piel de las películas abre sus puertas en los Estudios Churubusco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a06n1esp?partner=rss"
-  },
-  {
     "id": 2030,
     "titulo_original": "Rabino jefe israelí niega existencia y derechos del pueblo palestino   ",
     "titulo": "Rabino jefe israelí niega existencia y derechos del pueblo palestino",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 2127,
+    "titulo_original": "Editorial: Pueblos indígenas: sujetos de derecho ",
+    "titulo": "Editorial: Pueblos indígenas: sujetos de derecho",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2128,
+    "titulo_original": "Desesperada, la situación en el Inapam; urgen más fondos   ",
+    "titulo": "Desesperada, la situación en el Inapam; urgen más fondos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2129,
+    "titulo_original": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos   ",
+    "titulo": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/espectaculos/a08n2esp?partner=rss"
   }
 ]
