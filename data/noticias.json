@@ -1,35 +1,5 @@
 [
   {
-    "id": 2039,
-    "titulo_original": "Robots humanoides chinos superan marcas mundiales   ",
-    "titulo": "Robots humanoides chinos superan marcas mundiales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa09n1dep-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n1dep?partner=rss"
-  },
-  {
-    "id": 2040,
-    "titulo_original": "Con doblete de Marín,  Chivas golea 5-2 a Tijuana   ",
-    "titulo": "Con doblete de Marín, Chivas golea 5-2 a Tijuana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 2041,
-    "titulo_original": "Funcionarios de la FGJ, cómplices en el despojo de un departamento   ",
-    "titulo": "Funcionarios de la FGJ, cómplices en el despojo de un departamento",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F022n1cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/022n1cap?partner=rss"
-  },
-  {
     "id": 2042,
     "titulo_original": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera   ",
     "titulo": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2139,
+    "titulo_original": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China   ",
+    "titulo": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/economia/016a1eco?partner=rss"
+  },
+  {
+    "id": 2140,
+    "titulo_original": "Gobierno español prevé reformas para acelerar el asilo y la extranjería   ",
+    "titulo": "Gobierno español prevé reformas para acelerar el asilo y la extranjería",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2141,
+    "titulo_original": "Admite Lomelí irregularidades en examen en línea aplicado en 2025   ",
+    "titulo": "Admite Lomelí irregularidades en examen en línea aplicado en 2025",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/012n1pol?partner=rss"
   }
 ]
