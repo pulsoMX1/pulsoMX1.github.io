@@ -1,35 +1,5 @@
 [
   {
-    "id": 2045,
-    "titulo_original": "“El mercado aceptará un derrota electoral de Trump”   ",
-    "titulo": "“El mercado aceptará un derrota electoral de Trump”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/013n2eco?partner=rss"
-  },
-  {
-    "id": 2046,
-    "titulo_original": "Alfredo Jalife-Rahme: Bajo la lupa   ",
-    "titulo": "Alfredo Jalife-Rahme: Bajo la lupa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 2047,
-    "titulo_original": "Canadá impondrá a EU aranceles de represalia: Carney   ",
-    "titulo": "Canadá impondrá a EU aranceles de represalia: Carney",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F012n1eco-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n1eco?partner=rss"
-  },
-  {
     "id": 2048,
     "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
     "titulo": "¡Diablos! están a una derrota de ser eliminados",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-27",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 2145,
+    "titulo_original": "Editorial: Determina el TEPJF: no son México",
+    "titulo": "Editorial: Determina el TEPJF: no son México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2146,
+    "titulo_original": "Adiós al tricampeonato de diablos   ",
+    "titulo": "Adiós al tricampeonato de diablos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F27%2Ffotos%2Fa12n3dep-1.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2147,
+    "titulo_original": "Inzunza se aferra al fuero; deja Morena y va de independiente en Cámara alta   ",
+    "titulo": "Inzunza se aferra al fuero; deja Morena y va de independiente en Cámara alta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/politica/005n2pol?partner=rss"
   }
 ]
