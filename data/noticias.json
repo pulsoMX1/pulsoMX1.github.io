@@ -1,35 +1,5 @@
 [
   {
-    "id": 2042,
-    "titulo_original": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera   ",
-    "titulo": "Irán: países del Pérsico deben avanzar unidos sin injerencia extranjera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F016n1mun-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/016n1mun?partner=rss"
-  },
-  {
-    "id": 2043,
-    "titulo_original": "Repuntó la importación de fertilizante chino   ",
-    "titulo": "Repuntó la importación de fertilizante chino",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F014n1eco-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014n1eco?partner=rss"
-  },
-  {
-    "id": 2044,
-    "titulo_original": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores   ",
-    "titulo": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/011a2pol?partner=rss"
-  },
-  {
     "id": 2045,
     "titulo_original": "“El mercado aceptará un derrota electoral de Trump”   ",
     "titulo": "“El mercado aceptará un derrota electoral de Trump”",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2142,
+    "titulo_original": "Piden priorizar a mexicanos en adquisiciones del sector salud   ",
+    "titulo": "Piden priorizar a mexicanos en adquisiciones del sector salud",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2143,
+    "titulo_original": "Japón elimina a México de la Serie Mundial de Pequeñas Ligas   ",
+    "titulo": "Japón elimina a México de la Serie Mundial de Pequeñas Ligas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2Fa11n3dep-1.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2144,
+    "titulo_original": "Arresto de Cerimedo hunde al portal La Derecha Diario, promotor de conservadores   ",
+    "titulo": "Arresto de Cerimedo hunde al portal La Derecha Diario, promotor de conservadores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/020n1mun?partner=rss"
   }
 ]
