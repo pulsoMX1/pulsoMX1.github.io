@@ -1,35 +1,5 @@
 [
   {
-    "id": 2048,
-    "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
-    "titulo": "¡Diablos! están a una derrota de ser eliminados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a10n3dep?partner=rss"
-  },
-  {
-    "id": 2049,
-    "titulo_original": "Tel Aviv realiza limpieza étnica, denuncian 100  ex diplomáticos de RU y Francia; piden sanciones   ",
-    "titulo": "Tel Aviv realiza limpieza étnica, denuncian 100 ex diplomáticos de RU y Francia; piden sanciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n2mun?partner=rss"
-  },
-  {
-    "id": 2050,
-    "titulo_original": "Acusa Milei a México, Brasil y España de campaña antiargentina    ",
-    "titulo": "Acusa Milei a México, Brasil y España de campaña antiargentina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F017n1mun-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n1mun?partner=rss"
-  },
-  {
     "id": 2051,
     "titulo_original": "Detienen a cuatro en Cuautla como parte del Operativo Morelos   ",
     "titulo": "Detienen a cuatro en Cuautla como parte del Operativo Morelos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-27",
     "url_origen": "https://www.jornada.com.mx/2026/08/27/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2148,
+    "titulo_original": "Prisión preventiva a implicados en fraude en examen de UNAM   ",
+    "titulo": "Prisión preventiva a implicados en fraude en examen de UNAM",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-28",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2149,
+    "titulo_original": "Agricultores de Zacatecas demandan  agilizar trámites y solución a adeudos   ",
+    "titulo": "Agricultores de Zacatecas demandan agilizar trámites y solución a adeudos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F27%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-28",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2150,
+    "titulo_original": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo   ",
+    "titulo": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-28",
+    "url_origen": "https://www.jornada.com.mx/2026/08/27/estados/026n3est?partner=rss"
   }
 ]
