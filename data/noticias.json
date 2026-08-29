@@ -1,35 +1,5 @@
 [
   {
-    "id": 2054,
-    "titulo_original": "El Teatro Balderas ofrecerá una cartelera diversa y constante en el centro de la CDMX   ",
-    "titulo": "El Teatro Balderas ofrecerá una cartelera diversa y constante en el centro de la CDMX",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa07n2esp-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a07n2esp?partner=rss"
-  },
-  {
-    "id": 2055,
-    "titulo_original": "Rut Páez, medalla de bronce en el Mundial Juvenil de Clavados   ",
-    "titulo": "Rut Páez, medalla de bronce en el Mundial Juvenil de Clavados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa09n2dep-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 2056,
-    "titulo_original": "Congreso del estado aprueba permiso; hoy nombra interino   ",
-    "titulo": "Congreso del estado aprueba permiso; hoy nombra interino",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2057,
     "titulo_original": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán    ",
     "titulo": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F005n2pol-1.jpg",
     "fecha": "2026-08-28",
     "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2154,
+    "titulo_original": "Plantea Anuies cambiar procesos de admisión   ",
+    "titulo": "Plantea Anuies cambiar procesos de admisión",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2155,
+    "titulo_original": "Tamaulipas: hallan gasolinera ilegal y rancho con 135 animales exóticos     ",
+    "titulo": "Tamaulipas: hallan gasolinera ilegal y rancho con 135 animales exóticos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2156,
+    "titulo_original": "Buscan a mil 400 desaparecidos tras las riadas  en Nepal y China   ",
+    "titulo": "Buscan a mil 400 desaparecidos tras las riadas en Nepal y China",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/mundo/022n1mun?partner=rss"
   }
 ]
