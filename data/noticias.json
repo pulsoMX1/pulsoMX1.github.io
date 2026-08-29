@@ -1,35 +1,5 @@
 [
   {
-    "id": 2057,
-    "titulo_original": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán    ",
-    "titulo": "“Vivimos apuros, pero fracasa EU en desestabilizar la nación”: Irán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n1mun?partner=rss"
-  },
-  {
-    "id": 2058,
-    "titulo_original": "El “modisto de lo sagrado” ha vestido a tres papas desde un pueblo de montaña   ",
-    "titulo": "El “modisto de lo sagrado” ha vestido a tres papas desde un pueblo de montaña",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2059,
-    "titulo_original": "UNAM revisa pruebas canceladas de aspirantes que pidieron aclaración    ",
-    "titulo": "UNAM revisa pruebas canceladas de aspirantes que pidieron aclaración",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F008n1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 2060,
     "titulo_original": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos   ",
     "titulo": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F022n1mun-1.jpg",
     "fecha": "2026-08-29",
     "url_origen": "https://www.jornada.com.mx/2026/08/28/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2157,
+    "titulo_original": "Consulta sobre ley de derechos indígenas lleva avance de 30.5%   ",
+    "titulo": "Consulta sobre ley de derechos indígenas lleva avance de 30.5%",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2158,
+    "titulo_original": "Proponen autoridades abaratar pagos con tarjetas   ",
+    "titulo": "Proponen autoridades abaratar pagos con tarjetas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/economia/015n3eco?partner=rss"
+  },
+  {
+    "id": 2159,
+    "titulo_original": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima   ",
+    "titulo": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F019n2eco-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/28/economia/019n2eco?partner=rss"
   }
 ]
