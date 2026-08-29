@@ -1,35 +1,5 @@
 [
   {
-    "id": 2066,
-    "titulo_original": "Ratifican prisión preventiva a coacusada de Silvano Aureoles   ",
-    "titulo": "Ratifican prisión preventiva a coacusada de Silvano Aureoles",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014n1pol?partner=rss"
-  },
-  {
-    "id": 2067,
-    "titulo_original": "Emisión de bonos de tecnológicas encarece los títulos del gobierno   ",
-    "titulo": "Emisión de bonos de tecnológicas encarece los títulos del gobierno",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F021n1eco-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/021n1eco?partner=rss"
-  },
-  {
-    "id": 2068,
-    "titulo_original": "Chatear y escuchar música, acciones digitales favoritas de jóvenes mexicanos: informe   ",
-    "titulo": "Chatear y escuchar música, acciones digitales favoritas de jóvenes mexicanos: informe",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/010n2pol?partner=rss"
-  },
-  {
     "id": 2069,
     "titulo_original": "Implicados en huachicol fiscal han interpuesto una veintena de amparos   ",
     "titulo": "Implicados en huachicol fiscal han interpuesto una veintena de amparos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-29",
     "url_origen": "https://www.jornada.com.mx/2026/08/29/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2166,
+    "titulo_original": "Laura Itzel cierra ciclo en el Senado para asumir la Secretaría de las Mujeres   ",
+    "titulo": "Laura Itzel cierra ciclo en el Senado para asumir la Secretaría de las Mujeres",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F008n1pol-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2167,
+    "titulo_original": "Madres buscadoras de Zacatecas inauguran exposición en memoria de personas ausentes   ",
+    "titulo": "Madres buscadoras de Zacatecas inauguran exposición en memoria de personas ausentes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 2168,
+    "titulo_original": "Destacan en San Lázaro la huella de Fidel Castro en la historia de México   ",
+    "titulo": "Destacan en San Lázaro la huella de Fidel Castro en la historia de México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/007n1pol?partner=rss"
   }
 ]
