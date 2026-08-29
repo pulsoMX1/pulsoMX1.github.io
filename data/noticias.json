@@ -1,35 +1,5 @@
 [
   {
-    "id": 2060,
-    "titulo_original": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos   ",
-    "titulo": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/sociedad/035n3soc?partner=rss"
-  },
-  {
-    "id": 2061,
-    "titulo_original": "Denuncian estrategia legal concertada para detener la línea 5   ",
-    "titulo": "Denuncian estrategia legal concertada para detener la línea 5",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n3cap?partner=rss"
-  },
-  {
-    "id": 2062,
-    "titulo_original": "Ortiz Tejeda: Nosotros ya no somos  los mismos   ",
-    "titulo": "Ortiz Tejeda: Nosotros ya no somos los mismos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F012o1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/012o1pol?partner=rss"
-  },
-  {
     "id": 2063,
     "titulo_original": "La CDMX es la entidad con la mayor cifra de ambulantes en el país   ",
     "titulo": "La CDMX es la entidad con la mayor cifra de ambulantes en el país",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F019n2eco-1.jpg",
     "fecha": "2026-08-29",
     "url_origen": "https://www.jornada.com.mx/2026/08/28/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2160,
+    "titulo_original": "Editorial: Salarios: revertir el daño neoliberal",
+    "titulo": "Editorial: Salarios: revertir el daño neoliberal",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2161,
+    "titulo_original": "Sheinbaum anuncia a finalistas de EU de México Canta   ",
+    "titulo": "Sheinbaum anuncia a finalistas de EU de México Canta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2162,
+    "titulo_original": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador    ",
+    "titulo": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/deportes/a09n2dep?partner=rss"
   }
 ]
