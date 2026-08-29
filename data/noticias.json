@@ -1,35 +1,5 @@
 [
   {
-    "id": 2063,
-    "titulo_original": "La CDMX es la entidad con la mayor cifra de ambulantes en el país   ",
-    "titulo": "La CDMX es la entidad con la mayor cifra de ambulantes en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F033n2cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/033n2cap?partner=rss"
-  },
-  {
-    "id": 2064,
-    "titulo_original": "Ley antifeminicidio debe proteger a familiares de víctimas, advierten   ",
-    "titulo": "Ley antifeminicidio debe proteger a familiares de víctimas, advierten",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2065,
-    "titulo_original": "Abandono del corredor peatonal Madero, un riesgo para los miles de visitantes al Centro   ",
-    "titulo": "Abandono del corredor peatonal Madero, un riesgo para los miles de visitantes al Centro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F033n1cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/033n1cap?partner=rss"
-  },
-  {
     "id": 2066,
     "titulo_original": "Ratifican prisión preventiva a coacusada de Silvano Aureoles   ",
     "titulo": "Ratifican prisión preventiva a coacusada de Silvano Aureoles",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-29",
     "url_origen": "https://www.jornada.com.mx/2026/08/29/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2163,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F016o1eco-1.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/opinion/016o1eco?partner=rss"
+  },
+  {
+    "id": 2164,
+    "titulo_original": "Descartan a ex gobernador de Tamaulipas   ",
+    "titulo": "Descartan a ex gobernador de Tamaulipas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2165,
+    "titulo_original": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno   ",
+    "titulo": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-29",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/mundo/018n2mun?partner=rss"
   }
 ]
