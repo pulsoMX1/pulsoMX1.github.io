@@ -1,35 +1,5 @@
 [
   {
-    "id": 2075,
-    "titulo_original": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington   ",
-    "titulo": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F002n1pol-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/002n1pol?partner=rss"
-  },
-  {
-    "id": 2076,
-    "titulo_original": "Arturo Balderas Rodríguez: La salud de la democracia   ",
-    "titulo": "Arturo Balderas Rodríguez: La salud de la democracia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 2077,
-    "titulo_original": "Debut triunfal de técnico del City   ",
-    "titulo": "Debut triunfal de técnico del City",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa12n4dep-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a12n4dep?partner=rss"
-  },
-  {
     "id": 2078,
     "titulo_original": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble   ",
     "titulo": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-30",
     "url_origen": "https://www.jornada.com.mx/2026/08/30/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2175,
+    "titulo_original": "Docentes se pronuncian en consulta a favor de la regulación de celulares   ",
+    "titulo": "Docentes se pronuncian en consulta a favor de la regulación de celulares",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2176,
+    "titulo_original": "Moscú destruye arsenal en Kiev; murieron 37, la mayoría eran civiles   ",
+    "titulo": "Moscú destruye arsenal en Kiev; murieron 37, la mayoría eran civiles",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2177,
+    "titulo_original": "Usaron buques con banderas de cuatro países  para huachicol    ",
+    "titulo": "Usaron buques con banderas de cuatro países para huachicol",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/politica/008n1pol?partner=rss"
   }
 ]
