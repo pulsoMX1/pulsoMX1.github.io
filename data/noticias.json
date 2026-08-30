@@ -1,35 +1,5 @@
 [
   {
-    "id": 2081,
-    "titulo_original": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU   ",
-    "titulo": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/020n1eco?partner=rss"
-  },
-  {
-    "id": 2082,
-    "titulo_original": "Construirán 2.5 mil kilómetros de carreteras   ",
-    "titulo": "Construirán 2.5 mil kilómetros de carreteras",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F023n3eco-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n3eco?partner=rss"
-  },
-  {
-    "id": 2083,
-    "titulo_original": "Los salarios suman 20 meses de avance por arriba de la inflación   ",
-    "titulo": "Los salarios suman 20 meses de avance por arriba de la inflación",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/022n1eco?partner=rss"
-  },
-  {
     "id": 2084,
     "titulo_original": "Otra para el Torito; ahora la Vuelta en Alemania   ",
     "titulo": "Otra para el Torito; ahora la Vuelta en Alemania",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-30",
     "url_origen": "https://www.jornada.com.mx/2026/08/30/economia/015n3eco?partner=rss"
+  },
+  {
+    "id": 2181,
+    "titulo_original": "Extienden tres días búsqueda de opositor al proyecto La Parota   ",
+    "titulo": "Extienden tres días búsqueda de opositor al proyecto La Parota",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2182,
+    "titulo_original": "Brillan mexicanos en Europa   ",
+    "titulo": "Brillan mexicanos en Europa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2183,
+    "titulo_original": "El intelectual público: autobiografía de juventud   ",
+    "titulo": "El intelectual público: autobiografía de juventud",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2Fa12n1vox-1.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/cultura/a12n1vox?partner=rss"
   }
 ]
