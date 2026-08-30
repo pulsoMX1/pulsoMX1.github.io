@@ -1,35 +1,5 @@
 [
   {
-    "id": 2078,
-    "titulo_original": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble   ",
-    "titulo": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/032n2cap?partner=rss"
-  },
-  {
-    "id": 2079,
-    "titulo_original": "Protestan unos 10 mil en Estocolmo en contra  del cambio climático   ",
-    "titulo": "Protestan unos 10 mil en Estocolmo en contra del cambio climático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F025n3mun-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n3mun?partner=rss"
-  },
-  {
-    "id": 2080,
-    "titulo_original": "El drama de los niños en Haití   ",
-    "titulo": "El drama de los niños en Haití",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F027n2mun-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/027n2mun?partner=rss"
-  },
-  {
     "id": 2081,
     "titulo_original": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU   ",
     "titulo": "“Insensato, si Canadá cree que ganará una guerra comercial”: EU",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-30",
     "url_origen": "https://www.jornada.com.mx/2026/08/30/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2178,
+    "titulo_original": "Apoyaré sin reservas todas las iniciativas de la Presidenta: Inzunza   ",
+    "titulo": "Apoyaré sin reservas todas las iniciativas de la Presidenta: Inzunza",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2179,
+    "titulo_original": "Enjambre derrocha éxitos y mucha miel en el estadio GNP   ",
+    "titulo": "Enjambre derrocha éxitos y mucha miel en el estadio GNP",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/espectaculos/a27n1esp?partner=rss"
+  },
+  {
+    "id": 2180,
+    "titulo_original": "Para tomar en cuenta   ",
+    "titulo": "Para tomar en cuenta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/economia/015n3eco?partner=rss"
   }
 ]
