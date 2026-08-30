@@ -1,35 +1,5 @@
 [
   {
-    "id": 2069,
-    "titulo_original": "Implicados en huachicol fiscal han interpuesto una veintena de amparos   ",
-    "titulo": "Implicados en huachicol fiscal han interpuesto una veintena de amparos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2070,
-    "titulo_original": "León Bendesky: Deuda pública y el dólar   ",
-    "titulo": "León Bendesky: Deuda pública y el dólar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/021a1eco?partner=rss"
-  },
-  {
-    "id": 2071,
-    "titulo_original": "Filme expone la paradoja de pescadores que ya no pueden ir al mar ni vivir sin él   ",
-    "titulo": "Filme expone la paradoja de pescadores que ya no pueden ir al mar ni vivir sin él",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/espectaculos/a06n1esp?partner=rss"
-  },
-  {
     "id": 2072,
     "titulo_original": "Piden ayuda a Sheinbaum  en Tierra Caliente, Guerrero, por amenazas de criminales   ",
     "titulo": "Piden ayuda a Sheinbaum en Tierra Caliente, Guerrero, por amenazas de criminales",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F007n1pol-1.jpg",
     "fecha": "2026-08-29",
     "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2169,
+    "titulo_original": "Cientos rinden homenaje a Juanga en su décimo aniversario luctuoso   ",
+    "titulo": "Cientos rinden homenaje a Juanga en su décimo aniversario luctuoso",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2Fa27n1esp-1.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/espectaculos/a27n1esp?partner=rss"
+  },
+  {
+    "id": 2170,
+    "titulo_original": "Se opone EU a que México proteja quesos europeos   ",
+    "titulo": "Se opone EU a que México proteja quesos europeos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/economia/015n4eco?partner=rss"
+  },
+  {
+    "id": 2171,
+    "titulo_original": "El peso termina la semana con fortaleza ante el dólar   ",
+    "titulo": "El peso termina la semana con fortaleza ante el dólar",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/29/economia/015n3eco?partner=rss"
   }
 ]
