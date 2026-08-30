@@ -1,35 +1,5 @@
 [
   {
-    "id": 2072,
-    "titulo_original": "Piden ayuda a Sheinbaum  en Tierra Caliente, Guerrero, por amenazas de criminales   ",
-    "titulo": "Piden ayuda a Sheinbaum en Tierra Caliente, Guerrero, por amenazas de criminales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/estados/030n2est?partner=rss"
-  },
-  {
-    "id": 2073,
-    "titulo_original": "Subieron las ventas en línea y cayeron en los locales físicos   ",
-    "titulo": "Subieron las ventas en línea y cayeron en los locales físicos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n2eco?partner=rss"
-  },
-  {
-    "id": 2074,
-    "titulo_original": "En un año creció 26.7% la cifra de tarjetas de crédito   ",
-    "titulo": "En un año creció 26.7% la cifra de tarjetas de crédito",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n1eco?partner=rss"
-  },
-  {
     "id": 2075,
     "titulo_original": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington   ",
     "titulo": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-30",
     "url_origen": "https://www.jornada.com.mx/2026/08/29/economia/015n3eco?partner=rss"
+  },
+  {
+    "id": 2172,
+    "titulo_original": "Editorial: Recuperación del patrimonio con justicia social",
+    "titulo": "Editorial: Recuperación del patrimonio con justicia social",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2173,
+    "titulo_original": "Ángeles González Gamio: La Cuadra   ",
+    "titulo": "Ángeles González Gamio: La Cuadra",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/capital/026a1cap?partner=rss"
+  },
+  {
+    "id": 2174,
+    "titulo_original": "El diyéi padre Guilherme vuelve a México en diciembre   ",
+    "titulo": "El diyéi padre Guilherme vuelve a México en diciembre",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-30",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/espectaculos/a07n2esp?partner=rss"
   }
 ]
