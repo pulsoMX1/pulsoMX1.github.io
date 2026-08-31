@@ -1,35 +1,5 @@
 [
   {
-    "id": 2087,
-    "titulo_original": "Sedema: no genera impactos ambientales significativos la obra   ",
-    "titulo": "Sedema: no genera impactos ambientales significativos la obra",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n2cap?partner=rss"
-  },
-  {
-    "id": 2088,
-    "titulo_original": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados   ",
-    "titulo": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/027n1mun?partner=rss"
-  },
-  {
-    "id": 2089,
-    "titulo_original": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas   ",
-    "titulo": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/024n2mun?partner=rss"
-  },
-  {
     "id": 2090,
     "titulo_original": "Blake Snell suma otro triunfo   ",
     "titulo": "Blake Snell suma otro triunfo",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2F015n2eco-1.jpg",
     "fecha": "2026-08-31",
     "url_origen": "https://www.jornada.com.mx/2026/08/30/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 2187,
+    "titulo_original": "Editorial:    Crudo venezolano: robo consumado       ",
+    "titulo": "Editorial: Crudo venezolano: robo consumado",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2188,
+    "titulo_original": "Olivia Rodrigo recaudó 20 millones de dólares para el bienestar de las mujeres   ",
+    "titulo": "Olivia Rodrigo recaudó 20 millones de dólares para el bienestar de las mujeres",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2Fa07n2esp-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2189,
+    "titulo_original": "David Márquez Ayala: Reporte económico   ",
+    "titulo": "David Márquez Ayala: Reporte económico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F019o1eco-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/opinion/019o1eco?partner=rss"
   }
 ]
