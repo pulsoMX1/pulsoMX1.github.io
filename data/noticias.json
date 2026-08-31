@@ -1,35 +1,5 @@
 [
   {
-    "id": 2093,
-    "titulo_original": "Documental que denuncia el asesinato calculado de palestinos va a Venecia   ",
-    "titulo": "Documental que denuncia el asesinato calculado de palestinos va a Venecia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2094,
-    "titulo_original": "Revisará la Corte si es legal huelga de casi un año en Monte de Piedad   ",
-    "titulo": "Revisará la Corte si es legal huelga de casi un año en Monte de Piedad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2095,
-    "titulo_original": "Víctor M. Toledo: Morelia: gobiernos ecocidas contra  la ciudadanía   ",
-    "titulo": "Víctor M. Toledo: Morelia: gobiernos ecocidas contra la ciudadanía",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 2096,
     "titulo_original": "Riesgo de que patógenos sobrevivan en la Luna;  su transferencia involuntaria preocupa a la NASA   ",
     "titulo": "Riesgo de que patógenos sobrevivan en la Luna; su transferencia involuntaria preocupa a la NASA",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-31",
     "url_origen": "https://www.jornada.com.mx/2026/08/31/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2193,
+    "titulo_original": "Hugo Casanova Cardiel: La UNAM: pensar  en serio   ",
+    "titulo": "Hugo Casanova Cardiel: La UNAM: pensar en serio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2194,
+    "titulo_original": "Atacan con explosivos sede de la policía en Ojocaliente; al menos 17 heridos    ",
+    "titulo": "Atacan con explosivos sede de la policía en Ojocaliente; al menos 17 heridos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2195,
+    "titulo_original": "Fiscalía vincula  ataque al CUM de Hermosillo con grupos de narcomenudeo    ",
+    "titulo": "Fiscalía vincula ataque al CUM de Hermosillo con grupos de narcomenudeo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/estados/026n3est?partner=rss"
   }
 ]
