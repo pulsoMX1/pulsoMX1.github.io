@@ -1,35 +1,5 @@
 [
   {
-    "id": 2084,
-    "titulo_original": "Otra para el Torito; ahora la Vuelta en Alemania   ",
-    "titulo": "Otra para el Torito; ahora la Vuelta en Alemania",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa09n1dep-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a09n1dep?partner=rss"
-  },
-  {
-    "id": 2085,
-    "titulo_original": "Récord mundial en medio maratón   ",
-    "titulo": "Récord mundial en medio maratón",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 2086,
-    "titulo_original": "Hernán González G.: Aprender a morir   ",
-    "titulo": "Hernán González G.: Aprender a morir",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/014o1pol?partner=rss"
-  },
-  {
     "id": 2087,
     "titulo_original": "Sedema: no genera impactos ambientales significativos la obra   ",
     "titulo": "Sedema: no genera impactos ambientales significativos la obra",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2Fa12n1vox-1.jpg",
     "fecha": "2026-08-30",
     "url_origen": "https://www.jornada.com.mx/2026/08/30/cultura/a12n1vox?partner=rss"
+  },
+  {
+    "id": 2184,
+    "titulo_original": "“No hay edad determinada para descubrirse, recuperar el deseo o sentirse vivo”: Plotkin   ",
+    "titulo": "“No hay edad determinada para descubrirse, recuperar el deseo o sentirse vivo”: Plotkin",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2185,
+    "titulo_original": "Encapsula la SSC protesta en la ruta del Maratón   ",
+    "titulo": "Encapsula la SSC protesta en la ruta del Maratón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2F026n3cap-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 2186,
+    "titulo_original": "De $6,044, gasto promedio por estudiante de educación básica   ",
+    "titulo": "De $6,044, gasto promedio por estudiante de educación básica",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F30%2Ffotos%2F015n2eco-1.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/30/economia/015n2eco?partner=rss"
   }
 ]
