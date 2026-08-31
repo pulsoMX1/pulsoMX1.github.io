@@ -1,35 +1,5 @@
 [
   {
-    "id": 2090,
-    "titulo_original": "Blake Snell suma otro triunfo   ",
-    "titulo": "Blake Snell suma otro triunfo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa35n2dep-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a35n2dep?partner=rss"
-  },
-  {
-    "id": 2091,
-    "titulo_original": "Editorial:     EU: xenofobia contraproducente      ",
-    "titulo": "Editorial: EU: xenofobia contraproducente",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2092,
-    "titulo_original": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco   ",
-    "titulo": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2093,
     "titulo_original": "Documental que denuncia el asesinato calculado de palestinos va a Venecia   ",
     "titulo": "Documental que denuncia el asesinato calculado de palestinos va a Venecia",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F019o1eco-1.jpg",
     "fecha": "2026-08-31",
     "url_origen": "https://www.jornada.com.mx/2026/08/31/opinion/019o1eco?partner=rss"
+  },
+  {
+    "id": 2190,
+    "titulo_original": "En el Congreso, la reforma para prohibir la doble nacionalidad a candidatos   ",
+    "titulo": "En el Congreso, la reforma para prohibir la doble nacionalidad a candidatos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2191,
+    "titulo_original": "Tiroteo en fiesta rave en Suiza deja una joven muerta y cinco heridos   ",
+    "titulo": "Tiroteo en fiesta rave en Suiza deja una joven muerta y cinco heridos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2192,
+    "titulo_original": "Nueva Escuela Mexicana, en riesgo de quedar atrapada en burocratismos    ",
+    "titulo": "Nueva Escuela Mexicana, en riesgo de quedar atrapada en burocratismos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-31",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/politica/008n1pol?partner=rss"
   }
 ]
