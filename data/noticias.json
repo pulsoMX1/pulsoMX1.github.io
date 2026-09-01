@@ -1,35 +1,5 @@
 [
   {
-    "id": 2102,
-    "titulo_original": "Detienen a 20 miembros del cártel Jalisco en tres estados   ",
-    "titulo": "Detienen a 20 miembros del cártel Jalisco en tres estados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/014n1pol?partner=rss"
-  },
-  {
-    "id": 2103,
-    "titulo_original": "Avala la Permanente licencias indefinidas a los diputados Eric Flores y Sergio Mayer   ",
-    "titulo": "Avala la Permanente licencias indefinidas a los diputados Eric Flores y Sergio Mayer",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n4pol?partner=rss"
-  },
-  {
-    "id": 2104,
-    "titulo_original": "Trump aplicará a Canadá aranceles de 50% a autos   ",
-    "titulo": "Trump aplicará a Canadá aranceles de 50% a autos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/019n2eco?partner=rss"
-  },
-  {
     "id": 2105,
     "titulo_original": "Precios del crudo bajan 2.35% al empezar la semana   ",
     "titulo": "Precios del crudo bajan 2.35% al empezar la semana",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F016n1eco-1.jpg",
     "fecha": "2026-09-01",
     "url_origen": "https://www.jornada.com.mx/2026/08/31/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2202,
+    "titulo_original": "Editorial:     EU: ¿el verdadero narcoestado?       ",
+    "titulo": "Editorial: EU: ¿el verdadero narcoestado?",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2203,
+    "titulo_original": "Anuncian fechas para la compra de boletos en el regreso de la NFL a México   ",
+    "titulo": "Anuncian fechas para la compra de boletos en el regreso de la NFL a México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2204,
+    "titulo_original": "“Lago Ontario”, claman canadienses   ",
+    "titulo": "“Lago Ontario”, claman canadienses",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2Fa08n3esp-1.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/espectaculos/a08n3esp?partner=rss"
   }
 ]
