@@ -1,35 +1,5 @@
 [
   {
-    "id": 2105,
-    "titulo_original": "Precios del crudo bajan 2.35% al empezar la semana   ",
-    "titulo": "Precios del crudo bajan 2.35% al empezar la semana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 2106,
-    "titulo_original": "Vinculan a testigo clave del homicidio de Cuén   ",
-    "titulo": "Vinculan a testigo clave del homicidio de Cuén",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2107,
-    "titulo_original": "Apoya Karol G a damnificados por el sismo en Colombia   ",
-    "titulo": "Apoya Karol G a damnificados por el sismo en Colombia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa09n2esp-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a09n2esp?partner=rss"
-  },
-  {
     "id": 2108,
     "titulo_original": "Ernesto Márquez: Tumbando caña   ",
     "titulo": "Ernesto Márquez: Tumbando caña",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2Fa08n3esp-1.jpg",
     "fecha": "2026-09-01",
     "url_origen": "https://www.jornada.com.mx/2026/09/01/espectaculos/a08n3esp?partner=rss"
+  },
+  {
+    "id": 2205,
+    "titulo_original": "Sony Music y Warner Music demandan a Anthropic por piratearse letras de canciones   ",
+    "titulo": "Sony Music y Warner Music demandan a Anthropic por piratearse letras de canciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2206,
+    "titulo_original": "Defender recursos de programas, pide titular de Bienestar a senadores   ",
+    "titulo": "Defender recursos de programas, pide titular de Bienestar a senadores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2207,
+    "titulo_original": "Luis Hernández Navarro: Congreso Nacional Indígena, 30 años   ",
+    "titulo": "Luis Hernández Navarro: Congreso Nacional Indígena, 30 años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/015a2pol?partner=rss"
   }
 ]
