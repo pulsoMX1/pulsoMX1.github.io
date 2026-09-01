@@ -1,35 +1,5 @@
 [
   {
-    "id": 2108,
-    "titulo_original": "Ernesto Márquez: Tumbando caña   ",
-    "titulo": "Ernesto Márquez: Tumbando caña",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/a09o1esp?partner=rss"
-  },
-  {
-    "id": 2109,
-    "titulo_original": "Luis Hernández Navarro: Vientos  del Este   ",
-    "titulo": "Luis Hernández Navarro: Vientos del Este",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/015a1pol?partner=rss"
-  },
-  {
-    "id": 2110,
-    "titulo_original": "Apuestas del Mundial se dispararon 431.75%  en México en 4 años    ",
-    "titulo": "Apuestas del Mundial se dispararon 431.75% en México en 4 años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/020n1eco?partner=rss"
-  },
-  {
     "id": 2111,
     "titulo_original": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión   ",
     "titulo": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-01",
     "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2208,
+    "titulo_original": "La Unión Europea somete a ChatGPT a un mayor control con nuevas obligaciones de seguridad   ",
+    "titulo": "La Unión Europea somete a ChatGPT a un mayor control con nuevas obligaciones de seguridad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2209,
+    "titulo_original": "Adjudican al CJNG ataque  con explosivos en Zacatecas   ",
+    "titulo": "Adjudican al CJNG ataque con explosivos en Zacatecas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2210,
+    "titulo_original": "ONG denuncia violaciones al proceso durante arresto de abogado de normalistas   ",
+    "titulo": "ONG denuncia violaciones al proceso durante arresto de abogado de normalistas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/estados/026n3est?partner=rss"
   }
 ]
