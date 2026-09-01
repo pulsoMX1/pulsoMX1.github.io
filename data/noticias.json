@@ -1,35 +1,5 @@
 [
   {
-    "id": 2096,
-    "titulo_original": "Riesgo de que patógenos sobrevivan en la Luna;  su transferencia involuntaria preocupa a la NASA   ",
-    "titulo": "Riesgo de que patógenos sobrevivan en la Luna; su transferencia involuntaria preocupa a la NASA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 2097,
-    "titulo_original": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos   ",
-    "titulo": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2098,
-    "titulo_original": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona   ",
-    "titulo": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F026n3est-1.jpg",
-    "fecha": "2026-08-25",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/026n3est?partner=rss"
-  },
-  {
     "id": 2099,
     "titulo_original": "Apuesta Trump por lograr la “asfixia económica” contra Irán   ",
     "titulo": "Apuesta Trump por lograr la “asfixia económica” contra Irán",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-31",
     "url_origen": "https://www.jornada.com.mx/2026/08/31/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2196,
+    "titulo_original": "Trump ha obtenido casi 10 mil mdd por petróleo venezolano este año   ",
+    "titulo": "Trump ha obtenido casi 10 mil mdd por petróleo venezolano este año",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2197,
+    "titulo_original": "Arturo Balderas Rodríguez: Desde el otro lado   ",
+    "titulo": "Arturo Balderas Rodríguez: Desde el otro lado",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/opinion/012o1pol?partner=rss"
+  },
+  {
+    "id": 2198,
+    "titulo_original": "Restos ignorados por años podrían dar un vuelco al caso Ayotzinapa   ",
+    "titulo": "Restos ignorados por años podrían dar un vuelco al caso Ayotzinapa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F31%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-01",
+    "url_origen": "https://www.jornada.com.mx/2026/08/31/politica/007n1pol?partner=rss"
   }
 ]
