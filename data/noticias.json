@@ -1,35 +1,5 @@
 [
   {
-    "id": 2120,
-    "titulo_original": "Embajador de EU felicita al gobierno   ",
-    "titulo": "Embajador de EU felicita al gobierno",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/014n2pol?partner=rss"
-  },
-  {
-    "id": 2121,
-    "titulo_original": "Juzgado federal ordena suspender obras en Mirador  San Isidro, en Zapopan   ",
-    "titulo": "Juzgado federal ordena suspender obras en Mirador San Isidro, en Zapopan",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 2122,
-    "titulo_original": "Exigen en Colombia que la esposa del presidente transparente recursos recibidos tras el terremoto   ",
-    "titulo": "Exigen en Colombia que la esposa del presidente transparente recursos recibidos tras el terremoto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/023n3mun?partner=rss"
-  },
-  {
     "id": 2123,
     "titulo_original": "Balón de la Mano de Dios se vende por 3.35 mdd   ",
     "titulo": "Balón de la Mano de Dios se vende por 3.35 mdd",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-02",
     "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2220,
+    "titulo_original": "Luis Linares Zapata: Piratería   ",
+    "titulo": "Luis Linares Zapata: Piratería",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2221,
+    "titulo_original": "Estudian genética de más de 100 microalgas para fortalecer la biotecnología   ",
+    "titulo": "Estudian genética de más de 100 microalgas para fortalecer la biotecnología",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2Fa06n2cie-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2222,
+    "titulo_original": "Otomíes toman vías y central de la CFE; exigen detener crisis ambiental   ",
+    "titulo": "Otomíes toman vías y central de la CFE; exigen detener crisis ambiental",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/estados/025n1est?partner=rss"
   }
 ]
