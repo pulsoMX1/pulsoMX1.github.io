@@ -1,35 +1,5 @@
 [
   {
-    "id": 2114,
-    "titulo_original": "España prevé “medidas de choque” para mitigar crisis migratoria en Ceuta   ",
-    "titulo": "España prevé “medidas de choque” para mitigar crisis migratoria en Ceuta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/023n4mun?partner=rss"
-  },
-  {
-    "id": 2115,
-    "titulo_original": "Baja la cifra de estadunidenses que apoyan la guerra contra Irán   ",
-    "titulo": "Baja la cifra de estadunidenses que apoyan la guerra contra Irán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/021n2mun?partner=rss"
-  },
-  {
-    "id": 2116,
-    "titulo_original": "Récord en inversión extranjera directa   ",
-    "titulo": "Récord en inversión extranjera directa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F017n2eco-1.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/017n2eco?partner=rss"
-  },
-  {
     "id": 2117,
     "titulo_original": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente   ",
     "titulo": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-02",
     "url_origen": "https://www.jornada.com.mx/2026/09/01/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2214,
+    "titulo_original": "Inzunza se dice inocente y pide a la FGR concluir pesquisas en su contra   ",
+    "titulo": "Inzunza se dice inocente y pide a la FGR concluir pesquisas en su contra",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2215,
+    "titulo_original": "Noboa se escabulle de ley que lo obliga a declarar sus bienes   ",
+    "titulo": "Noboa se escabulle de ley que lo obliga a declarar sus bienes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2216,
+    "titulo_original": "“Sumamente positivo”, primer año de la nueva Corte: Aguilar   ",
+    "titulo": "“Sumamente positivo”, primer año de la nueva Corte: Aguilar",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2F012n1pol-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/012n1pol?partner=rss"
   }
 ]
