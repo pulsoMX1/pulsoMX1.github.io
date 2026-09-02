@@ -1,35 +1,5 @@
 [
   {
-    "id": 2117,
-    "titulo_original": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente   ",
-    "titulo": "Aumenta descontento en Bolivia; mandatario Rodrigo Paz, ausente",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/024n2mun?partner=rss"
-  },
-  {
-    "id": 2118,
-    "titulo_original": "México continúa la revisión del acuerdo con Washington   ",
-    "titulo": "México continúa la revisión del acuerdo con Washington",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/019n3eco?partner=rss"
-  },
-  {
-    "id": 2119,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/008o1pol?partner=rss"
-  },
-  {
     "id": 2120,
     "titulo_original": "Embajador de EU felicita al gobierno   ",
     "titulo": "Embajador de EU felicita al gobierno",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2F012n1pol-1.jpg",
     "fecha": "2026-09-02",
     "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2217,
+    "titulo_original": "Editorial: Segundo Informe: cambio de paradigma",
+    "titulo": "Editorial: Segundo Informe: cambio de paradigma",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2218,
+    "titulo_original": "Ninguna diferencia está por encima de la soberanía: PT y PVEM   ",
+    "titulo": "Ninguna diferencia está por encima de la soberanía: PT y PVEM",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F005n2pol-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2219,
+    "titulo_original": "Perfila la Corte revés a Calica en el litigio contra la Armada   ",
+    "titulo": "Perfila la Corte revés a Calica en el litigio contra la Armada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/008n1pol?partner=rss"
   }
 ]
