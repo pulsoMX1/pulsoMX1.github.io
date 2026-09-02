@@ -1,35 +1,5 @@
 [
   {
-    "id": 2123,
-    "titulo_original": "Balón de la Mano de Dios se vende por 3.35 mdd   ",
-    "titulo": "Balón de la Mano de Dios se vende por 3.35 mdd",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/deportes/a10n3dep?partner=rss"
-  },
-  {
-    "id": 2124,
-    "titulo_original": "Ordenan reinstalar a columnista del Post   ",
-    "titulo": "Ordenan reinstalar a columnista del Post",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 2125,
-    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
-    "titulo": "Miguel Pineda: Negocios y empresas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/018o1eco?partner=rss"
-  },
-  {
     "id": 2126,
     "titulo_original": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum   ",
     "titulo": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F025n1est-1.jpg",
     "fecha": "2026-09-02",
     "url_origen": "https://www.jornada.com.mx/2026/09/02/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2223,
+    "titulo_original": "CEDHJ recibe 211 quejas en un mes por desabasto y mala calidad del agua   ",
+    "titulo": "CEDHJ recibe 211 quejas en un mes por desabasto y mala calidad del agua",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2224,
+    "titulo_original": "ONU reduce a la mitad la ayuda en Cisjordania por escasez de fondos   ",
+    "titulo": "ONU reduce a la mitad la ayuda en Cisjordania por escasez de fondos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2225,
+    "titulo_original": "Alfredo Jalife-Rahme: Bajo la lupa   ",
+    "titulo": "Alfredo Jalife-Rahme: Bajo la lupa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F012o1pol-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/opinion/012o1pol?partner=rss"
   }
 ]
