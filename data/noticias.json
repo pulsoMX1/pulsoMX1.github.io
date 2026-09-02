@@ -1,35 +1,5 @@
 [
   {
-    "id": 2111,
-    "titulo_original": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión   ",
-    "titulo": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss"
-  },
-  {
-    "id": 2112,
-    "titulo_original": "Fortino Domínguez Rueda*: Lo urbano sobre la Ley General de Derechos de los Pueblos Indígenas y Afromexicanos   ",
-    "titulo": "Fortino Domínguez Rueda*: Lo urbano sobre la Ley General de Derechos de los Pueblos Indígenas y Afromexicanos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/016a2pol?partner=rss"
-  },
-  {
-    "id": 2113,
-    "titulo_original": "Con herramienta de IA, PJF traducirá sus portales en 5 lenguas originarias   ",
-    "titulo": "Con herramienta de IA, PJF traducirá sus portales en 5 lenguas originarias",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 2114,
     "titulo_original": "España prevé “medidas de choque” para mitigar crisis migratoria en Ceuta   ",
     "titulo": "España prevé “medidas de choque” para mitigar crisis migratoria en Ceuta",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-01",
     "url_origen": "https://www.jornada.com.mx/2026/09/01/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2211,
+    "titulo_original": "Presidente chileno sí conoce a Cerimedo, pero niega vínculos con él   ",
+    "titulo": "Presidente chileno sí conoce a Cerimedo, pero niega vínculos con él",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2212,
+    "titulo_original": "Segundo revés para el partido Somos: la autoridad electoral rechaza su logo   ",
+    "titulo": "Segundo revés para el partido Somos: la autoridad electoral rechaza su logo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F01%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2213,
+    "titulo_original": "Revés de la Suprema Corte a la naviera española FTapias; debe pagar 600 mdp al SAT   ",
+    "titulo": "Revés de la Suprema Corte a la naviera española FTapias; debe pagar 600 mdp al SAT",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-02",
+    "url_origen": "https://www.jornada.com.mx/2026/09/01/economia/019n2eco?partner=rss"
   }
 ]
