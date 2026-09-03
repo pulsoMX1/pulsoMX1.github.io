@@ -1,35 +1,5 @@
 [
   {
-    "id": 2132,
-    "titulo_original": "Cirugía de cáncer gástrico asistida por robot da ventajas clínicas frente a la laparoscopia   ",
-    "titulo": "Cirugía de cáncer gástrico asistida por robot da ventajas clínicas frente a la laparoscopia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 2133,
-    "titulo_original": "Pueblos de Valles Centrales rechazan imposición de Corredor Zapoteco   ",
-    "titulo": "Pueblos de Valles Centrales rechazan imposición de Corredor Zapoteco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2134,
-    "titulo_original": "“La crisis ya pasó y regresó la estabilidad política” a ese estado: diputados de Morena     ",
-    "titulo": "“La crisis ya pasó y regresó la estabilidad política” a ese estado: diputados de Morena",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/023n2est?partner=rss"
-  },
-  {
     "id": 2135,
     "titulo_original": "Se desconoce paradero de locutor comunitario en Oaxaca   ",
     "titulo": "Se desconoce paradero de locutor comunitario en Oaxaca",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-03",
     "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2232,
+    "titulo_original": "Editorial: Petro: resistir al tecnofascismo",
+    "titulo": "Editorial: Petro: resistir al tecnofascismo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2233,
+    "titulo_original": "Alerta CNDH sobre situación indigna y abusos contra médicos residentes   ",
+    "titulo": "Alerta CNDH sobre situación indigna y abusos contra médicos residentes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2234,
+    "titulo_original": "Menudo se rencuentra para celebrar 50 años   ",
+    "titulo": "Menudo se rencuentra para celebrar 50 años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/espectaculos/a08n2esp?partner=rss"
   }
 ]
