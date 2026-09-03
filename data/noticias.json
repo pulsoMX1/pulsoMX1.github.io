@@ -1,35 +1,5 @@
 [
   {
-    "id": 2126,
-    "titulo_original": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum   ",
-    "titulo": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 2127,
-    "titulo_original": "Editorial: Pueblos indígenas: sujetos de derecho ",
-    "titulo": "Editorial: Pueblos indígenas: sujetos de derecho",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2128,
-    "titulo_original": "Desesperada, la situación en el Inapam; urgen más fondos   ",
-    "titulo": "Desesperada, la situación en el Inapam; urgen más fondos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2129,
     "titulo_original": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos   ",
     "titulo": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F012o1pol-1.jpg",
     "fecha": "2026-09-02",
     "url_origen": "https://www.jornada.com.mx/2026/09/02/opinion/012o1pol?partner=rss"
+  },
+  {
+    "id": 2226,
+    "titulo_original": "Subió de 2.3 a 11.6 millones la afiliación a Morena en 3 años   ",
+    "titulo": "Subió de 2.3 a 11.6 millones la afiliación a Morena en 3 años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2227,
+    "titulo_original": "Inició la Fiscalía 9 mil 459 carpetas de investigación por contrabando de combustible   ",
+    "titulo": "Inició la Fiscalía 9 mil 459 carpetas de investigación por contrabando de combustible",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F02%2Ffotos%2F014n1pol-1.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2228,
+    "titulo_original": "Repuntó la producción de gasolinas a niveles de 2016   ",
+    "titulo": "Repuntó la producción de gasolinas a niveles de 2016",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/economia/019n2eco?partner=rss"
   }
 ]
