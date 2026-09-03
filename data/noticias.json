@@ -1,35 +1,5 @@
 [
   {
-    "id": 2135,
-    "titulo_original": "Se desconoce paradero de locutor comunitario en Oaxaca   ",
-    "titulo": "Se desconoce paradero de locutor comunitario en Oaxaca",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/026n3est?partner=rss"
-  },
-  {
-    "id": 2136,
-    "titulo_original": "Israel toma centro educativo de la ONU en Jerusalén   ",
-    "titulo": "Israel toma centro educativo de la ONU en Jerusalén",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2137,
-    "titulo_original": "México, atento; EU nada dice de su alerta en Mexicali: Sheinbaum   ",
-    "titulo": "México, atento; EU nada dice de su alerta en Mexicali: Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2138,
     "titulo_original": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos    ",
     "titulo": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2Fa08n2esp-1.jpg",
     "fecha": "2026-09-03",
     "url_origen": "https://www.jornada.com.mx/2026/09/03/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2235,
+    "titulo_original": "Dialogan Sheinbaum y Petro sobre riesgos de injerencia de EU   ",
+    "titulo": "Dialogan Sheinbaum y Petro sobre riesgos de injerencia de EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2236,
+    "titulo_original": "Marcos Roitman Rosenmann: ¡Levantaos, muertos en Ceuta!   ",
+    "titulo": "Marcos Roitman Rosenmann: ¡Levantaos, muertos en Ceuta!",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2237,
+    "titulo_original": "Científicos estudian secreto de la longevidad de los murciélagos   ",
+    "titulo": "Científicos estudian secreto de la longevidad de los murciélagos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2Fa06n2cie-1.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/ciencias/a06n2cie?partner=rss"
   }
 ]
