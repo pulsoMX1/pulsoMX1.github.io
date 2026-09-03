@@ -1,35 +1,5 @@
 [
   {
-    "id": 2138,
-    "titulo_original": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos    ",
-    "titulo": "Regular uso “acrítico” de celulares no debe recaer sólo en escuelas: expertos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/010n2pol?partner=rss"
-  },
-  {
-    "id": 2139,
-    "titulo_original": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China   ",
-    "titulo": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/economia/016a1eco?partner=rss"
-  },
-  {
-    "id": 2140,
-    "titulo_original": "Gobierno español prevé reformas para acelerar el asilo y la extranjería   ",
-    "titulo": "Gobierno español prevé reformas para acelerar el asilo y la extranjería",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 2141,
     "titulo_original": "Admite Lomelí irregularidades en examen en línea aplicado en 2025   ",
     "titulo": "Admite Lomelí irregularidades en examen en línea aplicado en 2025",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2Fa06n2cie-1.jpg",
     "fecha": "2026-09-03",
     "url_origen": "https://www.jornada.com.mx/2026/09/03/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2238,
+    "titulo_original": "Sheinbaum: apagón en el sureste fue por “vandalismo, no sabotaje”   ",
+    "titulo": "Sheinbaum: apagón en el sureste fue por “vandalismo, no sabotaje”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2239,
+    "titulo_original": "Acusa Irán a EU de crimen de guerra por lanzar misil contra asistentes a boda   ",
+    "titulo": "Acusa Irán a EU de crimen de guerra por lanzar misil contra asistentes a boda",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2240,
+    "titulo_original": "“Favor” de Trump a un amigo, origen de los aranceles a aviones de Canadá   ",
+    "titulo": "“Favor” de Trump a un amigo, origen de los aranceles a aviones de Canadá",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/03/economia/019n2eco?partner=rss"
   }
 ]
