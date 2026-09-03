@@ -1,35 +1,5 @@
 [
   {
-    "id": 2129,
-    "titulo_original": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos   ",
-    "titulo": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2130,
-    "titulo_original": "Recibirá Sheinbaum a Bachelet, aspirante a encabezar la ONU   ",
-    "titulo": "Recibirá Sheinbaum a Bachelet, aspirante a encabezar la ONU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2131,
-    "titulo_original": "Disparos frente a su casa, denuncia edil interina de Paraíso   ",
-    "titulo": "Disparos frente a su casa, denuncia edil interina de Paraíso",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-26",
-    "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/024n4est?partner=rss"
-  },
-  {
     "id": 2132,
     "titulo_original": "Cirugía de cáncer gástrico asistida por robot da ventajas clínicas frente a la laparoscopia   ",
     "titulo": "Cirugía de cáncer gástrico asistida por robot da ventajas clínicas frente a la laparoscopia",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-03",
     "url_origen": "https://www.jornada.com.mx/2026/09/02/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2229,
+    "titulo_original": "Destaca Sheinbaum saneamiento de ríos y plantación de árboles   ",
+    "titulo": "Destaca Sheinbaum saneamiento de ríos y plantación de árboles",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2230,
+    "titulo_original": "Lanza España plan de ayuda para Ceuta por 300 millones de euros tras crisis migratoria   ",
+    "titulo": "Lanza España plan de ayuda para Ceuta por 300 millones de euros tras crisis migratoria",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2231,
+    "titulo_original": "Educación, clave para la justicia social: ministra de Igualdad Racial de Brasil   ",
+    "titulo": "Educación, clave para la justicia social: ministra de Igualdad Racial de Brasil",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-03",
+    "url_origen": "https://www.jornada.com.mx/2026/09/02/politica/012n1pol?partner=rss"
   }
 ]
