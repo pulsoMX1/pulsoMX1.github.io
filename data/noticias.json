@@ -1,35 +1,5 @@
 [
   {
-    "id": 2147,
-    "titulo_original": "Inzunza se aferra al fuero; deja Morena y va de independiente en Cámara alta   ",
-    "titulo": "Inzunza se aferra al fuero; deja Morena y va de independiente en Cámara alta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-27",
-    "url_origen": "https://www.jornada.com.mx/2026/08/27/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2148,
-    "titulo_original": "Prisión preventiva a implicados en fraude en examen de UNAM   ",
-    "titulo": "Prisión preventiva a implicados en fraude en examen de UNAM",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/27/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2149,
-    "titulo_original": "Agricultores de Zacatecas demandan  agilizar trámites y solución a adeudos   ",
-    "titulo": "Agricultores de Zacatecas demandan agilizar trámites y solución a adeudos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F27%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/27/estados/025n1est?partner=rss"
-  },
-  {
     "id": 2150,
     "titulo_original": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo   ",
     "titulo": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F03%2Ffotos%2Fa09n2esp-1.jpg",
     "fecha": "2026-09-04",
     "url_origen": "https://www.jornada.com.mx/2026/09/03/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 2247,
+    "titulo_original": "Editorial: Chile: ¿seguridad o represión?",
+    "titulo": "Editorial: Chile: ¿seguridad o represión?",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2248,
+    "titulo_original": "Titular de Defensa ratifica “incuestionable lealtad” hacia el Poder Ejecutivo   ",
+    "titulo": "Titular de Defensa ratifica “incuestionable lealtad” hacia el Poder Ejecutivo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2249,
+    "titulo_original": "El actor John Malkovich informa sobre su posible retiro de Hollywood   ",
+    "titulo": "El actor John Malkovich informa sobre su posible retiro de Hollywood",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/espectaculos/a08n2esp?partner=rss"
   }
 ]
