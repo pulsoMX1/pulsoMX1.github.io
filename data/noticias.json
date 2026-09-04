@@ -1,35 +1,5 @@
 [
   {
-    "id": 2153,
-    "titulo_original": "Celebra Alito que el tricolor pueda crear alianzas con el blanquiazul   ",
-    "titulo": "Celebra Alito que el tricolor pueda crear alianzas con el blanquiazul",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2154,
-    "titulo_original": "Plantea Anuies cambiar procesos de admisión   ",
-    "titulo": "Plantea Anuies cambiar procesos de admisión",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2155,
-    "titulo_original": "Tamaulipas: hallan gasolinera ilegal y rancho con 135 animales exóticos     ",
-    "titulo": "Tamaulipas: hallan gasolinera ilegal y rancho con 135 animales exóticos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/estados/025n1est?partner=rss"
-  },
-  {
     "id": 2156,
     "titulo_original": "Buscan a mil 400 desaparecidos tras las riadas  en Nepal y China   ",
     "titulo": "Buscan a mil 400 desaparecidos tras las riadas en Nepal y China",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-04",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2253,
+    "titulo_original": "Entregan a familiares los  cuerpos de las víctimas del multihomicidio en Atizapán   ",
+    "titulo": "Entregan a familiares los cuerpos de las víctimas del multihomicidio en Atizapán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2254,
+    "titulo_original": "No hay evidencia de que Marruecos planeara invasión a Ceuta: Sánchez   ",
+    "titulo": "No hay evidencia de que Marruecos planeara invasión a Ceuta: Sánchez",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2255,
+    "titulo_original": "EU no tiene razón para expulsar a 2,900 paisanos a CA: Sheinbaum   ",
+    "titulo": "EU no tiene razón para expulsar a 2,900 paisanos a CA: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/007n1pol?partner=rss"
   }
 ]
