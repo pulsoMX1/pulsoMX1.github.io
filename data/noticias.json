@@ -1,35 +1,5 @@
 [
   {
-    "id": 2150,
-    "titulo_original": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo   ",
-    "titulo": "Corte invalida norma de Oaxaca que castigaba narcomantas y halconeo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/27/estados/026n3est?partner=rss"
-  },
-  {
-    "id": 2151,
-    "titulo_original": "Editorial: Doble nacionalidad: conflicto de intereses ",
-    "titulo": "Editorial: Doble nacionalidad: conflicto de intereses",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2152,
-    "titulo_original": "UEFA alista denuncia penal contra Infantino   ",
-    "titulo": "UEFA alista denuncia penal contra Infantino",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-28",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2153,
     "titulo_original": "Celebra Alito que el tricolor pueda crear alianzas con el blanquiazul   ",
     "titulo": "Celebra Alito que el tricolor pueda crear alianzas con el blanquiazul",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2Fa08n2esp-1.jpg",
     "fecha": "2026-09-04",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2250,
+    "titulo_original": "SEP prepara acuerdo nacional sobre uso de celulares en planteles   ",
+    "titulo": "SEP prepara acuerdo nacional sobre uso de celulares en planteles",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2251,
+    "titulo_original": "Gilberto López Y Rivas / Ii: La vigencia plena del legado de José Martí    ",
+    "titulo": "Gilberto López Y Rivas / Ii: La vigencia plena del legado de José Martí",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2252,
+    "titulo_original": "Naves espaciales de Europa y Japón se acercan a Mercurio    ",
+    "titulo": "Naves espaciales de Europa y Japón se acercan a Mercurio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/ciencias/a06n2cie?partner=rss"
   }
 ]
