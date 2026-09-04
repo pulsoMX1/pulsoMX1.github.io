@@ -1,35 +1,5 @@
 [
   {
-    "id": 2156,
-    "titulo_original": "Buscan a mil 400 desaparecidos tras las riadas  en Nepal y China   ",
-    "titulo": "Buscan a mil 400 desaparecidos tras las riadas en Nepal y China",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2157,
-    "titulo_original": "Consulta sobre ley de derechos indígenas lleva avance de 30.5%   ",
-    "titulo": "Consulta sobre ley de derechos indígenas lleva avance de 30.5%",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2158,
-    "titulo_original": "Proponen autoridades abaratar pagos con tarjetas   ",
-    "titulo": "Proponen autoridades abaratar pagos con tarjetas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/economia/015n3eco?partner=rss"
-  },
-  {
     "id": 2159,
     "titulo_original": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima   ",
     "titulo": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F007n1pol-1.jpg",
     "fecha": "2026-09-04",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2256,
+    "titulo_original": "Fabricantes de EU instan al Congreso a bloquear a autos chinos   ",
+    "titulo": "Fabricantes de EU instan al Congreso a bloquear a autos chinos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2257,
+    "titulo_original": "Impactos del fracking se deben evaluar antes de recurrir a él: experta   ",
+    "titulo": "Impactos del fracking se deben evaluar antes de recurrir a él: experta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2258,
+    "titulo_original": "España será un país arruinado: Trump   ",
+    "titulo": "España será un país arruinado: Trump",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-04",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/mundo/022n2mun?partner=rss"
   }
 ]
