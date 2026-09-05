@@ -1,35 +1,5 @@
 [
   {
-    "id": 2159,
-    "titulo_original": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima   ",
-    "titulo": "Recaudación del ISR, por debajo de lo previsto; IVA, por encima",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F28%2Ffotos%2F019n2eco-1.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/28/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 2160,
-    "titulo_original": "Editorial: Salarios: revertir el daño neoliberal",
-    "titulo": "Editorial: Salarios: revertir el daño neoliberal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2161,
-    "titulo_original": "Sheinbaum anuncia a finalistas de EU de México Canta   ",
-    "titulo": "Sheinbaum anuncia a finalistas de EU de México Canta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/espectaculos/a07n2esp?partner=rss"
-  },
-  {
     "id": 2162,
     "titulo_original": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador    ",
     "titulo": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-04",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2259,
+    "titulo_original": "Celebra la embajada de China en México visita de Roberto Velasco a ese país   ",
+    "titulo": "Celebra la embajada de China en México visita de Roberto Velasco a ese país",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2260,
+    "titulo_original": "Déficit comercial récord de Estados Unidos con México   ",
+    "titulo": "Déficit comercial récord de Estados Unidos con México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2261,
+    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
+    "titulo": "Enrique Galván Ochoa: Dinero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F006o1eco-1.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/opinion/006o1eco?partner=rss"
   }
 ]
