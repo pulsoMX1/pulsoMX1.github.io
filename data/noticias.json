@@ -1,35 +1,5 @@
 [
   {
-    "id": 2165,
-    "titulo_original": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno   ",
-    "titulo": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/mundo/018n2mun?partner=rss"
-  },
-  {
-    "id": 2166,
-    "titulo_original": "Laura Itzel cierra ciclo en el Senado para asumir la Secretaría de las Mujeres   ",
-    "titulo": "Laura Itzel cierra ciclo en el Senado para asumir la Secretaría de las Mujeres",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F008n1pol-1.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2167,
-    "titulo_original": "Madres buscadoras de Zacatecas inauguran exposición en memoria de personas ausentes   ",
-    "titulo": "Madres buscadoras de Zacatecas inauguran exposición en memoria de personas ausentes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/estados/023n2est?partner=rss"
-  },
-  {
     "id": 2168,
     "titulo_original": "Destacan en San Lázaro la huella de Fidel Castro en la historia de México   ",
     "titulo": "Destacan en San Lázaro la huella de Fidel Castro en la historia de México",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-05",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 2265,
+    "titulo_original": "Editorial: Fobaproa: desfalco eterno ",
+    "titulo": "Editorial: Fobaproa: desfalco eterno",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2266,
+    "titulo_original": "Schrader vuelve a abordar los temas de la culpa y la redención en Venecia   ",
+    "titulo": "Schrader vuelve a abordar los temas de la culpa y la redención en Venecia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2267,
+    "titulo_original": "Giménez debuta en triunfo del Porto 2-1 sobre el Moreirense     ",
+    "titulo": "Giménez debuta en triunfo del Porto 2-1 sobre el Moreirense",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/deportes/a09n2dep?partner=rss"
   }
 ]
