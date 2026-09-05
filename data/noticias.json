@@ -1,35 +1,5 @@
 [
   {
-    "id": 2162,
-    "titulo_original": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador    ",
-    "titulo": "Lira, a un paso del Mónaco; Cruz Azul acuerda salida del jugador",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 2163,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F29%2Ffotos%2F016o1eco-1.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/opinion/016o1eco?partner=rss"
-  },
-  {
-    "id": 2164,
-    "titulo_original": "Descartan a ex gobernador de Tamaulipas   ",
-    "titulo": "Descartan a ex gobernador de Tamaulipas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-29",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2165,
     "titulo_original": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno   ",
     "titulo": "Sentencian a 5 años de prisión por cohecho al ex presidente de Ecuador Lenín Moreno",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F04%2Ffotos%2F006o1eco-1.jpg",
     "fecha": "2026-09-05",
     "url_origen": "https://www.jornada.com.mx/2026/09/04/opinion/006o1eco?partner=rss"
+  },
+  {
+    "id": 2262,
+    "titulo_original": "Farías envía otra carta a  Sheinbaum; “la verdad saldrá a la luz”   ",
+    "titulo": "Farías envía otra carta a Sheinbaum; “la verdad saldrá a la luz”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/sociedad/031n3soc?partner=rss"
+  },
+  {
+    "id": 2263,
+    "titulo_original": "Llama Milei a desterrar las ideas empobrecedoras de la izquierda   ",
+    "titulo": "Llama Milei a desterrar las ideas empobrecedoras de la izquierda",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 2264,
+    "titulo_original": "Gabriela Rodríguez*: La vivienda social y la nueva composición de hogares   ",
+    "titulo": "Gabriela Rodríguez*: La vivienda social y la nueva composición de hogares",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/04/politica/014a1pol?partner=rss"
   }
 ]
