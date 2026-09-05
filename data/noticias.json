@@ -1,35 +1,5 @@
 [
   {
-    "id": 2171,
-    "titulo_original": "El peso termina la semana con fortaleza ante el dólar   ",
-    "titulo": "El peso termina la semana con fortaleza ante el dólar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-30",
-    "url_origen": "https://www.jornada.com.mx/2026/08/29/economia/015n3eco?partner=rss"
-  },
-  {
-    "id": 2172,
-    "titulo_original": "Editorial: Recuperación del patrimonio con justicia social",
-    "titulo": "Editorial: Recuperación del patrimonio con justicia social",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-30",
-    "url_origen": "https://www.jornada.com.mx/2026/08/30/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2173,
-    "titulo_original": "Ángeles González Gamio: La Cuadra   ",
-    "titulo": "Ángeles González Gamio: La Cuadra",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-30",
-    "url_origen": "https://www.jornada.com.mx/2026/08/30/capital/026a1cap?partner=rss"
-  },
-  {
     "id": 2174,
     "titulo_original": "El diyéi padre Guilherme vuelve a México en diciembre   ",
     "titulo": "El diyéi padre Guilherme vuelve a México en diciembre",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F008n1pol-1.jpg",
     "fecha": "2026-09-05",
     "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2271,
+    "titulo_original": "Normalistas de Puebla piden a las autoridades diálogo sin condiciones   ",
+    "titulo": "Normalistas de Puebla piden a las autoridades diálogo sin condiciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 2272,
+    "titulo_original": "Examen de ingreso a la UNAM volverá a ser presencial: Lomelí   ",
+    "titulo": "Examen de ingreso a la UNAM volverá a ser presencial: Lomelí",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2273,
+    "titulo_original": "David Byrne, el arte que llena el vacío en el Teatro Metropolitan   ",
+    "titulo": "David Byrne, el arte que llena el vacío en el Teatro Metropolitan",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2Fa27n1esp-1.jpg",
+    "fecha": "2026-09-05",
+    "url_origen": "https://www.jornada.com.mx/2026/09/05/espectaculos/a27n1esp?partner=rss"
   }
 ]
