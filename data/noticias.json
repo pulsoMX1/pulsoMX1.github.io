@@ -1,35 +1,5 @@
 [
   {
-    "id": 2276,
-    "titulo_original": "“La música se crea de la nada y puede apoderarse de ti y llevarte a otro lugar”   ",
-    "titulo": "“La música se crea de la nada y puede apoderarse de ti y llevarte a otro lugar”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 2277,
-    "titulo_original": "El sentir de los sentidos   ",
-    "titulo": "El sentir de los sentidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2Fa12n1dis-1.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/cultura/a12n1dis?partner=rss"
-  },
-  {
-    "id": 2278,
-    "titulo_original": "Juez reclasifica como feminicidio el crimen de Paola Buenrostro   ",
-    "titulo": "Juez reclasifica como feminicidio el crimen de Paola Buenrostro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/capital/026n3cap?partner=rss"
-  },
-  {
     "id": 2279,
     "titulo_original": "Conflicto bélico con Teherán es “pan comido”, desdeña Trump   ",
     "titulo": "Conflicto bélico con Teherán es “pan comido”, desdeña Trump",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-11",
     "url_origen": "https://www.jornada.com.mx/2026/09/11/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2376,
+    "titulo_original": "Atrocidades israelíes en Palestina, ni olvidadas ni perdonadas: Olmert   ",
+    "titulo": "Atrocidades israelíes en Palestina, ni olvidadas ni perdonadas: Olmert",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2377,
+    "titulo_original": "Frena jueza juicio oral contra empresario vinculado a Ruffo   ",
+    "titulo": "Frena jueza juicio oral contra empresario vinculado a Ruffo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2378,
+    "titulo_original": "Insisten los tequileros en modificar el esquema de pago de IEPS   ",
+    "titulo": "Insisten los tequileros en modificar el esquema de pago de IEPS",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/economia/019n2eco?partner=rss"
   }
 ]
