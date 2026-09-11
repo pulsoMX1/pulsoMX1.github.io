@@ -1,35 +1,5 @@
 [
   {
-    "id": 2270,
-    "titulo_original": "Llama Alicia Bárcena a afianzar pacto colectivo a favor de la naturaleza    ",
-    "titulo": "Llama Alicia Bárcena a afianzar pacto colectivo a favor de la naturaleza",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F008n1pol-1.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2271,
-    "titulo_original": "Normalistas de Puebla piden a las autoridades diálogo sin condiciones   ",
-    "titulo": "Normalistas de Puebla piden a las autoridades diálogo sin condiciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/estados/023n2est?partner=rss"
-  },
-  {
-    "id": 2272,
-    "titulo_original": "Examen de ingreso a la UNAM volverá a ser presencial: Lomelí   ",
-    "titulo": "Examen de ingreso a la UNAM volverá a ser presencial: Lomelí",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2273,
     "titulo_original": "David Byrne, el arte que llena el vacío en el Teatro Metropolitan   ",
     "titulo": "David Byrne, el arte que llena el vacío en el Teatro Metropolitan",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-11",
     "url_origen": "https://www.jornada.com.mx/2026/09/10/opinion/006o1eco?partner=rss"
+  },
+  {
+    "id": 2370,
+    "titulo_original": "Editorial: Trump: demolición de la democracia ",
+    "titulo": "Editorial: Trump: demolición de la democracia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2371,
+    "titulo_original": "Los 49ers vencen 27-7 a los Carneros ante 100 mil fanáticos  en Australia   ",
+    "titulo": "Los 49ers vencen 27-7 a los Carneros ante 100 mil fanáticos en Australia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2Fa12n3dep-1.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2372,
+    "titulo_original": "Presidenta: “estamos fuertes porque no traicionamos al pueblo”   ",
+    "titulo": "Presidenta: “estamos fuertes porque no traicionamos al pueblo”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-11",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/005n2pol?partner=rss"
   }
 ]
