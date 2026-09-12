@@ -1,35 +1,5 @@
 [
   {
-    "id": 2282,
-    "titulo_original": "Fabrizio Mejía Madrid: Inhumanidad   ",
-    "titulo": "Fabrizio Mejía Madrid: Inhumanidad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2283,
-    "titulo_original": "Robo de millones de dólares en bitcóins, móvil del crimen de familia en Atizapán: FGJEM    ",
-    "titulo": "Robo de millones de dólares en bitcóins, móvil del crimen de familia en Atizapán: FGJEM",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F022n1est-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 2284,
-    "titulo_original": "Rescatan a dos trabajadores con vida en Nepal   ",
-    "titulo": "Rescatan a dos trabajadores con vida en Nepal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F018n3mun-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/mundo/018n3mun?partner=rss"
-  },
-  {
     "id": 2285,
     "titulo_original": "Protesta de transportistas por visas se extiende a San Luis Río Colorado   ",
     "titulo": "Protesta de transportistas por visas se extiende a San Luis Río Colorado",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-12",
     "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2382,
+    "titulo_original": "Tiene México la segunda tasa de desempleo más baja de la OCDE   ",
+    "titulo": "Tiene México la segunda tasa de desempleo más baja de la OCDE",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2383,
+    "titulo_original": "Regreso triunfal a la Champions   ",
+    "titulo": "Regreso triunfal a la Champions",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2Fa11n3dep-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2384,
+    "titulo_original": "Animole 4 presenta edición especial de La Mole en la CDMX   ",
+    "titulo": "Animole 4 presenta edición especial de La Mole en la CDMX",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/espectaculos/a09n2esp?partner=rss"
   }
 ]
