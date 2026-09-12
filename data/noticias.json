@@ -1,35 +1,5 @@
 [
   {
-    "id": 2279,
-    "titulo_original": "Conflicto bélico con Teherán es “pan comido”, desdeña Trump   ",
-    "titulo": "Conflicto bélico con Teherán es “pan comido”, desdeña Trump",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/mundo/020n1mun?partner=rss"
-  },
-  {
-    "id": 2280,
-    "titulo_original": "Generará el Plan México crecimiento de 4%: Carlos Slim Domit   ",
-    "titulo": "Generará el Plan México crecimiento de 4%: Carlos Slim Domit",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F015n2eco-1.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 2281,
-    "titulo_original": "Rusia ataca el Servicio  de Seguridad de Ucrania en pleno centro de Kiev   ",
-    "titulo": "Rusia ataca el Servicio de Seguridad de Ucrania en pleno centro de Kiev",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-05",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/mundo/018n1mun?partner=rss"
-  },
-  {
     "id": 2282,
     "titulo_original": "Fabrizio Mejía Madrid: Inhumanidad   ",
     "titulo": "Fabrizio Mejía Madrid: Inhumanidad",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-11",
     "url_origen": "https://www.jornada.com.mx/2026/09/11/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2379,
+    "titulo_original": "Dan prisión preventiva a 16 integrantes de Los Ardillos    ",
+    "titulo": "Dan prisión preventiva a 16 integrantes de Los Ardillos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2380,
+    "titulo_original": "Causa bombardeo de Tel Aviv sismo en el sur de Líbano   ",
+    "titulo": "Causa bombardeo de Tel Aviv sismo en el sur de Líbano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2381,
+    "titulo_original": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM   ",
+    "titulo": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/012n1pol?partner=rss"
   }
 ]
