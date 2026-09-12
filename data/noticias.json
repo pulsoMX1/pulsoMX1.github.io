@@ -1,35 +1,5 @@
 [
   {
-    "id": 2294,
-    "titulo_original": "Temor, principal razón de migrantes en EU para no buscar atención médica   ",
-    "titulo": "Temor, principal razón de migrantes en EU para no buscar atención médica",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2295,
-    "titulo_original": "Vulnerables, los migrantes extranjeros que deporta EU a México; son mil cada mes   ",
-    "titulo": "Vulnerables, los migrantes extranjeros que deporta EU a México; son mil cada mes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2296,
-    "titulo_original": "Inaugura Azucena Cisneros, presidenta municipal de Ecatepec, Parque Prizo 1   ",
-    "titulo": "Inaugura Azucena Cisneros, presidenta municipal de Ecatepec, Parque Prizo 1",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F06%2Ffotos%2F021n2est-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/estados/021n2est?partner=rss"
-  },
-  {
     "id": 2297,
     "titulo_original": "Tadej Pogacar termina la temporada y renueva contrato hasta 2032 con UAE   ",
     "titulo": "Tadej Pogacar termina la temporada y renueva contrato hasta 2032 con UAE",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-12",
     "url_origen": "https://www.jornada.com.mx/2026/09/12/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2394,
+    "titulo_original": "El grupo Los Folkloristas celebrará 60 años de trayectoria en el Palacio de Bellas Artes   ",
+    "titulo": "El grupo Los Folkloristas celebrará 60 años de trayectoria en el Palacio de Bellas Artes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2395,
+    "titulo_original": "Arvo Part, creador de belleza",
+    "titulo": "Arvo Part, creador de belleza",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2Fa12n1dis-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/cultura/a12n1dis?partner=rss"
+  },
+  {
+    "id": 2396,
+    "titulo_original": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad   ",
+    "titulo": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/capital/026n3cap?partner=rss"
   }
 ]
