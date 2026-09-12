@@ -1,35 +1,5 @@
 [
   {
-    "id": 2288,
-    "titulo_original": "Convoca Alito a Fox a crear un amplio frente de oposición   ",
-    "titulo": "Convoca Alito a Fox a crear un amplio frente de oposición",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F009n2pol-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 2289,
-    "titulo_original": "Editorial: INE: hipertrofia presupuestal",
-    "titulo": "Editorial: INE: hipertrofia presupuestal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2290,
-    "titulo_original": "Ángeles González Gamio: Patrimonio usurpado   ",
-    "titulo": "Ángeles González Gamio: Patrimonio usurpado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/capital/026a1cap?partner=rss"
-  },
-  {
     "id": 2291,
     "titulo_original": "México empata 2-2 con Benín en su debut en el Mundial Sub-20 Femenil   ",
     "titulo": "México empata 2-2 con Benín en su debut en el Mundial Sub-20 Femenil",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F005n2pol-1.jpg",
     "fecha": "2026-09-12",
     "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2388,
+    "titulo_original": "“Negre es un mercenario de verdad, peor que yo”, afirma Cerimedo en un audio   ",
+    "titulo": "“Negre es un mercenario de verdad, peor que yo”, afirma Cerimedo en un audio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2389,
+    "titulo_original": "México y EU evaluarán operativo para combatir drones en frontera norte   ",
+    "titulo": "México y EU evaluarán operativo para combatir drones en frontera norte",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2390,
+    "titulo_original": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum   ",
+    "titulo": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/007n1pol?partner=rss"
   }
 ]
