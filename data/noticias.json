@@ -1,35 +1,5 @@
 [
   {
-    "id": 2285,
-    "titulo_original": "Protesta de transportistas por visas se extiende a San Luis Río Colorado   ",
-    "titulo": "Protesta de transportistas por visas se extiende a San Luis Río Colorado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F023n1est-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss"
-  },
-  {
-    "id": 2286,
-    "titulo_original": "En la alcaldía Benito Juárez se vive otra expansión inmobiliaria   ",
-    "titulo": "En la alcaldía Benito Juárez se vive otra expansión inmobiliaria",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F05%2Ffotos%2F025n1cap-1.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/capital/025n1cap?partner=rss"
-  },
-  {
-    "id": 2287,
-    "titulo_original": "Bachillerato Margarita Maza concluirá inscripciones el próximo lunes: SEP   ",
-    "titulo": "Bachillerato Margarita Maza concluirá inscripciones el próximo lunes: SEP",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/05/politica/007n3pol?partner=rss"
-  },
-  {
     "id": 2288,
     "titulo_original": "Convoca Alito a Fox a crear un amplio frente de oposición   ",
     "titulo": "Convoca Alito a Fox a crear un amplio frente de oposición",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-12",
     "url_origen": "https://www.jornada.com.mx/2026/09/11/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 2385,
+    "titulo_original": "La Mostra anuncia hoy su palmarés oficial    ",
+    "titulo": "La Mostra anuncia hoy su palmarés oficial",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2386,
+    "titulo_original": "Con doblete de Uchenna, celestes derrotan a Pumas femenil   ",
+    "titulo": "Con doblete de Uchenna, celestes derrotan a Pumas femenil",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2387,
+    "titulo_original": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa   ",
+    "titulo": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F005n2pol-1.jpg",
+    "fecha": "2026-09-12",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/005n2pol?partner=rss"
   }
 ]
