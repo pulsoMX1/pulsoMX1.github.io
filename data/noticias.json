@@ -1,35 +1,5 @@
 [
   {
-    "id": 2300,
-    "titulo_original": "Para tomar en cuenta   ",
-    "titulo": "Para tomar en cuenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 2301,
-    "titulo_original": "Murieron tres militares de Bolivia tras detonaciones en un cuartel del ejército   ",
-    "titulo": "Murieron tres militares de Bolivia tras detonaciones en un cuartel del ejército",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/mundo/018n1mun?partner=rss"
-  },
-  {
-    "id": 2302,
-    "titulo_original": "José Antonio Rojas Nieto: Las controvertidas renovables: la segunda   ",
-    "titulo": "José Antonio Rojas Nieto: Las controvertidas renovables: la segunda",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/economia/014a1eco?partner=rss"
-  },
-  {
     "id": 2303,
     "titulo_original": "Enfrenta Universidad Autónoma de Zacatecas grave crisis financiera   ",
     "titulo": "Enfrenta Universidad Autónoma de Zacatecas grave crisis financiera",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-13",
     "url_origen": "https://www.jornada.com.mx/2026/09/12/economia/014a1eco?partner=rss"
+  },
+  {
+    "id": 2400,
+    "titulo_original": "José Luis Rodríguez Díaz de León*: Recuperar territorios, atender causas y proteger a las personas   ",
+    "titulo": "José Luis Rodríguez Díaz de León*: Recuperar territorios, atender causas y proteger a las personas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 2401,
+    "titulo_original": "Abaten tropas israelíes a “comandantes” de Hamas   ",
+    "titulo": "Abaten tropas israelíes a “comandantes” de Hamas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F019n4mun-1.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/mundo/019n4mun?partner=rss"
+  },
+  {
+    "id": 2402,
+    "titulo_original": "Detienen por corrupción a juez penal de Chihuahua   ",
+    "titulo": "Detienen por corrupción a juez penal de Chihuahua",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/12/estados/022n1est?partner=rss"
   }
 ]
