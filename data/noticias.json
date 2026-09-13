@@ -1,35 +1,5 @@
 [
   {
-    "id": 2306,
-    "titulo_original": "Morena CDMX llama a la unidad para buscar la victoria en 2027   ",
-    "titulo": "Morena CDMX llama a la unidad para buscar la victoria en 2027",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F06%2Ffotos%2F023n1cap-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/capital/023n1cap?partner=rss"
-  },
-  {
-    "id": 2307,
-    "titulo_original": "La Clavería, el museo al aire libre que se resiste a morir   ",
-    "titulo": "La Clavería, el museo al aire libre que se resiste a morir",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F06%2Ffotos%2F025n1cap-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/capital/025n1cap?partner=rss"
-  },
-  {
-    "id": 2308,
-    "titulo_original": "Residentes con Salmonelosis, “fuera de peligro”   ",
-    "titulo": "Residentes con Salmonelosis, “fuera de peligro”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F06%2Ffotos%2F009n2pol-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 2309,
     "titulo_original": "Turco Mohamed se lanza contra la organización de la Leagues Cup   ",
     "titulo": "Turco Mohamed se lanza contra la organización de la Leagues Cup",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2Fa09n2dep-1.jpg",
     "fecha": "2026-09-13",
     "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2406,
+    "titulo_original": "Niega Higinio Martínez retrasos en el Senado por comisiones acéfalas   ",
+    "titulo": "Niega Higinio Martínez retrasos en el Senado por comisiones acéfalas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2407,
+    "titulo_original": "Pese a críticas daré 5 mil dólares a los ciudadanos por triunfo republicano, reitera el magnate   ",
+    "titulo": "Pese a críticas daré 5 mil dólares a los ciudadanos por triunfo republicano, reitera el magnate",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2408,
+    "titulo_original": "Nuevo derrame de crudo, bajo control: ASEA   ",
+    "titulo": "Nuevo derrame de crudo, bajo control: ASEA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/008n1pol?partner=rss"
   }
 ]
