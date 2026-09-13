@@ -1,35 +1,5 @@
 [
   {
-    "id": 2309,
-    "titulo_original": "Turco Mohamed se lanza contra la organización de la Leagues Cup   ",
-    "titulo": "Turco Mohamed se lanza contra la organización de la Leagues Cup",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F06%2Ffotos%2Fa09n1dep-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/deportes/a09n1dep?partner=rss"
-  },
-  {
-    "id": 2310,
-    "titulo_original": "Editorial:     Estampas de una guerra perdida      ",
-    "titulo": "Editorial: Estampas de una guerra perdida",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2311,
-    "titulo_original": "Acortan etapa 15 de la Vuelta a España por calor extremo   ",
-    "titulo": "Acortan etapa 15 de la Vuelta a España por calor extremo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2312,
     "titulo_original": "Fanáticos celebran en Suiza el 80 cumpleaños de Freddie Mercury   ",
     "titulo": "Fanáticos celebran en Suiza el 80 cumpleaños de Freddie Mercury",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-13",
     "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2409,
+    "titulo_original": "Elogia Comando Norte de EU cooperación de México contra drones de cárteles   ",
+    "titulo": "Elogia Comando Norte de EU cooperación de México contra drones de cárteles",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2410,
+    "titulo_original": "Levantan veda de camarón ante la incertidumbre de los pescadores de Sinaloa   ",
+    "titulo": "Levantan veda de camarón ante la incertidumbre de los pescadores de Sinaloa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F021n2est-1.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2411,
+    "titulo_original": "Monterrey vence 3-2 a Chivas en la Liga Femenil   ",
+    "titulo": "Monterrey vence 3-2 a Chivas en la Liga Femenil",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a11n3dep?partner=rss"
   }
 ]
