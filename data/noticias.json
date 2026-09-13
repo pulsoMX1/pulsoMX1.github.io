@@ -1,35 +1,5 @@
 [
   {
-    "id": 2303,
-    "titulo_original": "Enfrenta Universidad Autónoma de Zacatecas grave crisis financiera   ",
-    "titulo": "Enfrenta Universidad Autónoma de Zacatecas grave crisis financiera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-06",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 2304,
-    "titulo_original": "Amenaza orden ejecutiva de Trump al lobo gris mexicano   ",
-    "titulo": "Amenaza orden ejecutiva de Trump al lobo gris mexicano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/mundo/018n3mun?partner=rss"
-  },
-  {
-    "id": 2305,
-    "titulo_original": "Dictan prisión preventiva a implicados en homicidio de familia en Atizapán    ",
-    "titulo": "Dictan prisión preventiva a implicados en homicidio de familia en Atizapán",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/06/estados/020n3est?partner=rss"
-  },
-  {
     "id": 2306,
     "titulo_original": "Morena CDMX llama a la unidad para buscar la victoria en 2027   ",
     "titulo": "Morena CDMX llama a la unidad para buscar la victoria en 2027",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-13",
     "url_origen": "https://www.jornada.com.mx/2026/09/12/estados/022n1est?partner=rss"
+  },
+  {
+    "id": 2403,
+    "titulo_original": "Editorial: BRICS: multilateralismo pragmático",
+    "titulo": "Editorial: BRICS: multilateralismo pragmático",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2404,
+    "titulo_original": "Ángeles González Gamio: Historia de una campana    ",
+    "titulo": "Ángeles González Gamio: Historia de una campana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/capital/026a1cap?partner=rss"
+  },
+  {
+    "id": 2405,
+    "titulo_original": "Pumas CU se impone a Burros Blancos en el clásico estudiantil   ",
+    "titulo": "Pumas CU se impone a Burros Blancos en el clásico estudiantil",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2Fa09n2dep-1.jpg",
+    "fecha": "2026-09-13",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a09n2dep?partner=rss"
   }
 ]
