@@ -1,35 +1,5 @@
 [
   {
-    "id": 2318,
-    "titulo_original": "Felipe Ávila*: Los orígenes de la Cristiada: el maderismo   ",
-    "titulo": "Felipe Ávila*: Los orígenes de la Cristiada: el maderismo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/politica/015a2pol?partner=rss"
-  },
-  {
-    "id": 2319,
-    "titulo_original": "Temascalcingo: son 10 fallecidos y 81 heridos por estallido de pirotecnia    ",
-    "titulo": "Temascalcingo: son 10 fallecidos y 81 heridos por estallido de pirotecnia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F07%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2320,
-    "titulo_original": "Marchan por el “honor y gloria” de las víctimas de la dictadura chilena   ",
-    "titulo": "Marchan por el “honor y gloria” de las víctimas de la dictadura chilena",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F07%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/mundo/022n1mun?partner=rss"
-  },
-  {
     "id": 2321,
     "titulo_original": "Ortiz Tejeda: Nosotros ya no somos  los mismos   ",
     "titulo": "Ortiz Tejeda: Nosotros ya no somos los mismos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-14",
     "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n3mun?partner=rss"
+  },
+  {
+    "id": 2418,
+    "titulo_original": "Editorial:     ¿Canadá se muda a Europa?      ",
+    "titulo": "Editorial: ¿Canadá se muda a Europa?",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2419,
+    "titulo_original": "Raúl Jiménez  anota in extremis    ",
+    "titulo": "Raúl Jiménez anota in extremis",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2420,
+    "titulo_original": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance   ",
+    "titulo": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/010a2pol?partner=rss"
   }
 ]
