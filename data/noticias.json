@@ -1,35 +1,5 @@
 [
   {
-    "id": 2315,
-    "titulo_original": "Impiden en Michoacán consulta sobre ley de derechos indígenas   ",
-    "titulo": "Impiden en Michoacán consulta sobre ley de derechos indígenas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2316,
-    "titulo_original": "Festival de Música de Morelia invita a viajar hacia el continente asiático   ",
-    "titulo": "Festival de Música de Morelia invita a viajar hacia el continente asiático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2317,
-    "titulo_original": "Sin dictaminar,  15 iniciativas para mejorar trabajo de médicos residentes    ",
-    "titulo": "Sin dictaminar, 15 iniciativas para mejorar trabajo de médicos residentes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 2318,
     "titulo_original": "Felipe Ávila*: Los orígenes de la Cristiada: el maderismo   ",
     "titulo": "Felipe Ávila*: Los orígenes de la Cristiada: el maderismo",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-14",
     "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 2415,
+    "titulo_original": "Tzintzuntzan se niega a entregar su presupuesto a la isla de La Pacanda   ",
+    "titulo": "Tzintzuntzan se niega a entregar su presupuesto a la isla de La Pacanda",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F022n1est-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/estados/022n1est?partner=rss"
+  },
+  {
+    "id": 2416,
+    "titulo_original": "Reconstruyen migrantes viviendas precarias en Ceuta tras incendios   ",
+    "titulo": "Reconstruyen migrantes viviendas precarias en Ceuta tras incendios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F019n2mun-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 2417,
+    "titulo_original": "Repudian en 20 ciudades alemanas avance de partido ultraderechista   ",
+    "titulo": "Repudian en 20 ciudades alemanas avance de partido ultraderechista",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n3mun?partner=rss"
   }
 ]
