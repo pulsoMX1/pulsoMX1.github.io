@@ -1,35 +1,5 @@
 [
   {
-    "id": 2321,
-    "titulo_original": "Ortiz Tejeda: Nosotros ya no somos  los mismos   ",
-    "titulo": "Ortiz Tejeda: Nosotros ya no somos los mismos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/opinion/012o1pol?partner=rss"
-  },
-  {
-    "id": 2322,
-    "titulo_original": "Precio de gasolina hace titubear al secretario de Energía de Estados Unidos   ",
-    "titulo": "Precio de gasolina hace titubear al secretario de Energía de Estados Unidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 2323,
-    "titulo_original": "Ecuador halla a ocho pescadores desaparecidos tras ataque de EU   ",
-    "titulo": "Ecuador halla a ocho pescadores desaparecidos tras ataque de EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 2324,
     "titulo_original": "Fiscal Ernestina Godoy galardona a miembros de la policía ministerial   ",
     "titulo": "Fiscal Ernestina Godoy galardona a miembros de la policía ministerial",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-14",
     "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/010a2pol?partner=rss"
+  },
+  {
+    "id": 2421,
+    "titulo_original": "Enric Mas por fin alcanza la gloria en  casa; triunfa en la Vuelta a España   ",
+    "titulo": "Enric Mas por fin alcanza la gloria en casa; triunfa en la Vuelta a España",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2Fa09n2dep-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2422,
+    "titulo_original": "Normalistas irrumpen en el acto de la Presidenta   ",
+    "titulo": "Normalistas irrumpen en el acto de la Presidenta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2423,
+    "titulo_original": "Presentan documental Pretenders en Toronto   ",
+    "titulo": "Presentan documental Pretenders en Toronto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/espectaculos/a08n2esp?partner=rss"
   }
 ]
