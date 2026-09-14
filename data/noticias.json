@@ -1,35 +1,5 @@
 [
   {
-    "id": 2312,
-    "titulo_original": "Fanáticos celebran en Suiza el 80 cumpleaños de Freddie Mercury   ",
-    "titulo": "Fanáticos celebran en Suiza el 80 cumpleaños de Freddie Mercury",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F07%2Ffotos%2Fa07n2esp-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/espectaculos/a07n2esp?partner=rss"
-  },
-  {
-    "id": 2313,
-    "titulo_original": "AZ Alkmaar de Mateo Chávez es líder en  la Eredivisie   ",
-    "titulo": "AZ Alkmaar de Mateo Chávez es líder en la Eredivisie",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 2314,
-    "titulo_original": "David Márquez Ayala: Reporte económico   ",
-    "titulo": "David Márquez Ayala: Reporte económico",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F07%2Ffotos%2F019o1eco-1.jpg",
-    "fecha": "2026-09-07",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/opinion/019o1eco?partner=rss"
-  },
-  {
     "id": 2315,
     "titulo_original": "Impiden en Michoacán consulta sobre ley de derechos indígenas   ",
     "titulo": "Impiden en Michoacán consulta sobre ley de derechos indígenas",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-13",
     "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2412,
+    "titulo_original": "No puedes volver a casa",
+    "titulo": "No puedes volver a casa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2Fa12n1vox-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/cultura/a12n1vox?partner=rss"
+  },
+  {
+    "id": 2413,
+    "titulo_original": "Exigen beneficios para la comunidad Trans   ",
+    "titulo": "Exigen beneficios para la comunidad Trans",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F026n3cap-1.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 2414,
+    "titulo_original": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda   ",
+    "titulo": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-14",
+    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n1mun?partner=rss"
   }
 ]
