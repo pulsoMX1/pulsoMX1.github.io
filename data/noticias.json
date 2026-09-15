@@ -1,35 +1,5 @@
 [
   {
-    "id": 2324,
-    "titulo_original": "Fiscal Ernestina Godoy galardona a miembros de la policía ministerial   ",
-    "titulo": "Fiscal Ernestina Godoy galardona a miembros de la policía ministerial",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/07/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2325,
-    "titulo_original": "Editorial:     Pedro Sánchez, acorralado      ",
-    "titulo": "Editorial: Pedro Sánchez, acorralado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2326,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F08%2Ffotos%2F019o1eco-1.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/opinion/019o1eco?partner=rss"
-  },
-  {
     "id": 2327,
     "titulo_original": "La Suprema Corte evaluará exentar de ISR las Afore de trabajadores fallecidos   ",
     "titulo": "La Suprema Corte evaluará exentar de ISR las Afore de trabajadores fallecidos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2Fa08n2esp-1.jpg",
     "fecha": "2026-09-14",
     "url_origen": "https://www.jornada.com.mx/2026/09/14/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2424,
+    "titulo_original": "“Mejorará” el Senado iniciativa presidencial sobre feminicidios   ",
+    "titulo": "“Mejorará” el Senado iniciativa presidencial sobre feminicidios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2425,
+    "titulo_original": "Fernando Buen Abad Domínguez*: Barbarie burocrática para evaluar la educación   ",
+    "titulo": "Fernando Buen Abad Domínguez*: Barbarie burocrática para evaluar la educación",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2426,
+    "titulo_original": "Países del bloque BRICS aspiran a una gobernanza  de la IA basada en el consenso    ",
+    "titulo": "Países del bloque BRICS aspiran a una gobernanza de la IA basada en el consenso",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/ciencias/a06n2cie?partner=rss"
   }
 ]
