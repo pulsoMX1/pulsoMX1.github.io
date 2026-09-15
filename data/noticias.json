@@ -1,35 +1,5 @@
 [
   {
-    "id": 2339,
-    "titulo_original": "Encuentran expedientes de red de huachicoleo en bodega de Roberto Farías    ",
-    "titulo": "Encuentran expedientes de red de huachicoleo en bodega de Roberto Farías",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F08%2Ffotos%2F012n1pol-1.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2340,
-    "titulo_original": "Editorial: Sanciones a Israel: insuficientes pero necesarias",
-    "titulo": "Editorial: Sanciones a Israel: insuficientes pero necesarias",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2341,
-    "titulo_original": "Cuarta victoria para Brennan   ",
-    "titulo": "Cuarta victoria para Brennan",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F09%2Ffotos%2Fa12n3dep-1.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2342,
     "titulo_original": "Promueve el canciller la inversión en México ante 500 empresarios en NY   ",
     "titulo": "Promueve el canciller la inversión en México ante 500 empresarios en NY",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-15",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2439,
+    "titulo_original": "Campaña de Israel para destruir la vida de los palestinos en Cisjordania   ",
+    "titulo": "Campaña de Israel para destruir la vida de los palestinos en Cisjordania",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2440,
+    "titulo_original": "Revelan reducción de 2% en la cartera vencida del Infonavit   ",
+    "titulo": "Revelan reducción de 2% en la cartera vencida del Infonavit",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F007n1pol-1.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2441,
+    "titulo_original": "Costo de la deuda de Estados Unidos roza los niveles alcanzados en la crisis de 2008   ",
+    "titulo": "Costo de la deuda de Estados Unidos roza los niveles alcanzados en la crisis de 2008",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/019n2eco?partner=rss"
   }
 ]
