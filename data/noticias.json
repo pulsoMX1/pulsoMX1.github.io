@@ -1,35 +1,5 @@
 [
   {
-    "id": 2333,
-    "titulo_original": "Canciller federal alemán: triunfo de la ultraderecha tendrá graves consecuencias   ",
-    "titulo": "Canciller federal alemán: triunfo de la ultraderecha tendrá graves consecuencias",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F08%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2334,
-    "titulo_original": "Cristina Rivera Garza: Timbre   ",
-    "titulo": "Cristina Rivera Garza: Timbre",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/opinion/012o1pol?partner=rss"
-  },
-  {
-    "id": 2335,
-    "titulo_original": "Firma de EU vende infraestructura para repercutir en comicios de AL    ",
-    "titulo": "Firma de EU vende infraestructura para repercutir en comicios de AL",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2336,
     "titulo_original": "Tráfico marítimo del estrecho de Ormuz desciende 28%   ",
     "titulo": "Tráfico marítimo del estrecho de Ormuz desciende 28%",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F005n2pol-1.jpg",
     "fecha": "2026-09-15",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2433,
+    "titulo_original": "NAZA sigue provocando escozor en la cúpula del gobierno israelí   ",
+    "titulo": "NAZA sigue provocando escozor en la cúpula del gobierno israelí",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2434,
+    "titulo_original": "Matrícula universitaria es de 5.52 millones; debe crecer: Lomelí Vanegas    ",
+    "titulo": "Matrícula universitaria es de 5.52 millones; debe crecer: Lomelí Vanegas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2435,
+    "titulo_original": "Luis Hernández Navarro: La infinita tristeza de los padres   ",
+    "titulo": "Luis Hernández Navarro: La infinita tristeza de los padres",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/015a2pol?partner=rss"
   }
 ]
