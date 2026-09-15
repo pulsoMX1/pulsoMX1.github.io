@@ -1,35 +1,5 @@
 [
   {
-    "id": 2327,
-    "titulo_original": "La Suprema Corte evaluará exentar de ISR las Afore de trabajadores fallecidos   ",
-    "titulo": "La Suprema Corte evaluará exentar de ISR las Afore de trabajadores fallecidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2328,
-    "titulo_original": "Aún hay 15 internados por salmonela: HGM; residentes protestan   ",
-    "titulo": "Aún hay 15 internados por salmonela: HGM; residentes protestan",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2329,
-    "titulo_original": "Víctor M. Toledo: La demagogia ambiental de  la Semarnat   ",
-    "titulo": "Víctor M. Toledo: La demagogia ambiental de la Semarnat",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-08",
-    "url_origen": "https://www.jornada.com.mx/2026/09/08/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 2330,
     "titulo_original": "La IA, un “riesgo existencial” para la gente, advierte Alto Comisionado de la ONU para los Derechos Humanos    ",
     "titulo": "La IA, un “riesgo existencial” para la gente, advierte Alto Comisionado de la ONU para los Derechos Humanos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-15",
     "url_origen": "https://www.jornada.com.mx/2026/09/14/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2427,
+    "titulo_original": "Marchan miles por la paz en Culiacán; exigen vivir sin temor y con dignidad   ",
+    "titulo": "Marchan miles por la paz en Culiacán; exigen vivir sin temor y con dignidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2428,
+    "titulo_original": "Asesinan en Casa de Cultura de Cuautla a estudiante española   ",
+    "titulo": "Asesinan en Casa de Cultura de Cuautla a estudiante española",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2429,
+    "titulo_original": "Dron ruso impacta tren en la frontera de Ucrania y Polonia   ",
+    "titulo": "Dron ruso impacta tren en la frontera de Ucrania y Polonia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-09-15",
+    "url_origen": "https://www.jornada.com.mx/2026/09/14/mundo/022n1mun?partner=rss"
   }
 ]
