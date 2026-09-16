@@ -1,35 +1,5 @@
 [
   {
-    "id": 2348,
-    "titulo_original": "Día de puertas abiertas en la UAM busca acercar a nuevos estudiantes   ",
-    "titulo": "Día de puertas abiertas en la UAM busca acercar a nuevos estudiantes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/sociedad/035n3soc?partner=rss"
-  },
-  {
-    "id": 2349,
-    "titulo_original": "Tras años de disputas, dan certeza jurídica a residentes de La Angostura   ",
-    "titulo": "Tras años de disputas, dan certeza jurídica a residentes de La Angostura",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/capital/031n3cap?partner=rss"
-  },
-  {
-    "id": 2350,
-    "titulo_original": "Bajaron 53% homicidios dolosos en casi dos años; Guanajuato, a la cabeza   ",
-    "titulo": "Bajaron 53% homicidios dolosos en casi dos años; Guanajuato, a la cabeza",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F09%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2351,
     "titulo_original": "Defensa de los Farías Laguna: no son de seguridad nacional los papeles que halló FGR   ",
     "titulo": "Defensa de los Farías Laguna: no son de seguridad nacional los papeles que halló FGR",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-16",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a09n4esp?partner=rss"
+  },
+  {
+    "id": 2448,
+    "titulo_original": "Pedro Salmerón Sanginés: Discutir  la historia de Tlaxcala  (y del país)   ",
+    "titulo": "Pedro Salmerón Sanginés: Discutir la historia de Tlaxcala (y del país)",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/015a1pol?partner=rss"
+  },
+  {
+    "id": 2449,
+    "titulo_original": "Falla deliberada en simulacro en San Lázaro desata suspicacias por el uso de la tribuna   ",
+    "titulo": "Falla deliberada en simulacro en San Lázaro desata suspicacias por el uso de la tribuna",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 2450,
+    "titulo_original": "Mejora el rastreo de las remesas para prevenir el lavado   ",
+    "titulo": "Mejora el rastreo de las remesas para prevenir el lavado",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/020n1eco?partner=rss"
   }
 ]
