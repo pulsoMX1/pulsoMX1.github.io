@@ -1,35 +1,5 @@
 [
   {
-    "id": 2351,
-    "titulo_original": "Defensa de los Farías Laguna: no son de seguridad nacional los papeles que halló FGR   ",
-    "titulo": "Defensa de los Farías Laguna: no son de seguridad nacional los papeles que halló FGR",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/politica/014n1pol?partner=rss"
-  },
-  {
-    "id": 2352,
-    "titulo_original": "Liberaron a hermano de paisano asesinado en EU, luego de 2 meses   ",
-    "titulo": "Liberaron a hermano de paisano asesinado en EU, luego de 2 meses",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/politica/005n4pol?partner=rss"
-  },
-  {
-    "id": 2353,
-    "titulo_original": "Canadá y EU arrecian su disputa comercial   ",
-    "titulo": "Canadá y EU arrecian su disputa comercial",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F09%2Ffotos%2F021n1eco-1.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/economia/021n1eco?partner=rss"
-  },
-  {
     "id": 2354,
     "titulo_original": "Se crearán entre 150 mil y 250 mil empleos en el resto del año: Manpower   ",
     "titulo": "Se crearán entre 150 mil y 250 mil empleos en el resto del año: Manpower",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-16",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/020n1eco?partner=rss"
+  },
+  {
+    "id": 2451,
+    "titulo_original": "Estallido en planta de sal en Veracruz deja tres fallecidos   ",
+    "titulo": "Estallido en planta de sal en Veracruz deja tres fallecidos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/estados/027n1est?partner=rss"
+  },
+  {
+    "id": 2452,
+    "titulo_original": "Magdalena Gómez: Claroscuros de una consulta y su desenlace impredecible   ",
+    "titulo": "Magdalena Gómez: Claroscuros de una consulta y su desenlace impredecible",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/016a2pol?partner=rss"
+  },
+  {
+    "id": 2453,
+    "titulo_original": "Avala Senado ingreso de  139 soldados de EU con armas   ",
+    "titulo": "Avala Senado ingreso de 139 soldados de EU con armas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/009n2pol?partner=rss"
   }
 ]
