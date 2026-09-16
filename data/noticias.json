@@ -1,35 +1,5 @@
 [
   {
-    "id": 2345,
-    "titulo_original": "Rusia abre la puerta de BRICS a nuevos países   ",
-    "titulo": "Rusia abre la puerta de BRICS a nuevos países",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/economia/021n3eco?partner=rss"
-  },
-  {
-    "id": 2346,
-    "titulo_original": "Víctor M. Quintana S.: La lucha lagunera abre vía para defender el agua   ",
-    "titulo": "Víctor M. Quintana S.: La lucha lagunera abre vía para defender el agua",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/politica/015a2pol?partner=rss"
-  },
-  {
-    "id": 2347,
-    "titulo_original": "Búsqueda con IA de señales tempranas de cáncer en el aliento    ",
-    "titulo": "Búsqueda con IA de señales tempranas de cáncer en el aliento",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F09%2Ffotos%2Fa06n2cie-1.jpg",
-    "fecha": "2026-09-09",
-    "url_origen": "https://www.jornada.com.mx/2026/09/09/ciencias/a06n2cie?partner=rss"
-  },
-  {
     "id": 2348,
     "titulo_original": "Día de puertas abiertas en la UAM busca acercar a nuevos estudiantes   ",
     "titulo": "Día de puertas abiertas en la UAM busca acercar a nuevos estudiantes",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F012n1pol-1.jpg",
     "fecha": "2026-09-16",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2445,
+    "titulo_original": "Quiñones continúa inspirado; anota en victoria de Al Qadsiah  en la Champions de Asia   ",
+    "titulo": "Quiñones continúa inspirado; anota en victoria de Al Qadsiah en la Champions de Asia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2446,
+    "titulo_original": "Excluyen a Macklemore de la gira  de Ed Sheeran por apoyar a Palestina   ",
+    "titulo": "Excluyen a Macklemore de la gira de Ed Sheeran por apoyar a Palestina",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2Fa09n2esp-1.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 2447,
+    "titulo_original": "Si informan antes, cargos adicionales por boletos son legales: Profeco   ",
+    "titulo": "Si informan antes, cargos adicionales por boletos son legales: Profeco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-16",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a09n4esp?partner=rss"
   }
 ]
