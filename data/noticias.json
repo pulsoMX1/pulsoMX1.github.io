@@ -1,35 +1,5 @@
 [
   {
-    "id": 2369,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/opinion/006o1eco?partner=rss"
-  },
-  {
-    "id": 2370,
-    "titulo_original": "Editorial: Trump: demolición de la democracia ",
-    "titulo": "Editorial: Trump: demolición de la democracia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2371,
-    "titulo_original": "Los 49ers vencen 27-7 a los Carneros ante 100 mil fanáticos  en Australia   ",
-    "titulo": "Los 49ers vencen 27-7 a los Carneros ante 100 mil fanáticos en Australia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2Fa12n3dep-1.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2372,
     "titulo_original": "Presidenta: “estamos fuertes porque no traicionamos al pueblo”   ",
     "titulo": "Presidenta: “estamos fuertes porque no traicionamos al pueblo”",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-17",
     "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2469,
+    "titulo_original": "Irán ilumina con los colores de México su icónica Torre Azadi   ",
+    "titulo": "Irán ilumina con los colores de México su icónica Torre Azadi",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2470,
+    "titulo_original": "STPS exigirá certificado laboral a exportadores de aguacate   ",
+    "titulo": "STPS exigirá certificado laboral a exportadores de aguacate",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/economia/021n3eco?partner=rss"
+  },
+  {
+    "id": 2471,
+    "titulo_original": "El ser humano está “perdiendo el control” de esta tecnología, señala informático   ",
+    "titulo": "El ser humano está “perdiendo el control” de esta tecnología, señala informático",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2Fa06n2cie-1.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/ciencias/a06n2cie?partner=rss"
   }
 ]
