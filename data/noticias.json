@@ -1,35 +1,5 @@
 [
   {
-    "id": 2357,
-    "titulo_original": "“Con el favor de Dios, que la vida me permita vivir”, dijo triste a su salida   ",
-    "titulo": "“Con el favor de Dios, que la vida me permita vivir”, dijo triste a su salida",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2358,
-    "titulo_original": "SCJN exime del pago  de ISR a las Afore de los trabajadores fallecidos   ",
-    "titulo": "SCJN exime del pago de ISR a las Afore de los trabajadores fallecidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2359,
-    "titulo_original": "Imanol Ordorika: Trampa de fábrica   ",
-    "titulo": "Imanol Ordorika: Trampa de fábrica",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 2360,
     "titulo_original": "CFE corta servicio de energía a pozos de los LeBarón, por adeudos   ",
     "titulo": "CFE corta servicio de energía a pozos de los LeBarón, por adeudos",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-16",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 2457,
+    "titulo_original": "Ruso pagó festejo de Trump hijo   ",
+    "titulo": "Ruso pagó festejo de Trump hijo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/024n2mun?partner=rss"
+  },
+  {
+    "id": 2458,
+    "titulo_original": "Canadá va por “alianza única” con la UE, aclara Mark Carney   ",
+    "titulo": "Canadá va por “alianza única” con la UE, aclara Mark Carney",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/019n3eco?partner=rss"
+  },
+  {
+    "id": 2459,
+    "titulo_original": "Julio Hernández López: Astillero   ",
+    "titulo": "Julio Hernández López: Astillero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/15/opinion/008o1pol?partner=rss"
   }
 ]
