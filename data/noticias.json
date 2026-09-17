@@ -1,35 +1,5 @@
 [
   {
-    "id": 2363,
-    "titulo_original": "Considera Sheinbaum que debe regularse la inteligencia artificial   ",
-    "titulo": "Considera Sheinbaum que debe regularse la inteligencia artificial",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-10",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2364,
-    "titulo_original": "Nada que afecte soberanía o economía se negociará con EU, afirma Sheinbaum   ",
-    "titulo": "Nada que afecte soberanía o economía se negociará con EU, afirma Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 2365,
-    "titulo_original": "Agradece el rector de la máxima casa de estudios presupuesto para 2027   ",
-    "titulo": "Agradece el rector de la máxima casa de estudios presupuesto para 2027",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/010n2pol?partner=rss"
-  },
-  {
     "id": 2366,
     "titulo_original": "Precio del petróleo supera de nueva cuenta 100 dólares   ",
     "titulo": "Precio del petróleo supera de nueva cuenta 100 dólares",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-17",
     "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/023n3mun?partner=rss"
+  },
+  {
+    "id": 2463,
+    "titulo_original": "Editorial: Ecuador: entreguismo criminal ",
+    "titulo": "Editorial: Ecuador: entreguismo criminal",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2464,
+    "titulo_original": "Selección de softbol buscará en Australia boleto a LA   ",
+    "titulo": "Selección de softbol buscará en Australia boleto a LA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2465,
+    "titulo_original": "Ceniza en la boca, en el Festival de Cine de Toronto   ",
+    "titulo": "Ceniza en la boca, en el Festival de Cine de Toronto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2Fa08n3esp-1.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n3esp?partner=rss"
   }
 ]
