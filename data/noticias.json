@@ -1,35 +1,5 @@
 [
   {
-    "id": 2366,
-    "titulo_original": "Precio del petróleo supera de nueva cuenta 100 dólares   ",
-    "titulo": "Precio del petróleo supera de nueva cuenta 100 dólares",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 2367,
-    "titulo_original": "Más de 15 mil militares se alistan para el desfile de Independencia   ",
-    "titulo": "Más de 15 mil militares se alistan para el desfile de Independencia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F10%2Ffotos%2F012n1pol-1.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2368,
-    "titulo_original": "Ni más gravámenes ni gasolinazos en 2027, afirma Claudia Sheinbaum   ",
-    "titulo": "Ni más gravámenes ni gasolinazos en 2027, afirma Claudia Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F10%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/10/economia/016n1eco?partner=rss"
-  },
-  {
     "id": 2369,
     "titulo_original": "Enrique Galván Ochoa: Dinero   ",
     "titulo": "Enrique Galván Ochoa: Dinero",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2Fa08n3esp-1.jpg",
     "fecha": "2026-09-17",
     "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n3esp?partner=rss"
+  },
+  {
+    "id": 2466,
+    "titulo_original": "Ejército y Semar muestran al pueblo y a la Presidenta su nueva tecnología   ",
+    "titulo": "Ejército y Semar muestran al pueblo y a la Presidenta su nueva tecnología",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F005n2pol-1.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2467,
+    "titulo_original": "ONU: se reaviva el temor por crímenes de guerra en Gaza   ",
+    "titulo": "ONU: se reaviva el temor por crímenes de guerra en Gaza",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F025n1mun-1.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/mundo/025n1mun?partner=rss"
+  },
+  {
+    "id": 2468,
+    "titulo_original": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí   ",
+    "titulo": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-17",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n2esp?partner=rss"
   }
 ]
