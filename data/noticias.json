@@ -1,35 +1,5 @@
 [
   {
-    "id": 2378,
-    "titulo_original": "Insisten los tequileros en modificar el esquema de pago de IEPS   ",
-    "titulo": "Insisten los tequileros en modificar el esquema de pago de IEPS",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 2379,
-    "titulo_original": "Dan prisión preventiva a 16 integrantes de Los Ardillos    ",
-    "titulo": "Dan prisión preventiva a 16 integrantes de Los Ardillos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/010n2pol?partner=rss"
-  },
-  {
-    "id": 2380,
-    "titulo_original": "Causa bombardeo de Tel Aviv sismo en el sur de Líbano   ",
-    "titulo": "Causa bombardeo de Tel Aviv sismo en el sur de Líbano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/mundo/022n2mun?partner=rss"
-  },
-  {
     "id": 2381,
     "titulo_original": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM   ",
     "titulo": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-18",
     "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2478,
+    "titulo_original": "Editorial: EU: provocación y deterioro",
+    "titulo": "Editorial: EU: provocación y deterioro",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2479,
+    "titulo_original": "Quinto título divisional para Los Dodgers   ",
+    "titulo": "Quinto título divisional para Los Dodgers",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F18%2Ffotos%2Fa12n3dep-1.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2480,
+    "titulo_original": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta   ",
+    "titulo": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/005n2pol?partner=rss"
   }
 ]
