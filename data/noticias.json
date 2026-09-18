@@ -1,35 +1,5 @@
 [
   {
-    "id": 2384,
-    "titulo_original": "Animole 4 presenta edición especial de La Mole en la CDMX   ",
-    "titulo": "Animole 4 presenta edición especial de La Mole en la CDMX",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/espectaculos/a09n2esp?partner=rss"
-  },
-  {
-    "id": 2385,
-    "titulo_original": "La Mostra anuncia hoy su palmarés oficial    ",
-    "titulo": "La Mostra anuncia hoy su palmarés oficial",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/espectaculos/a07n2esp?partner=rss"
-  },
-  {
-    "id": 2386,
-    "titulo_original": "Con doblete de Uchenna, celestes derrotan a Pumas femenil   ",
-    "titulo": "Con doblete de Uchenna, celestes derrotan a Pumas femenil",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/deportes/a09n2dep?partner=rss"
-  },
-  {
     "id": 2387,
     "titulo_original": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa   ",
     "titulo": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-18",
     "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2484,
+    "titulo_original": "Cae en Cuautla El Trompas, presunto feminicida de estudiante española    ",
+    "titulo": "Cae en Cuautla El Trompas, presunto feminicida de estudiante española",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F18%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2485,
+    "titulo_original": "Hallan muerta a alumna de medicina reportada como desaparecida en Jalisco    ",
+    "titulo": "Hallan muerta a alumna de medicina reportada como desaparecida en Jalisco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2486,
+    "titulo_original": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin   ",
+    "titulo": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/mundo/022n1mun?partner=rss"
   }
 ]
