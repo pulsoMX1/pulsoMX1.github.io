@@ -1,35 +1,5 @@
 [
   {
-    "id": 2381,
-    "titulo_original": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM   ",
-    "titulo": "Trabajadores de llantera en Coahuila denuncian amenazas de la CTM",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2382,
-    "titulo_original": "Tiene México la segunda tasa de desempleo más baja de la OCDE   ",
-    "titulo": "Tiene México la segunda tasa de desempleo más baja de la OCDE",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2F016n1eco-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/economia/016n1eco?partner=rss"
-  },
-  {
-    "id": 2383,
-    "titulo_original": "Regreso triunfal a la Champions   ",
-    "titulo": "Regreso triunfal a la Champions",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2Fa11n3dep-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/deportes/a11n3dep?partner=rss"
-  },
-  {
     "id": 2384,
     "titulo_original": "Animole 4 presenta edición especial de La Mole en la CDMX   ",
     "titulo": "Animole 4 presenta edición especial de La Mole en la CDMX",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-18",
     "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2481,
+    "titulo_original": "Cuba exhibirá el documental Imparables producida por la OEI   ",
+    "titulo": "Cuba exhibirá el documental Imparables producida por la OEI",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2482,
+    "titulo_original": "Son niños y adolescentes casi 13% de los migrantes en el mundo, señala OEA   ",
+    "titulo": "Son niños y adolescentes casi 13% de los migrantes en el mundo, señala OEA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2483,
+    "titulo_original": "Pedro Miguel: El declive del Águila   ",
+    "titulo": "Pedro Miguel: El declive del Águila",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/015a2pol?partner=rss"
   }
 ]
