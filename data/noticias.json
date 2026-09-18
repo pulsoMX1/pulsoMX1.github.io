@@ -1,35 +1,5 @@
 [
   {
-    "id": 2375,
-    "titulo_original": "Sinaloa: avalan hasta 30 años de cárcel por reclutamiento forzado de menores   ",
-    "titulo": "Sinaloa: avalan hasta 30 años de cárcel por reclutamiento forzado de menores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2376,
-    "titulo_original": "Atrocidades israelíes en Palestina, ni olvidadas ni perdonadas: Olmert   ",
-    "titulo": "Atrocidades israelíes en Palestina, ni olvidadas ni perdonadas: Olmert",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F11%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2377,
-    "titulo_original": "Frena jueza juicio oral contra empresario vinculado a Ruffo   ",
-    "titulo": "Frena jueza juicio oral contra empresario vinculado a Ruffo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-11",
-    "url_origen": "https://www.jornada.com.mx/2026/09/11/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2378,
     "titulo_original": "Insisten los tequileros en modificar el esquema de pago de IEPS   ",
     "titulo": "Insisten los tequileros en modificar el esquema de pago de IEPS",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F014n1pol-1.jpg",
     "fecha": "2026-09-18",
     "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2475,
+    "titulo_original": "Propone Comisión Europea que Canadá sea el primer miembro asociado de la UE   ",
+    "titulo": "Propone Comisión Europea que Canadá sea el primer miembro asociado de la UE",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F021n1eco-1.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/economia/021n1eco?partner=rss"
+  },
+  {
+    "id": 2476,
+    "titulo_original": "Cae funcionario por homicidio de soldado de GN en Guerrero   ",
+    "titulo": "Cae funcionario por homicidio de soldado de GN en Guerrero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2477,
+    "titulo_original": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas   ",
+    "titulo": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-09-18",
+    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/012n1pol?partner=rss"
   }
 ]
