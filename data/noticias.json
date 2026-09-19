@@ -1,35 +1,5 @@
 [
   {
-    "id": 2387,
-    "titulo_original": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa   ",
-    "titulo": "Protestan en Semarnat contra megaplanta de amoniaco en Sinaloa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2388,
-    "titulo_original": "“Negre es un mercenario de verdad, peor que yo”, afirma Cerimedo en un audio   ",
-    "titulo": "“Negre es un mercenario de verdad, peor que yo”, afirma Cerimedo en un audio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/mundo/018n2mun?partner=rss"
-  },
-  {
-    "id": 2389,
-    "titulo_original": "México y EU evaluarán operativo para combatir drones en frontera norte   ",
-    "titulo": "México y EU evaluarán operativo para combatir drones en frontera norte",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 2390,
     "titulo_original": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum   ",
     "titulo": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum",
@@ -998,5 +968,35 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-09-18",
     "url_origen": "https://www.jornada.com.mx/2026/09/18/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2487,
+    "titulo_original": "Ordena juez desalojar a garífunas en Honduras para filmar reality   ",
+    "titulo": "Ordena juez desalojar a garífunas en Honduras para filmar reality",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4278/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2488,
+    "titulo_original": "AL, la región más letal para defensores de tierras y ambientalistas    ",
+    "titulo": "AL, la región más letal para defensores de tierras y ambientalistas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8033/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2489,
+    "titulo_original": "Propone Concanaco coordinación nacional para atacar al sargazo   ",
+    "titulo": "Propone Concanaco coordinación nacional para atacar al sargazo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2304/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/18/economia/019n2eco?partner=rss"
   }
 ]
