@@ -1,35 +1,5 @@
 [
   {
-    "id": 2396,
-    "titulo_original": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad   ",
-    "titulo": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/capital/026n3cap?partner=rss"
-  },
-  {
-    "id": 2397,
-    "titulo_original": "Hacienda reactiva subsidio especial para el diésel   ",
-    "titulo": "Hacienda reactiva subsidio especial para el diésel",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 2398,
-    "titulo_original": "Incendios consumen 42 viviendas de migrantes en medio de la tensión en Ceuta   ",
-    "titulo": "Incendios consumen 42 viviendas de migrantes en medio de la tensión en Ceuta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/mundo/018n1mun?partner=rss"
-  },
-  {
     "id": 2399,
     "titulo_original": "Gustavo Gordillo/ IV y último: Diálogo de Melos   ",
     "titulo": "Gustavo Gordillo/ IV y último: Diálogo de Melos",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/873/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2496,
+    "titulo_original": "Mateo Chávez hace el mejor gol del mes     ",
+    "titulo": "Mateo Chávez hace el mejor gol del mes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/439/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a10n5dep?partner=rss"
+  },
+  {
+    "id": 2497,
+    "titulo_original": "Por diabetes e hipertensión, la mayoría de muertes en el país   ",
+    "titulo": "Por diabetes e hipertensión, la mayoría de muertes en el país",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7685/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2498,
+    "titulo_original": "Agradece España “la rapidez”   ",
+    "titulo": "Agradece España “la rapidez”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3414/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/estados/021n2est?partner=rss"
   }
 ]
