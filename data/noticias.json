@@ -1,35 +1,5 @@
 [
   {
-    "id": 2393,
-    "titulo_original": "Becerra y Valencia van por la corona en tiro con arco   ",
-    "titulo": "Becerra y Valencia van por la corona en tiro con arco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/deportes/a11n3dep?partner=rss"
-  },
-  {
-    "id": 2394,
-    "titulo_original": "El grupo Los Folkloristas celebrará 60 años de trayectoria en el Palacio de Bellas Artes   ",
-    "titulo": "El grupo Los Folkloristas celebrará 60 años de trayectoria en el Palacio de Bellas Artes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 2395,
-    "titulo_original": "Arvo Part, creador de belleza",
-    "titulo": "Arvo Part, creador de belleza",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2Fa12n1dis-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/cultura/a12n1dis?partner=rss"
-  },
-  {
     "id": 2396,
     "titulo_original": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad   ",
     "titulo": "Peritaje forense sostiene que la pipa de Silza iba a exceso de velocidad",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/6192/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/opinion/016o1eco?partner=rss"
+  },
+  {
+    "id": 2493,
+    "titulo_original": "Se sienten seguros fuera de los planteles de CCH 78% de los estudiantes    ",
+    "titulo": "Se sienten seguros fuera de los planteles de CCH 78% de los estudiantes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3551/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2494,
+    "titulo_original": "Protegerá Francia su infraestructura por “posibles ataques” de Moscú   ",
+    "titulo": "Protegerá Francia su infraestructura por “posibles ataques” de Moscú",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7122/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2495,
+    "titulo_original": "Presentan documental sobre la lucha por los desaparecidos   ",
+    "titulo": "Presentan documental sobre la lucha por los desaparecidos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/873/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/008n1pol?partner=rss"
   }
 ]
