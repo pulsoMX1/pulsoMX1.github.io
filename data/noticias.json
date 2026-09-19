@@ -1,35 +1,5 @@
 [
   {
-    "id": 2402,
-    "titulo_original": "Detienen por corrupción a juez penal de Chihuahua   ",
-    "titulo": "Detienen por corrupción a juez penal de Chihuahua",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 2403,
-    "titulo_original": "Editorial: BRICS: multilateralismo pragmático",
-    "titulo": "Editorial: BRICS: multilateralismo pragmático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2404,
-    "titulo_original": "Ángeles González Gamio: Historia de una campana    ",
-    "titulo": "Ángeles González Gamio: Historia de una campana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/capital/026a1cap?partner=rss"
-  },
-  {
     "id": 2405,
     "titulo_original": "Pumas CU se impone a Burros Blancos en el clásico estudiantil   ",
     "titulo": "Pumas CU se impone a Burros Blancos en el clásico estudiantil",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2054/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2502,
+    "titulo_original": "La música acuática de David Lang   ",
+    "titulo": "La música acuática de David Lang",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8084/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/cultura/a12n1dis?partner=rss"
+  },
+  {
+    "id": 2503,
+    "titulo_original": "Caen tres de la Unión en el cateo de 2 inmuebles    ",
+    "titulo": "Caen tres de la Unión en el cateo de 2 inmuebles",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/166/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 2504,
+    "titulo_original": "Empresarios afines a Trump exploran el terreno en Cuba    ",
+    "titulo": "Empresarios afines a Trump exploran el terreno en Cuba",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9169/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/020n1mun?partner=rss"
   }
 ]
