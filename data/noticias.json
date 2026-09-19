@@ -1,35 +1,5 @@
 [
   {
-    "id": 2399,
-    "titulo_original": "Gustavo Gordillo/ IV y último: Diálogo de Melos   ",
-    "titulo": "Gustavo Gordillo/ IV y último: Diálogo de Melos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/economia/014a1eco?partner=rss"
-  },
-  {
-    "id": 2400,
-    "titulo_original": "José Luis Rodríguez Díaz de León*: Recuperar territorios, atender causas y proteger a las personas   ",
-    "titulo": "José Luis Rodríguez Díaz de León*: Recuperar territorios, atender causas y proteger a las personas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2401,
-    "titulo_original": "Abaten tropas israelíes a “comandantes” de Hamas   ",
-    "titulo": "Abaten tropas israelíes a “comandantes” de Hamas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F019n4mun-1.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/mundo/019n4mun?partner=rss"
-  },
-  {
     "id": 2402,
     "titulo_original": "Detienen por corrupción a juez penal de Chihuahua   ",
     "titulo": "Detienen por corrupción a juez penal de Chihuahua",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/3414/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2499,
+    "titulo_original": "Comienza un ciclo global de alzas de tasas    ",
+    "titulo": "Comienza un ciclo global de alzas de tasas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1611/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2500,
+    "titulo_original": "Defenderá el cinturón CMB como lo que es    ",
+    "titulo": "Defenderá el cinturón CMB como lo que es",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1739/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2501,
+    "titulo_original": "Shakira se erige en la reina absoluta del pop en España   ",
+    "titulo": "Shakira se erige en la reina absoluta del pop en España",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2054/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/espectaculos/a06n1esp?partner=rss"
   }
 ]
