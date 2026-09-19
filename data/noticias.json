@@ -1,35 +1,5 @@
 [
   {
-    "id": 2390,
-    "titulo_original": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum   ",
-    "titulo": "Excesivo, presupuesto de 42 mil 274 millones que pide el INE: Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F12%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2391,
-    "titulo_original": "Juan Pablo Duch: Apuntes postsoviéticos   ",
-    "titulo": "Juan Pablo Duch: Apuntes postsoviéticos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/opinion/018o1mun?partner=rss"
-  },
-  {
-    "id": 2392,
-    "titulo_original": "Guanajuato: 49% de socios de la Coparmex, víctimas de un ilícito   ",
-    "titulo": "Guanajuato: 49% de socios de la Coparmex, víctimas de un ilícito",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-12",
-    "url_origen": "https://www.jornada.com.mx/2026/09/12/estados/021n2est?partner=rss"
-  },
-  {
     "id": 2393,
     "titulo_original": "Becerra y Valencia van por la corona en tiro con arco   ",
     "titulo": "Becerra y Valencia van por la corona en tiro con arco",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2304/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/18/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2490,
+    "titulo_original": "Editorial: Celulares: regular con sensibilidad",
+    "titulo": "Editorial: Celulares: regular con sensibilidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2957/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2491,
+    "titulo_original": "El Valencia apunta a Javier El Vasco Aguirre para evitar el descenso    ",
+    "titulo": "El Valencia apunta a Javier El Vasco Aguirre para evitar el descenso",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7254/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2492,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6192/800/500",
+    "fecha": "2026-09-19",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/opinion/016o1eco?partner=rss"
   }
 ]
