@@ -1,35 +1,5 @@
 [
   {
-    "id": 2411,
-    "titulo_original": "Monterrey vence 3-2 a Chivas en la Liga Femenil   ",
-    "titulo": "Monterrey vence 3-2 a Chivas en la Liga Femenil",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a11n3dep?partner=rss"
-  },
-  {
-    "id": 2412,
-    "titulo_original": "No puedes volver a casa",
-    "titulo": "No puedes volver a casa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2Fa12n1vox-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/cultura/a12n1vox?partner=rss"
-  },
-  {
-    "id": 2413,
-    "titulo_original": "Exigen beneficios para la comunidad Trans   ",
-    "titulo": "Exigen beneficios para la comunidad Trans",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F026n3cap-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/capital/026n3cap?partner=rss"
-  },
-  {
     "id": 2414,
     "titulo_original": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda   ",
     "titulo": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/103/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n3mun?partner=rss"
+  },
+  {
+    "id": 2511,
+    "titulo_original": "Ángeles González Gamio: Señorita con nombre de flor   ",
+    "titulo": "Ángeles González Gamio: Señorita con nombre de flor",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5128/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/capital/026a1cap?partner=rss"
+  },
+  {
+    "id": 2512,
+    "titulo_original": "Mauro Jarquín Ramírez*: El regreso de Ned Ludd   ",
+    "titulo": "Mauro Jarquín Ramírez*: El regreso de Ned Ludd",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7640/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/politica/010a2pol?partner=rss"
+  },
+  {
+    "id": 2513,
+    "titulo_original": "Nueva caída del Cruz Azul; pierde 1-0 ante Monterrey    ",
+    "titulo": "Nueva caída del Cruz Azul; pierde 1-0 ante Monterrey",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6491/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/deportes/a09n2dep?partner=rss"
   }
 ]
