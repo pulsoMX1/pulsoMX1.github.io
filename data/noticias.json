@@ -1,35 +1,5 @@
 [
   {
-    "id": 2417,
-    "titulo_original": "Repudian en 20 ciudades alemanas avance de partido ultraderechista   ",
-    "titulo": "Repudian en 20 ciudades alemanas avance de partido ultraderechista",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n3mun?partner=rss"
-  },
-  {
-    "id": 2418,
-    "titulo_original": "Editorial:     ¿Canadá se muda a Europa?      ",
-    "titulo": "Editorial: ¿Canadá se muda a Europa?",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2419,
-    "titulo_original": "Raúl Jiménez  anota in extremis    ",
-    "titulo": "Raúl Jiménez anota in extremis",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2420,
     "titulo_original": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance   ",
     "titulo": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9566/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/20/estados/019n1est?partner=rss"
+  },
+  {
+    "id": 2517,
+    "titulo_original": "Impugna la oposición acuerdos del INE sobre “boletas planchadas”   ",
+    "titulo": "Impugna la oposición acuerdos del INE sobre “boletas planchadas”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6502/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2518,
+    "titulo_original": "Termina jornada de fraternidad en Honduras sin soluciones   ",
+    "titulo": "Termina jornada de fraternidad en Honduras sin soluciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8929/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2519,
+    "titulo_original": "Acámbaro celebra 500 años de su fundación y emite moneda especial   ",
+    "titulo": "Acámbaro celebra 500 años de su fundación y emite moneda especial",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5561/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/estados/021n2est?partner=rss"
   }
 ]
