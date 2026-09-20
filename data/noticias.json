@@ -1,35 +1,5 @@
 [
   {
-    "id": 2408,
-    "titulo_original": "Nuevo derrame de crudo, bajo control: ASEA   ",
-    "titulo": "Nuevo derrame de crudo, bajo control: ASEA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2409,
-    "titulo_original": "Elogia Comando Norte de EU cooperación de México contra drones de cárteles   ",
-    "titulo": "Elogia Comando Norte de EU cooperación de México contra drones de cárteles",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2410,
-    "titulo_original": "Levantan veda de camarón ante la incertidumbre de los pescadores de Sinaloa   ",
-    "titulo": "Levantan veda de camarón ante la incertidumbre de los pescadores de Sinaloa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F021n2est-1.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/estados/021n2est?partner=rss"
-  },
-  {
     "id": 2411,
     "titulo_original": "Monterrey vence 3-2 a Chivas en la Liga Femenil   ",
     "titulo": "Monterrey vence 3-2 a Chivas en la Liga Femenil",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2728/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 2508,
+    "titulo_original": "Grupos delictivos se vinculan con sectores de la Montaña: Sheinbaum   ",
+    "titulo": "Grupos delictivos se vinculan con sectores de la Montaña: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8219/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/estados/022n1est?partner=rss"
+  },
+  {
+    "id": 2509,
+    "titulo_original": "Luchan miles de migrantes por conseguir un lugar en el nuevo albergue de Ceuta   ",
+    "titulo": "Luchan miles de migrantes por conseguir un lugar en el nuevo albergue de Ceuta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1830/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 2510,
+    "titulo_original": "Mediación de China ante Irán genera  baja en valor del petróleo   ",
+    "titulo": "Mediación de China ante Irán genera baja en valor del petróleo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/103/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n3mun?partner=rss"
   }
 ]
