@@ -1,35 +1,5 @@
 [
   {
-    "id": 2405,
-    "titulo_original": "Pumas CU se impone a Burros Blancos en el clásico estudiantil   ",
-    "titulo": "Pumas CU se impone a Burros Blancos en el clásico estudiantil",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2Fa09n2dep-1.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 2406,
-    "titulo_original": "Niega Higinio Martínez retrasos en el Senado por comisiones acéfalas   ",
-    "titulo": "Niega Higinio Martínez retrasos en el Senado por comisiones acéfalas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2407,
-    "titulo_original": "Pese a críticas daré 5 mil dólares a los ciudadanos por triunfo republicano, reitera el magnate   ",
-    "titulo": "Pese a críticas daré 5 mil dólares a los ciudadanos por triunfo republicano, reitera el magnate",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-13",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n2mun?partner=rss"
-  },
-  {
     "id": 2408,
     "titulo_original": "Nuevo derrame de crudo, bajo control: ASEA   ",
     "titulo": "Nuevo derrame de crudo, bajo control: ASEA",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9169/800/500",
     "fecha": "2026-09-19",
     "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 2505,
+    "titulo_original": "La Fed golpea al peso y lleva a la bolsa a su mínimo  en lo que va del año   ",
+    "titulo": "La Fed golpea al peso y lleva a la bolsa a su mínimo en lo que va del año",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3376/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 2506,
+    "titulo_original": "Inicia elección legislativa de 3 días en Rusia sin partidos opositores   ",
+    "titulo": "Inicia elección legislativa de 3 días en Rusia sin partidos opositores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1794/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 2507,
+    "titulo_original": "Fabrizio Mejía Madrid: Metáforas sociales   ",
+    "titulo": "Fabrizio Mejía Madrid: Metáforas sociales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2728/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/010a1pol?partner=rss"
   }
 ]
