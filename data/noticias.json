@@ -1,35 +1,5 @@
 [
   {
-    "id": 2420,
-    "titulo_original": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance   ",
-    "titulo": "José Murat/III: Los nuevos señores feudales: cuando el destino nos alcance",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/010a2pol?partner=rss"
-  },
-  {
-    "id": 2421,
-    "titulo_original": "Enric Mas por fin alcanza la gloria en  casa; triunfa en la Vuelta a España   ",
-    "titulo": "Enric Mas por fin alcanza la gloria en casa; triunfa en la Vuelta a España",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2Fa09n2dep-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/deportes/a09n2dep?partner=rss"
-  },
-  {
-    "id": 2422,
-    "titulo_original": "Normalistas irrumpen en el acto de la Presidenta   ",
-    "titulo": "Normalistas irrumpen en el acto de la Presidenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2423,
     "titulo_original": "Presentan documental Pretenders en Toronto   ",
     "titulo": "Presentan documental Pretenders en Toronto",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/5561/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/20/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2520,
+    "titulo_original": "Morro muestra que “la ternura y el amor son una medicina para estos tiempos violentos”    ",
+    "titulo": "Morro muestra que “la ternura y el amor son una medicina para estos tiempos violentos”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1058/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2521,
+    "titulo_original": "Emite Irán nivel máximo de alerta; bombardero de EU vuela a la región   ",
+    "titulo": "Emite Irán nivel máximo de alerta; bombardero de EU vuela a la región",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4217/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/015n1mun?partner=rss"
+  },
+  {
+    "id": 2522,
+    "titulo_original": "Gremios rechazan eliminación  del subsidio al diésel en Bolivia   ",
+    "titulo": "Gremios rechazan eliminación del subsidio al diésel en Bolivia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7381/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/018n1mun?partner=rss"
   }
 ]
