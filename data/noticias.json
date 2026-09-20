@@ -1,35 +1,5 @@
 [
   {
-    "id": 2414,
-    "titulo_original": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda   ",
-    "titulo": "Protestan miles en Dublín contra visita de Donald Trump a Irlanda",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/018n1mun?partner=rss"
-  },
-  {
-    "id": 2415,
-    "titulo_original": "Tzintzuntzan se niega a entregar su presupuesto a la isla de La Pacanda   ",
-    "titulo": "Tzintzuntzan se niega a entregar su presupuesto a la isla de La Pacanda",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F022n1est-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 2416,
-    "titulo_original": "Reconstruyen migrantes viviendas precarias en Ceuta tras incendios   ",
-    "titulo": "Reconstruyen migrantes viviendas precarias en Ceuta tras incendios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F13%2Ffotos%2F019n2mun-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/13/mundo/019n2mun?partner=rss"
-  },
-  {
     "id": 2417,
     "titulo_original": "Repudian en 20 ciudades alemanas avance de partido ultraderechista   ",
     "titulo": "Repudian en 20 ciudades alemanas avance de partido ultraderechista",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/6491/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/20/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2514,
+    "titulo_original": "Detienen a 9 criminales en Sinaloa y desmantelan cuatro narcolaboratorios en Michoacán y Guerrero   ",
+    "titulo": "Detienen a 9 criminales en Sinaloa y desmantelan cuatro narcolaboratorios en Michoacán y Guerrero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5948/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2515,
+    "titulo_original": "Presidenta encargada de Venezuela intensifica su agenda diplomática   ",
+    "titulo": "Presidenta encargada de Venezuela intensifica su agenda diplomática",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8898/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2516,
+    "titulo_original": "Reactivan proyecto minero canadiense en Chihuahua   ",
+    "titulo": "Reactivan proyecto minero canadiense en Chihuahua",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9566/800/500",
+    "fecha": "2026-09-20",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/estados/019n1est?partner=rss"
   }
 ]
