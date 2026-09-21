@@ -1,35 +1,5 @@
 [
   {
-    "id": 2432,
-    "titulo_original": "Quieren borrar de la nube digital las lenguas indígenas, denuncia mixteco    ",
-    "titulo": "Quieren borrar de la nube digital las lenguas indígenas, denuncia mixteco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2433,
-    "titulo_original": "NAZA sigue provocando escozor en la cúpula del gobierno israelí   ",
-    "titulo": "NAZA sigue provocando escozor en la cúpula del gobierno israelí",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2434,
-    "titulo_original": "Matrícula universitaria es de 5.52 millones; debe crecer: Lomelí Vanegas    ",
-    "titulo": "Matrícula universitaria es de 5.52 millones; debe crecer: Lomelí Vanegas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 2435,
     "titulo_original": "Luis Hernández Navarro: La infinita tristeza de los padres   ",
     "titulo": "Luis Hernández Navarro: La infinita tristeza de los padres",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4938/800/500",
     "fecha": "2026-09-21",
     "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/021a2pol?partner=rss"
+  },
+  {
+    "id": 2532,
+    "titulo_original": "Grupo Firme orquestó una celebración colectiva en Valencia   ",
+    "titulo": "Grupo Firme orquestó una celebración colectiva en Valencia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/606/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2533,
+    "titulo_original": "Equipo nacional de Copa Davis avanza al grupo 1   ",
+    "titulo": "Equipo nacional de Copa Davis avanza al grupo 1",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9256/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2534,
+    "titulo_original": "PT y PVEM pelearán por coordinación en 3 de las 7 entidades faltantes   ",
+    "titulo": "PT y PVEM pelearán por coordinación en 3 de las 7 entidades faltantes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/005n2pol?partner=rss"
   }
 ]
