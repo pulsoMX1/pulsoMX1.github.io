@@ -1,35 +1,5 @@
 [
   {
-    "id": 2423,
-    "titulo_original": "Presentan documental Pretenders en Toronto   ",
-    "titulo": "Presentan documental Pretenders en Toronto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2Fa08n2esp-1.jpg",
-    "fecha": "2026-09-14",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2424,
-    "titulo_original": "“Mejorará” el Senado iniciativa presidencial sobre feminicidios   ",
-    "titulo": "“Mejorará” el Senado iniciativa presidencial sobre feminicidios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2425,
-    "titulo_original": "Fernando Buen Abad Domínguez*: Barbarie burocrática para evaluar la educación   ",
-    "titulo": "Fernando Buen Abad Domínguez*: Barbarie burocrática para evaluar la educación",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/politica/015a2pol?partner=rss"
-  },
-  {
     "id": 2426,
     "titulo_original": "Países del bloque BRICS aspiran a una gobernanza  de la IA basada en el consenso    ",
     "titulo": "Países del bloque BRICS aspiran a una gobernanza de la IA basada en el consenso",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/7381/800/500",
     "fecha": "2026-09-20",
     "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 2523,
+    "titulo_original": "José Antonio Rojas Nieto: Las controvertidas renovables: la cuarta   ",
+    "titulo": "José Antonio Rojas Nieto: Las controvertidas renovables: la cuarta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/264/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/economia/013a1eco?partner=rss"
+  },
+  {
+    "id": 2524,
+    "titulo_original": "Rolando Cordera Campos: Rumbo a la militancia del no pasa nada   ",
+    "titulo": "Rolando Cordera Campos: Rumbo a la militancia del no pasa nada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3583/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 2525,
+    "titulo_original": "Jueza de Ecuador deja en libertad a pescadores cuyas embarcaciones fueron hundidas por EU   ",
+    "titulo": "Jueza de Ecuador deja en libertad a pescadores cuyas embarcaciones fueron hundidas por EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5394/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/018n3mun?partner=rss"
   }
 ]
