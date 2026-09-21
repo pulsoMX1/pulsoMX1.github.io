@@ -1,35 +1,5 @@
 [
   {
-    "id": 2429,
-    "titulo_original": "Dron ruso impacta tren en la frontera de Ucrania y Polonia   ",
-    "titulo": "Dron ruso impacta tren en la frontera de Ucrania y Polonia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F14%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/14/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2430,
-    "titulo_original": "Editorial:     IA: regular y desarrollar      ",
-    "titulo": "Editorial: IA: regular y desarrollar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2431,
-    "titulo_original": "Kansas City gana en el   regreso de Mahomes   ",
-    "titulo": "Kansas City gana en el regreso de Mahomes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2Fa12n3dep-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2432,
     "titulo_original": "Quieren borrar de la nube digital las lenguas indígenas, denuncia mixteco    ",
     "titulo": "Quieren borrar de la nube digital las lenguas indígenas, denuncia mixteco",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/6331/800/500",
     "fecha": "2026-09-21",
     "url_origen": "https://www.jornada.com.mx/2026/09/20/mundo/017n3mun?partner=rss"
+  },
+  {
+    "id": 2529,
+    "titulo_original": "Editorial:    Brugada-Mamdani: encuentro histórico     ",
+    "titulo": "Editorial: Brugada-Mamdani: encuentro histórico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1132/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2530,
+    "titulo_original": "Bravos y Medias Rojas, a playoffs   ",
+    "titulo": "Bravos y Medias Rojas, a playoffs",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4445/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2531,
+    "titulo_original": "Iván Restrepo: Cambio climático y la sensación azarosa de inestabilidad   ",
+    "titulo": "Iván Restrepo: Cambio climático y la sensación azarosa de inestabilidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4938/800/500",
+    "fecha": "2026-09-21",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/021a2pol?partner=rss"
   }
 ]
