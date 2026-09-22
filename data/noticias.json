@@ -1,35 +1,5 @@
 [
   {
-    "id": 2444,
-    "titulo_original": "Joven con rara enfermedad  sobrevive sin su estómago; sólo puede tomar líquidos   ",
-    "titulo": "Joven con rara enfermedad sobrevive sin su estómago; sólo puede tomar líquidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F012n1pol-1.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2445,
-    "titulo_original": "Quiñones continúa inspirado; anota en victoria de Al Qadsiah  en la Champions de Asia   ",
-    "titulo": "Quiñones continúa inspirado; anota en victoria de Al Qadsiah en la Champions de Asia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/deportes/a11n3dep?partner=rss"
-  },
-  {
-    "id": 2446,
-    "titulo_original": "Excluyen a Macklemore de la gira  de Ed Sheeran por apoyar a Palestina   ",
-    "titulo": "Excluyen a Macklemore de la gira de Ed Sheeran por apoyar a Palestina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2Fa09n2esp-1.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a09n2esp?partner=rss"
-  },
-  {
     "id": 2447,
     "titulo_original": "Si informan antes, cargos adicionales por boletos son legales: Profeco   ",
     "titulo": "Si informan antes, cargos adicionales por boletos son legales: Profeco",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9352/800/500",
     "fecha": "2026-09-22",
     "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2544,
+    "titulo_original": "Irán, preparado para una guerra a largo plazo “con objetivos inéditos”   ",
+    "titulo": "Irán, preparado para una guerra a largo plazo “con objetivos inéditos”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8450/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/mundo/025n1mun?partner=rss"
+  },
+  {
+    "id": 2545,
+    "titulo_original": "Tres mujeres de diferentes épocas reunidas en la obra Insurrectas   ",
+    "titulo": "Tres mujeres de diferentes épocas reunidas en la obra Insurrectas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9650/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2546,
+    "titulo_original": "La violencia  en Sinaloa, por injerencismo: Sheinbaum   ",
+    "titulo": "La violencia en Sinaloa, por injerencismo: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5515/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/008n1pol?partner=rss"
   }
 ]
