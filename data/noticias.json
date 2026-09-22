@@ -1,35 +1,5 @@
 [
   {
-    "id": 2438,
-    "titulo_original": "Observatorio Nacional exige justicia para la  joven Claudia   Tacoronte   ",
-    "titulo": "Observatorio Nacional exige justicia para la joven Claudia Tacoronte",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/estados/026n3est?partner=rss"
-  },
-  {
-    "id": 2439,
-    "titulo_original": "Campaña de Israel para destruir la vida de los palestinos en Cisjordania   ",
-    "titulo": "Campaña de Israel para destruir la vida de los palestinos en Cisjordania",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F022n1mun-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2440,
-    "titulo_original": "Revelan reducción de 2% en la cartera vencida del Infonavit   ",
-    "titulo": "Revelan reducción de 2% en la cartera vencida del Infonavit",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F007n1pol-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2441,
     "titulo_original": "Costo de la deuda de Estados Unidos roza los niveles alcanzados en la crisis de 2008   ",
     "titulo": "Costo de la deuda de Estados Unidos roza los niveles alcanzados en la crisis de 2008",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9552/800/500",
     "fecha": "2026-09-22",
     "url_origen": "https://www.jornada.com.mx/2026/09/21/economia/025n1eco?partner=rss"
+  },
+  {
+    "id": 2538,
+    "titulo_original": "Celebra embajador de EU acciones de México contra la producción de drogas   ",
+    "titulo": "Celebra embajador de EU acciones de México contra la producción de drogas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2149/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2539,
+    "titulo_original": "Encuentran muerto a estudiante en Veracruz reportado como desaparecido   ",
+    "titulo": "Encuentran muerto a estudiante en Veracruz reportado como desaparecido",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3843/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/estados/032n4est?partner=rss"
+  },
+  {
+    "id": 2540,
+    "titulo_original": "SCJN discutirá proyecto contra hacinamiento en centros penitenciarios   ",
+    "titulo": "SCJN discutirá proyecto contra hacinamiento en centros penitenciarios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3712/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/012n1pol?partner=rss"
   }
 ]
