@@ -1,35 +1,5 @@
 [
   {
-    "id": 2435,
-    "titulo_original": "Luis Hernández Navarro: La infinita tristeza de los padres   ",
-    "titulo": "Luis Hernández Navarro: La infinita tristeza de los padres",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/015a2pol?partner=rss"
-  },
-  {
-    "id": 2436,
-    "titulo_original": "Hay una “conspiración enfermiza” contra la IA, acusa Donald Trump   ",
-    "titulo": "Hay una “conspiración enfermiza” contra la IA, acusa Donald Trump",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 2437,
-    "titulo_original": "Conmoción y repudio por asesinato  de la estudiante canaria en Cuautla   ",
-    "titulo": "Conmoción y repudio por asesinato de la estudiante canaria en Cuautla",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-09-15",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/estados/025n1est?partner=rss"
-  },
-  {
     "id": 2438,
     "titulo_original": "Observatorio Nacional exige justicia para la  joven Claudia   Tacoronte   ",
     "titulo": "Observatorio Nacional exige justicia para la joven Claudia Tacoronte",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4/800/500",
     "fecha": "2026-09-21",
     "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2535,
+    "titulo_original": "San Sebastián redescubre  la vigencia  de Los Miserables   ",
+    "titulo": "San Sebastián redescubre la vigencia de Los Miserables",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3946/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2536,
+    "titulo_original": "Prevén riesgo de exclusión en ley de economía digital    ",
+    "titulo": "Prevén riesgo de exclusión en ley de economía digital",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/584/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2537,
+    "titulo_original": "Faltan acciones de los gobiernos ante la deuda récord: FMI   ",
+    "titulo": "Faltan acciones de los gobiernos ante la deuda récord: FMI",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9552/800/500",
+    "fecha": "2026-09-22",
+    "url_origen": "https://www.jornada.com.mx/2026/09/21/economia/025n1eco?partner=rss"
   }
 ]
