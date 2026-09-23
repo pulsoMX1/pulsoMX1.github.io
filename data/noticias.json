@@ -1,35 +1,5 @@
 [
   {
-    "id": 2459,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 2460,
-    "titulo_original": "En 17 meses, 5 alumnas de la UAEM han sido víctimas de feminicidio   ",
-    "titulo": "En 17 meses, 5 alumnas de la UAEM han sido víctimas de feminicidio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 2461,
-    "titulo_original": "Los Tigres del Norte se reúnen con la Presidenta   ",
-    "titulo": "Los Tigres del Norte se reúnen con la Presidenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/espectaculos/a09n3esp?partner=rss"
-  },
-  {
     "id": 2462,
     "titulo_original": "Kast analiza indultar a criminales de la dictadura pinochetista   ",
     "titulo": "Kast analiza indultar a criminales de la dictadura pinochetista",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2187/800/500",
     "fecha": "2026-09-23",
     "url_origen": "https://www.jornada.com.mx/2026/09/22/opinion/a09o1esp?partner=rss"
+  },
+  {
+    "id": 2559,
+    "titulo_original": "Editorial: Trump y el epicentro del narco   ",
+    "titulo": "Editorial: Trump y el epicentro del narco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/298/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2560,
+    "titulo_original": "Las artes marciales mixtas, de la prohibición  al sueño olímpico     ",
+    "titulo": "Las artes marciales mixtas, de la prohibición al sueño olímpico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8882/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2561,
+    "titulo_original": "Confía Higinio Martínez en que aliados de la 4T se mantendrán vinculados   ",
+    "titulo": "Confía Higinio Martínez en que aliados de la 4T se mantendrán vinculados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4053/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/005n2pol?partner=rss"
   }
 ]
