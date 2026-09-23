@@ -1,35 +1,5 @@
 [
   {
-    "id": 2462,
-    "titulo_original": "Kast analiza indultar a criminales de la dictadura pinochetista   ",
-    "titulo": "Kast analiza indultar a criminales de la dictadura pinochetista",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/023n3mun?partner=rss"
-  },
-  {
-    "id": 2463,
-    "titulo_original": "Editorial: Ecuador: entreguismo criminal ",
-    "titulo": "Editorial: Ecuador: entreguismo criminal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2464,
-    "titulo_original": "Selección de softbol buscará en Australia boleto a LA   ",
-    "titulo": "Selección de softbol buscará en Australia boleto a LA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2465,
     "titulo_original": "Ceniza en la boca, en el Festival de Cine de Toronto   ",
     "titulo": "Ceniza en la boca, en el Festival de Cine de Toronto",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4053/800/500",
     "fecha": "2026-09-23",
     "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2562,
+    "titulo_original": "Festeja Muguruza 40 años de resistencia   ",
+    "titulo": "Festeja Muguruza 40 años de resistencia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7503/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2563,
+    "titulo_original": "A un año del asesinato, la seguridad en el CCH Sur se ha relajado: alumnos   ",
+    "titulo": "A un año del asesinato, la seguridad en el CCH Sur se ha relajado: alumnos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5545/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2564,
+    "titulo_original": "Víctor M. Quintana S.: FAISPIAM: el desafío de la autonomía y la gobernanza    ",
+    "titulo": "Víctor M. Quintana S.: FAISPIAM: el desafío de la autonomía y la gobernanza",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6898/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/015a2pol?partner=rss"
   }
 ]
