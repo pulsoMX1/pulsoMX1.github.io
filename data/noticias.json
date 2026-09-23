@@ -1,35 +1,5 @@
 [
   {
-    "id": 2453,
-    "titulo_original": "Avala Senado ingreso de  139 soldados de EU con armas   ",
-    "titulo": "Avala Senado ingreso de 139 soldados de EU con armas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 2454,
-    "titulo_original": "Sindicato de futbolistas exige una revisión de la gobernanza de FIFA   ",
-    "titulo": "Sindicato de futbolistas exige una revisión de la gobernanza de FIFA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F15%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 2455,
-    "titulo_original": "Precio del petróleo, sin freno: rebasa 105 dólares por barril   ",
-    "titulo": "Precio del petróleo, sin freno: rebasa 105 dólares por barril",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/021n2mun?partner=rss"
-  },
-  {
     "id": 2456,
     "titulo_original": "Continúa la caída de los intereses que la banca paga a ahorradores   ",
     "titulo": "Continúa la caída de los intereses que la banca paga a ahorradores",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/5801/800/500",
     "fecha": "2026-09-22",
     "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2553,
+    "titulo_original": "Arremete Hacienda contra Guillermo Ortiz: “con él aumentó la pobreza”   ",
+    "titulo": "Arremete Hacienda contra Guillermo Ortiz: “con él aumentó la pobreza”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4325/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/economia/021n1eco?partner=rss"
+  },
+  {
+    "id": 2554,
+    "titulo_original": "México aceptó muchos cambios, afirma Greer   ",
+    "titulo": "México aceptó muchos cambios, afirma Greer",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/380/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2555,
+    "titulo_original": "Develan placa por aniversario de la UNAM   ",
+    "titulo": "Develan placa por aniversario de la UNAM",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9672/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/010n2pol?partner=rss"
   }
 ]
