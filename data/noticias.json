@@ -1,35 +1,5 @@
 [
   {
-    "id": 2456,
-    "titulo_original": "Continúa la caída de los intereses que la banca paga a ahorradores   ",
-    "titulo": "Continúa la caída de los intereses que la banca paga a ahorradores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-16",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 2457,
-    "titulo_original": "Ruso pagó festejo de Trump hijo   ",
-    "titulo": "Ruso pagó festejo de Trump hijo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/mundo/024n2mun?partner=rss"
-  },
-  {
-    "id": 2458,
-    "titulo_original": "Canadá va por “alianza única” con la UE, aclara Mark Carney   ",
-    "titulo": "Canadá va por “alianza única” con la UE, aclara Mark Carney",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/15/economia/019n3eco?partner=rss"
-  },
-  {
     "id": 2459,
     "titulo_original": "Julio Hernández López: Astillero   ",
     "titulo": "Julio Hernández López: Astillero",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9672/800/500",
     "fecha": "2026-09-23",
     "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2556,
+    "titulo_original": "Dan más de 280 años de cárcel a secuestradores del hijo de Javier Sicilia   ",
+    "titulo": "Dan más de 280 años de cárcel a secuestradores del hijo de Javier Sicilia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3701/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2557,
+    "titulo_original": "Alan Cervantes causa baja del Tricolor    ",
+    "titulo": "Alan Cervantes causa baja del Tricolor",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6081/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2558,
+    "titulo_original": "Leonardo García Tsao: 74 Festival de San Sebastián   ",
+    "titulo": "Leonardo García Tsao: 74 Festival de San Sebastián",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2187/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/22/opinion/a09o1esp?partner=rss"
   }
 ]
