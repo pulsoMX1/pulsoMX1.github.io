@@ -1,35 +1,5 @@
 [
   {
-    "id": 2465,
-    "titulo_original": "Ceniza en la boca, en el Festival de Cine de Toronto   ",
-    "titulo": "Ceniza en la boca, en el Festival de Cine de Toronto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2Fa08n3esp-1.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n3esp?partner=rss"
-  },
-  {
-    "id": 2466,
-    "titulo_original": "Ejército y Semar muestran al pueblo y a la Presidenta su nueva tecnología   ",
-    "titulo": "Ejército y Semar muestran al pueblo y a la Presidenta su nueva tecnología",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2467,
-    "titulo_original": "ONU: se reaviva el temor por crímenes de guerra en Gaza   ",
-    "titulo": "ONU: se reaviva el temor por crímenes de guerra en Gaza",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F025n1mun-1.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/mundo/025n1mun?partner=rss"
-  },
-  {
     "id": 2468,
     "titulo_original": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí   ",
     "titulo": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/6898/800/500",
     "fecha": "2026-09-23",
     "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2565,
+    "titulo_original": "Saltos mortales y movimientos de Kung Fu de robots chinos en America’s Got Talent    ",
+    "titulo": "Saltos mortales y movimientos de Kung Fu de robots chinos en America’s Got Talent",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4574/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2566,
+    "titulo_original": "Padres de bebés fallecidos en hospital de Durango llevarán caso ante la FGR   ",
+    "titulo": "Padres de bebés fallecidos en hospital de Durango llevarán caso ante la FGR",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5637/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2567,
+    "titulo_original": "Sheinbaum pide atender avisos de Protección Civil referentes al fenómeno    ",
+    "titulo": "Sheinbaum pide atender avisos de Protección Civil referentes al fenómeno",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3608/800/500",
+    "fecha": "2026-09-23",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/estados/026n3est?partner=rss"
   }
 ]
