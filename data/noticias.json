@@ -1,35 +1,5 @@
 [
   {
-    "id": 2468,
-    "titulo_original": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí   ",
-    "titulo": "Tras polémica del documental NAZA, anuncian iniciativas para castigar “difamaciones” contra el ejército isrealí",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2469,
-    "titulo_original": "Irán ilumina con los colores de México su icónica Torre Azadi   ",
-    "titulo": "Irán ilumina con los colores de México su icónica Torre Azadi",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2470,
-    "titulo_original": "STPS exigirá certificado laboral a exportadores de aguacate   ",
-    "titulo": "STPS exigirá certificado laboral a exportadores de aguacate",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/economia/021n3eco?partner=rss"
-  },
-  {
     "id": 2471,
     "titulo_original": "El ser humano está “perdiendo el control” de esta tecnología, señala informático   ",
     "titulo": "El ser humano está “perdiendo el control” de esta tecnología, señala informático",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/3608/800/500",
     "fecha": "2026-09-23",
     "url_origen": "https://www.jornada.com.mx/2026/09/23/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2568,
+    "titulo_original": "Emiten gobiernos derechistas de AL plan antinarco a petición de Trump   ",
+    "titulo": "Emiten gobiernos derechistas de AL plan antinarco a petición de Trump",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8669/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2569,
+    "titulo_original": "Avalan diputados reforma contra doble nacionalidad entre rechazo de opositores   ",
+    "titulo": "Avalan diputados reforma contra doble nacionalidad entre rechazo de opositores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6906/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2570,
+    "titulo_original": "Analizan canciller Jorge Velasco y su par de Perú planes para reabrir embajadas   ",
+    "titulo": "Analizan canciller Jorge Velasco y su par de Perú planes para reabrir embajadas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1550/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/014n1pol?partner=rss"
   }
 ]
