@@ -1,35 +1,5 @@
 [
   {
-    "id": 2477,
-    "titulo_original": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas   ",
-    "titulo": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/012n1pol?partner=rss"
-  },
-  {
-    "id": 2478,
-    "titulo_original": "Editorial: EU: provocación y deterioro",
-    "titulo": "Editorial: EU: provocación y deterioro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2479,
-    "titulo_original": "Quinto título divisional para Los Dodgers   ",
-    "titulo": "Quinto título divisional para Los Dodgers",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F18%2Ffotos%2Fa12n3dep-1.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/deportes/a12n3dep?partner=rss"
-  },
-  {
     "id": 2480,
     "titulo_original": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta   ",
     "titulo": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/5963/800/500",
     "fecha": "2026-09-24",
     "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2577,
+    "titulo_original": "Jesús Vargas V.*: Leonel Durán con los estudiantes del Politécnico   ",
+    "titulo": "Jesús Vargas V.*: Leonel Durán con los estudiantes del Politécnico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6868/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2578,
+    "titulo_original": "Líderes tecnológicos apremian a la ONU a tener “extremo cuidado” con la IA   ",
+    "titulo": "Líderes tecnológicos apremian a la ONU a tener “extremo cuidado” con la IA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/840/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2579,
+    "titulo_original": "Ordena la SCJN reducir la sobrepoblación en el penal Neza-Bordo   ",
+    "titulo": "Ordena la SCJN reducir la sobrepoblación en el penal Neza-Bordo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2479/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/estados/025n1est?partner=rss"
   }
 ]
