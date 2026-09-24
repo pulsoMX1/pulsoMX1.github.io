@@ -1,35 +1,5 @@
 [
   {
-    "id": 2471,
-    "titulo_original": "El ser humano está “perdiendo el control” de esta tecnología, señala informático   ",
-    "titulo": "El ser humano está “perdiendo el control” de esta tecnología, señala informático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2Fa06n2cie-1.jpg",
-    "fecha": "2026-09-17",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 2472,
-    "titulo_original": "Garantiza Centro Regulador de Urgencias Médicas atención prehospitalaria oportuna: Nadine Gasman   ",
-    "titulo": "Garantiza Centro Regulador de Urgencias Médicas atención prehospitalaria oportuna: Nadine Gasman",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/capital/033n2cap?partner=rss"
-  },
-  {
-    "id": 2473,
-    "titulo_original": "Matan sicarios a dos mujeres jóvenes cuando abandonaban festejo patrio   ",
-    "titulo": "Matan sicarios a dos mujeres jóvenes cuando abandonaban festejo patrio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/capital/033n1cap?partner=rss"
-  },
-  {
     "id": 2474,
     "titulo_original": "Comparecencias sobre seguridad no llegarán al pleno en San Lázaro   ",
     "titulo": "Comparecencias sobre seguridad no llegarán al pleno en San Lázaro",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/1550/800/500",
     "fecha": "2026-09-24",
     "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/014n1pol?partner=rss"
+  },
+  {
+    "id": 2571,
+    "titulo_original": "Encuesta Citi mejora el pronóstico para México   ",
+    "titulo": "Encuesta Citi mejora el pronóstico para México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5538/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2572,
+    "titulo_original": "Doce años sin justicia para los 43 de Ayotzinapa   ",
+    "titulo": "Doce años sin justicia para los 43 de Ayotzinapa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9324/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2573,
+    "titulo_original": "El magnate miente al justificar en la ONU el bloqueo genocida: Cuba   ",
+    "titulo": "El magnate miente al justificar en la ONU el bloqueo genocida: Cuba",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8417/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/23/mundo/022n2mun?partner=rss"
   }
 ]
