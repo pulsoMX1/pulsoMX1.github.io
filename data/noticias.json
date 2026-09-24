@@ -1,35 +1,5 @@
 [
   {
-    "id": 2474,
-    "titulo_original": "Comparecencias sobre seguridad no llegarán al pleno en San Lázaro   ",
-    "titulo": "Comparecencias sobre seguridad no llegarán al pleno en San Lázaro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F014n1pol-1.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/014n1pol?partner=rss"
-  },
-  {
-    "id": 2475,
-    "titulo_original": "Propone Comisión Europea que Canadá sea el primer miembro asociado de la UE   ",
-    "titulo": "Propone Comisión Europea que Canadá sea el primer miembro asociado de la UE",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F17%2Ffotos%2F021n1eco-1.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/economia/021n1eco?partner=rss"
-  },
-  {
-    "id": 2476,
-    "titulo_original": "Cae funcionario por homicidio de soldado de GN en Guerrero   ",
-    "titulo": "Cae funcionario por homicidio de soldado de GN en Guerrero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/17/politica/010n2pol?partner=rss"
-  },
-  {
     "id": 2477,
     "titulo_original": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas   ",
     "titulo": "Pugna en Morena tras designación de Verónica Díaz para Zacatecas",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/8417/800/500",
     "fecha": "2026-09-24",
     "url_origen": "https://www.jornada.com.mx/2026/09/23/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2574,
+    "titulo_original": "Editorial: La ineludible caída de la fecundidad ",
+    "titulo": "Editorial: La ineludible caída de la fecundidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3166/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2575,
+    "titulo_original": "Amplían comparecencias en pleno de San Lázaro ante presión del PAN   ",
+    "titulo": "Amplían comparecencias en pleno de San Lázaro ante presión del PAN",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3274/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2576,
+    "titulo_original": "Tribunal Electoral rechaza filtro del INE para observadores en los comicios de 2027   ",
+    "titulo": "Tribunal Electoral rechaza filtro del INE para observadores en los comicios de 2027",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5963/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/008n1pol?partner=rss"
   }
 ]
