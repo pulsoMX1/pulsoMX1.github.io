@@ -1,35 +1,5 @@
 [
   {
-    "id": 2480,
-    "titulo_original": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta   ",
-    "titulo": "Recicla gran parte de su ropa y le pone detalles indígenas, dice la Presidenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2481,
-    "titulo_original": "Cuba exhibirá el documental Imparables producida por la OEI   ",
-    "titulo": "Cuba exhibirá el documental Imparables producida por la OEI",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/espectaculos/a08n2esp?partner=rss"
-  },
-  {
-    "id": 2482,
-    "titulo_original": "Son niños y adolescentes casi 13% de los migrantes en el mundo, señala OEA   ",
-    "titulo": "Son niños y adolescentes casi 13% de los migrantes en el mundo, señala OEA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/008n1pol?partner=rss"
-  },
-  {
     "id": 2483,
     "titulo_original": "Pedro Miguel: El declive del Águila   ",
     "titulo": "Pedro Miguel: El declive del Águila",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2479/800/500",
     "fecha": "2026-09-24",
     "url_origen": "https://www.jornada.com.mx/2026/09/24/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2580,
+    "titulo_original": "El gobernador Durazo cumple compromiso; arranca construcción de hospital de Etchojoa   ",
+    "titulo": "El gobernador Durazo cumple compromiso; arranca construcción de hospital de Etchojoa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/3928/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2581,
+    "titulo_original": "Llega presidente de China a EU con la oferta de ser socios y no rivales   ",
+    "titulo": "Llega presidente de China a EU con la oferta de ser socios y no rivales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9342/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2582,
+    "titulo_original": "En el PT se ahondan las diferencias sobre su eventual ruptura con la 4T    ",
+    "titulo": "En el PT se ahondan las diferencias sobre su eventual ruptura con la 4T",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9401/800/500",
+    "fecha": "2026-09-24",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/007n1pol?partner=rss"
   }
 ]
