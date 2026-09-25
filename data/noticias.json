@@ -1,35 +1,5 @@
 [
   {
-    "id": 2495,
-    "titulo_original": "Presentan documental sobre la lucha por los desaparecidos   ",
-    "titulo": "Presentan documental sobre la lucha por los desaparecidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/873/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/008n1pol?partner=rss"
-  },
-  {
-    "id": 2496,
-    "titulo_original": "Mateo Chávez hace el mejor gol del mes     ",
-    "titulo": "Mateo Chávez hace el mejor gol del mes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/439/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a10n5dep?partner=rss"
-  },
-  {
-    "id": 2497,
-    "titulo_original": "Por diabetes e hipertensión, la mayoría de muertes en el país   ",
-    "titulo": "Por diabetes e hipertensión, la mayoría de muertes en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/7685/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/007n1pol?partner=rss"
-  },
-  {
     "id": 2498,
     "titulo_original": "Agradece España “la rapidez”   ",
     "titulo": "Agradece España “la rapidez”",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4609/800/500",
     "fecha": "2026-09-25",
     "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 2595,
+    "titulo_original": "La IA se necesita al servicio de la humanidad, no controlándola, dice presidente del Consejo Europeo   ",
+    "titulo": "La IA se necesita al servicio de la humanidad, no controlándola, dice presidente del Consejo Europeo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9177/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 2596,
+    "titulo_original": "Saturados,  16 de los 21 penales del Edomex   ",
+    "titulo": "Saturados, 16 de los 21 penales del Edomex",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5823/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2597,
+    "titulo_original": "Reportan 22 crímenes en el Edomex en 72 horas   ",
+    "titulo": "Reportan 22 crímenes en el Edomex en 72 horas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4400/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/estados/026n3est?partner=rss"
   }
 ]
