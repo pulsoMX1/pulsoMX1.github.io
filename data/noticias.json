@@ -1,35 +1,5 @@
 [
   {
-    "id": 2489,
-    "titulo_original": "Propone Concanaco coordinación nacional para atacar al sargazo   ",
-    "titulo": "Propone Concanaco coordinación nacional para atacar al sargazo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/2304/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/economia/019n2eco?partner=rss"
-  },
-  {
-    "id": 2490,
-    "titulo_original": "Editorial: Celulares: regular con sensibilidad",
-    "titulo": "Editorial: Celulares: regular con sensibilidad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/2957/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2491,
-    "titulo_original": "El Valencia apunta a Javier El Vasco Aguirre para evitar el descenso    ",
-    "titulo": "El Valencia apunta a Javier El Vasco Aguirre para evitar el descenso",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/7254/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a09n2dep?partner=rss"
-  },
-  {
     "id": 2492,
     "titulo_original": "Carlos Fernández-Vega: México SA   ",
     "titulo": "Carlos Fernández-Vega: México SA",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4453/800/500",
     "fecha": "2026-09-25",
     "url_origen": "https://www.jornada.com.mx/2026/09/24/sociedad/031n3soc?partner=rss"
+  },
+  {
+    "id": 2589,
+    "titulo_original": "Editorial:    EU: cambio de ánimo social     ",
+    "titulo": "Editorial: EU: cambio de ánimo social",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7822/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2590,
+    "titulo_original": "Russell domina  los ensayos del GP de Azerbaiyán   ",
+    "titulo": "Russell domina los ensayos del GP de Azerbaiyán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/9464/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 2591,
+    "titulo_original": "Aprueba el INE 384 nombramientos de consejeros electorales estatales   ",
+    "titulo": "Aprueba el INE 384 nombramientos de consejeros electorales estatales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8423/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/005n2pol?partner=rss"
   }
 ]
