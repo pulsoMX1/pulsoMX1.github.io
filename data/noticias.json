@@ -1,35 +1,5 @@
 [
   {
-    "id": 2486,
-    "titulo_original": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin   ",
-    "titulo": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2487,
-    "titulo_original": "Ordena juez desalojar a garífunas en Honduras para filmar reality   ",
-    "titulo": "Ordena juez desalojar a garífunas en Honduras para filmar reality",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/4278/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2488,
-    "titulo_original": "AL, la región más letal para defensores de tierras y ambientalistas    ",
-    "titulo": "AL, la región más letal para defensores de tierras y ambientalistas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/8033/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/014n1pol?partner=rss"
-  },
-  {
     "id": 2489,
     "titulo_original": "Propone Concanaco coordinación nacional para atacar al sargazo   ",
     "titulo": "Propone Concanaco coordinación nacional para atacar al sargazo",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/2515/800/500",
     "fecha": "2026-09-25",
     "url_origen": "https://www.jornada.com.mx/2026/09/24/economia/016n1eco?partner=rss"
+  },
+  {
+    "id": 2586,
+    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
+    "titulo": "Enrique Galván Ochoa: Dinero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4656/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/opinion/006o1eco?partner=rss"
+  },
+  {
+    "id": 2587,
+    "titulo_original": "Bernal se estrena de romperredes   ",
+    "titulo": "Bernal se estrena de romperredes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6880/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2588,
+    "titulo_original": "Cae jefe regional del cártel de Tepalcatepec   ",
+    "titulo": "Cae jefe regional del cártel de Tepalcatepec",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4453/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/sociedad/031n3soc?partner=rss"
   }
 ]
