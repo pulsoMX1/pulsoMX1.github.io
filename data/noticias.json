@@ -1,35 +1,5 @@
 [
   {
-    "id": 2492,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/6192/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/opinion/016o1eco?partner=rss"
-  },
-  {
-    "id": 2493,
-    "titulo_original": "Se sienten seguros fuera de los planteles de CCH 78% de los estudiantes    ",
-    "titulo": "Se sienten seguros fuera de los planteles de CCH 78% de los estudiantes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/3551/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2494,
-    "titulo_original": "Protegerá Francia su infraestructura por “posibles ataques” de Moscú   ",
-    "titulo": "Protegerá Francia su infraestructura por “posibles ataques” de Moscú",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/7122/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n2mun?partner=rss"
-  },
-  {
     "id": 2495,
     "titulo_original": "Presentan documental sobre la lucha por los desaparecidos   ",
     "titulo": "Presentan documental sobre la lucha por los desaparecidos",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/8423/800/500",
     "fecha": "2026-09-25",
     "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2592,
+    "titulo_original": "Luego de presentarse en Venecia y Toronto, Hombre al agua desata euforia en México   ",
+    "titulo": "Luego de presentarse en Venecia y Toronto, Hombre al agua desata euforia en México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/78/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2593,
+    "titulo_original": "Aún no puede descartarse que sea huachicol: Sheinbaum   ",
+    "titulo": "Aún no puede descartarse que sea huachicol: Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/742/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2594,
+    "titulo_original": "Pedro Miguel: El compañero Trump   ",
+    "titulo": "Pedro Miguel: El compañero Trump",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4609/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/015a2pol?partner=rss"
   }
 ]
