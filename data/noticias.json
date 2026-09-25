@@ -1,35 +1,5 @@
 [
   {
-    "id": 2483,
-    "titulo_original": "Pedro Miguel: El declive del Águila   ",
-    "titulo": "Pedro Miguel: El declive del Águila",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/politica/015a2pol?partner=rss"
-  },
-  {
-    "id": 2484,
-    "titulo_original": "Cae en Cuautla El Trompas, presunto feminicida de estudiante española    ",
-    "titulo": "Cae en Cuautla El Trompas, presunto feminicida de estudiante española",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F09%2F18%2Ffotos%2F025n1est-1.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2485,
-    "titulo_original": "Hallan muerta a alumna de medicina reportada como desaparecida en Jalisco    ",
-    "titulo": "Hallan muerta a alumna de medicina reportada como desaparecida en Jalisco",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-09-18",
-    "url_origen": "https://www.jornada.com.mx/2026/09/18/estados/026n3est?partner=rss"
-  },
-  {
     "id": 2486,
     "titulo_original": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin   ",
     "titulo": "Sanciones de EU a países que importen petróleo ruso, una “medida hostil”: Kremlin",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/9401/800/500",
     "fecha": "2026-09-24",
     "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2583,
+    "titulo_original": "Aumentan 123% los matrimonios forzados o tempranos en Gaza por la guerra de Israel    ",
+    "titulo": "Aumentan 123% los matrimonios forzados o tempranos en Gaza por la guerra de Israel",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1009/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2584,
+    "titulo_original": "Verá la Corte negativa de pasaporte a trans por tener dos actas   ",
+    "titulo": "Verá la Corte negativa de pasaporte a trans por tener dos actas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1289/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 2585,
+    "titulo_original": "Desde abril han sido separados de aduanas mil 400 funcionarios   ",
+    "titulo": "Desde abril han sido separados de aduanas mil 400 funcionarios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/2515/800/500",
+    "fecha": "2026-09-25",
+    "url_origen": "https://www.jornada.com.mx/2026/09/24/economia/016n1eco?partner=rss"
   }
 ]
