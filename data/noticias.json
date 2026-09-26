@@ -1,35 +1,5 @@
 [
   {
-    "id": 2504,
-    "titulo_original": "Empresarios afines a Trump exploran el terreno en Cuba    ",
-    "titulo": "Empresarios afines a Trump exploran el terreno en Cuba",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/9169/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/020n1mun?partner=rss"
-  },
-  {
-    "id": 2505,
-    "titulo_original": "La Fed golpea al peso y lleva a la bolsa a su mínimo  en lo que va del año   ",
-    "titulo": "La Fed golpea al peso y lleva a la bolsa a su mínimo en lo que va del año",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/3376/800/500",
-    "fecha": "2026-09-20",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 2506,
-    "titulo_original": "Inicia elección legislativa de 3 días en Rusia sin partidos opositores   ",
-    "titulo": "Inicia elección legislativa de 3 días en Rusia sin partidos opositores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/1794/800/500",
-    "fecha": "2026-09-20",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/018n1mun?partner=rss"
-  },
-  {
     "id": 2507,
     "titulo_original": "Fabrizio Mejía Madrid: Metáforas sociales   ",
     "titulo": "Fabrizio Mejía Madrid: Metáforas sociales",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4893/800/500",
     "fecha": "2026-09-26",
     "url_origen": "https://www.jornada.com.mx/2026/09/26/opinion/016o1eco?partner=rss"
+  },
+  {
+    "id": 2604,
+    "titulo_original": "Programas sociales benefician a más de 1.6 millones en Guerrero: Presidenta   ",
+    "titulo": "Programas sociales benefician a más de 1.6 millones en Guerrero: Presidenta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5012/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2605,
+    "titulo_original": "Rechaza Trump cesar hostilidades con Irán   ",
+    "titulo": "Rechaza Trump cesar hostilidades con Irán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/6152/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/mundo/018n2mun?partner=rss"
+  },
+  {
+    "id": 2606,
+    "titulo_original": "Se presentará el lunes nuevo informe sobre el caso Ayotzinapa   ",
+    "titulo": "Se presentará el lunes nuevo informe sobre el caso Ayotzinapa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1925/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/politica/008n1pol?partner=rss"
   }
 ]
