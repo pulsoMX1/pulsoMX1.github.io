@@ -1,35 +1,5 @@
 [
   {
-    "id": 2498,
-    "titulo_original": "Agradece España “la rapidez”   ",
-    "titulo": "Agradece España “la rapidez”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/3414/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/estados/021n2est?partner=rss"
-  },
-  {
-    "id": 2499,
-    "titulo_original": "Comienza un ciclo global de alzas de tasas    ",
-    "titulo": "Comienza un ciclo global de alzas de tasas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/1611/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/economia/016n1eco?partner=rss"
-  },
-  {
-    "id": 2500,
-    "titulo_original": "Defenderá el cinturón CMB como lo que es    ",
-    "titulo": "Defenderá el cinturón CMB como lo que es",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/1739/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/deportes/a11n3dep?partner=rss"
-  },
-  {
     "id": 2501,
     "titulo_original": "Shakira se erige en la reina absoluta del pop en España   ",
     "titulo": "Shakira se erige en la reina absoluta del pop en España",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/4400/800/500",
     "fecha": "2026-09-25",
     "url_origen": "https://www.jornada.com.mx/2026/09/25/estados/026n3est?partner=rss"
+  },
+  {
+    "id": 2598,
+    "titulo_original": "Reconstruir Gaza tras los ataques israelíes requiere 71 mil 500 mdd   ",
+    "titulo": "Reconstruir Gaza tras los ataques israelíes requiere 71 mil 500 mdd",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8134/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2599,
+    "titulo_original": "El gabinete no busca comparecencias “a modo”, sino respetuosas: Morena   ",
+    "titulo": "El gabinete no busca comparecencias “a modo”, sino respetuosas: Morena",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7988/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2600,
+    "titulo_original": "Industria insta a Trump a rechazar la prohibición de las exportaciones   ",
+    "titulo": "Industria insta a Trump a rechazar la prohibición de las exportaciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7243/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/25/economia/019n2eco?partner=rss"
   }
 ]
