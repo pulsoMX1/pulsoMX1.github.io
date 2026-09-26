@@ -1,35 +1,5 @@
 [
   {
-    "id": 2501,
-    "titulo_original": "Shakira se erige en la reina absoluta del pop en España   ",
-    "titulo": "Shakira se erige en la reina absoluta del pop en España",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/2054/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 2502,
-    "titulo_original": "La música acuática de David Lang   ",
-    "titulo": "La música acuática de David Lang",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/8084/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/cultura/a12n1dis?partner=rss"
-  },
-  {
-    "id": 2503,
-    "titulo_original": "Caen tres de la Unión en el cateo de 2 inmuebles    ",
-    "titulo": "Caen tres de la Unión en el cateo de 2 inmuebles",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/166/800/500",
-    "fecha": "2026-09-19",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/capital/026n3cap?partner=rss"
-  },
-  {
     "id": 2504,
     "titulo_original": "Empresarios afines a Trump exploran el terreno en Cuba    ",
     "titulo": "Empresarios afines a Trump exploran el terreno en Cuba",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/7243/800/500",
     "fecha": "2026-09-26",
     "url_origen": "https://www.jornada.com.mx/2026/09/25/economia/019n2eco?partner=rss"
+  },
+  {
+    "id": 2601,
+    "titulo_original": "Editorial: Meta y la regulación de la IA",
+    "titulo": "Editorial: Meta y la regulación de la IA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/7522/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2602,
+    "titulo_original": "Ligas de Europa, por  reformar  el gobierno de la FIFA   ",
+    "titulo": "Ligas de Europa, por reformar el gobierno de la FIFA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/1200/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2603,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4893/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/opinion/016o1eco?partner=rss"
   }
 ]
