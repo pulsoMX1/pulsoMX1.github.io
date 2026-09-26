@@ -1,35 +1,5 @@
 [
   {
-    "id": 2507,
-    "titulo_original": "Fabrizio Mejía Madrid: Metáforas sociales   ",
-    "titulo": "Fabrizio Mejía Madrid: Metáforas sociales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/2728/800/500",
-    "fecha": "2026-09-20",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2508,
-    "titulo_original": "Grupos delictivos se vinculan con sectores de la Montaña: Sheinbaum   ",
-    "titulo": "Grupos delictivos se vinculan con sectores de la Montaña: Sheinbaum",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/8219/800/500",
-    "fecha": "2026-09-20",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/estados/022n1est?partner=rss"
-  },
-  {
-    "id": 2509,
-    "titulo_original": "Luchan miles de migrantes por conseguir un lugar en el nuevo albergue de Ceuta   ",
-    "titulo": "Luchan miles de migrantes por conseguir un lugar en el nuevo albergue de Ceuta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://picsum.photos/seed/1830/800/500",
-    "fecha": "2026-09-20",
-    "url_origen": "https://www.jornada.com.mx/2026/09/19/mundo/019n2mun?partner=rss"
-  },
-  {
     "id": 2510,
     "titulo_original": "Mediación de China ante Irán genera  baja en valor del petróleo   ",
     "titulo": "Mediación de China ante Irán genera baja en valor del petróleo",
@@ -998,5 +968,35 @@
     "imagen": "https://picsum.photos/seed/1925/800/500",
     "fecha": "2026-09-26",
     "url_origen": "https://www.jornada.com.mx/2026/09/26/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2607,
+    "titulo_original": "Huracán Polo se intensifica nuevamente a categoría 5   ",
+    "titulo": "Huracán Polo se intensifica nuevamente a categoría 5",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/5996/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 2608,
+    "titulo_original": "Aplazan venta de AHMSA ante falta de “garantía de seriedad” de los postores   ",
+    "titulo": "Aplazan venta de AHMSA ante falta de “garantía de seriedad” de los postores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/8226/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2609,
+    "titulo_original": "Una noche de gritos y frenesí por concierto de Stray Kids en el GNP   ",
+    "titulo": "Una noche de gritos y frenesí por concierto de Stray Kids en el GNP",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://picsum.photos/seed/4001/800/500",
+    "fecha": "2026-09-26",
+    "url_origen": "https://www.jornada.com.mx/2026/09/26/espectaculos/a27n1esp?partner=rss"
   }
 ]
